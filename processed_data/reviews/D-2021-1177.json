@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1177",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Assembly and diversity of long-range inhibitory circuits in the brain",
+  "InitialFeedbackHistory": "05/07/2022 4. [REDACTED] [REDACTED] don't have to describe manuscripts in a DMP. A collection of metadata standards that may be handy for your work are the MIBBI: https://fairsharing.org/3518, for example MINSEQE or MIFlowCyt. [REDACTED] microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2). [REDACTED] may also find the arrive guidelines for reporting of animal experiments useful, journals often ask to follow these: https://arriveguidelines.org/. [REDACTED] in sharing you mention DNAtraffic, does this platform add metadata?",
+  "label": "good with suggestions"
+}

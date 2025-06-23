@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1555",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Cascaded extraction of antibacterial components from brown seaweeds (EXACT)",
+  "InitialFeedbackHistory": "07/07/2022\r\n2. Data description\nIt might be useful to make the list of datasets more granular. For example you bundle all numerical data into a single entry. It makes more sense to list them separately by experiment or type of data: extraction . data, chemical composition, gene expressions etc. (like you did for documentation). That way the DMP becomes a tool to keep track of the different data files you will create.\n7. Data sharing\nDo you know which data repository you might use? KU Leuven has RDR: https://www.kuleuven.be/rdm/en/rdr/rdr",
+  "label": "good with suggestions"
+}

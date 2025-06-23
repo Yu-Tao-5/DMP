@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1456",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Targeting metabolism to modulate T cell effector function in metastatic melanoma",
+  "InitialFeedbackHistory": "19/07/2022\r\nHave you already considered which repositories to use for data sharing already? EMBL-EBI (https://www.ebi.ac.uk/submission/) or flowrepository (https://isac-net.org/page/FlowRepository) for example? Reading the submission guidelines of candidate repositories may help you to decide which metadata to collect along with your experiments, FlowRepository uses the MIFlowCyt standard for example. Also good to have a look at the arrive guidelines for reporting of animal experiments already: https://arriveguidelines.org/, journals may ask you to follow these. For data for which there is no disciplinary repository you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr).",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3205",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "New Perspectives on Medieval and Renaissance Courtly Song",
+  "InitialFeedbackHistory": "13/03/2025 [REDACTED] case this isn't already planned: [REDACTED] strongly recommend connecting the [REDACTED] account with a data repository (like [REDACTED] or KU [REDACTED] RDR) so that code on GitHub can be archived securely and receive a DOI for citation purposes. [REDACTED] https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content for [REDACTED] and https://www.kuleuven.be/rdm/en/rdr/integration-dashboard for an explanation of RDR’s integration dashboard. [REDACTED] authors affiliated with KU [REDACTED] [REDACTED] about any datasets shared/archived on the institutional data repository RDR (https://rdr.kuleuven.be/) will be automatically added to [REDACTED] [REDACTED] sharing/archiving data using data repositories other than RDR, such as [REDACTED] GitHub, and/or DANS, don't forget to add the metadata about the datasets to [REDACTED] (more information: https://www.kuleuven.be/rdm/en/faq/faq-rdr#Should%20I%20report%20my%20dataset%20in%20Lirias?).",
+  "label": "good with suggestions"
+}

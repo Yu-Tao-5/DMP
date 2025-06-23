@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1207",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Epigenetic regulation of transcriptional heterogeneity controls cancer therapy resistance acquisition.",
+  "InitialFeedbackHistory": "26/07/2022 3. [REDACTED] and [REDACTED] issues: [REDACTED] you will work with patient data and human bodily material please also submit an application for ethical and privacy approval to the UZL ethics committee, for more information see: www.kuleuven.be/english/research/associatienet/ethics/index 4. [REDACTED] and metadata: [REDACTED] write under sharing that you will use arrayexpress, here metadata will also be added which is based on the MINSEQE standard, reading the submission guidelines already can help you to decide which metadata to collect along with your experiments. [REDACTED] microscopy OME is widely used (https://fairsharing.org/FAIRsharing.cq8tg2) and many journals ask to follow the arrive guidelines for reporting of animal experiments https://arriveguidelines.org/. [REDACTED] you can find good guidelines for standard naming convention here: www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions. 5, 6. [REDACTED] and preservation: it is recommended not to use [REDACTED] or external disks for research data. [REDACTED] https://icts.kuleuven.be/storagewijzer/nl for alternatives. [REDACTED] file sharing recommendations see https://admin.kuleuven.be/icts/english/e-mune/file-sharing",
+  "label": "good with suggestions"
+}

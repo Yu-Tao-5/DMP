@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1328",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "LIQUIDEVO: Unravelling breast cancer heterogeneity, progression and treatment resistance in the context of a rapid post-mortem institutional tissue donation program using phylogenetic reconstruction algorithms and an Open Science approach.",
+  "InitialFeedbackHistory": "01/07/2022 4. [REDACTED] [REDACTED] you also use redcap metadata? [REDACTED] such as EGA and GEO will apply metadata upon deposit, you can also mention this, best to already read their metadata requirements to decide which information to collect along with your experiments. 6. Please note that the UZL ethics committee recommends 25 years of data preservation, this is even mandatory for data related a clinical trial. 7. [REDACTED] [REDACTED] you work with human material using the [REDACTED] EGA is safer than the US based GEO.",
+  "label": "good with suggestions"
+}

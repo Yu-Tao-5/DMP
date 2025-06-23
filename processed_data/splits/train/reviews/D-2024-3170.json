@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3170",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Uncovering the implications of N-glycosylation and protein aggregation in human disease",
+  "InitialFeedbackHistory": "16/12/2024\r\nEthics: you answer that you use animal data but give a ethical approval number for the use of human cells, please correct this. \nPersonal data: under ethics you mention that you anonymize samples which means you process personal data; if the samples were anonymized before you received them you don't process personal data, in that case please please clearly mention this in your DMP. \nStorage/preservation: using dropbox is not recommended, you can consider KU Leuven onedrive or teams for short term storage, or have a look at the storage guide for other solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1272",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "High-Efficiency Interdigitated Back-Contacted Si Heterojunction (IBC-SHJ) Cells for Tandem Applications",
+  "InitialFeedbackHistory": "13/07/2022\r\n4. Documentation: here you can also describe your you document your work for yourself and your colleagues, using comment lines in code or by writing readme files for your datasets for example. Metadata is often also generated with measurements, XRD may use CIF for example, when you are running the experiments you can take a look if metadata is added and if a standards is used and add this in your final DMP that FWO expects at the end of your fellowship. \n7. Sharing: have you considered using a repository for preservation and sharing of your data? If there is a disciplinary repository in your field that is usually the best place to share your data, if there is none you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) where you can apply embargo or restrict access if needed, this makes it easier for others to find your data and the repository will give you a DOI that you can mention in your publications.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1887",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Ion trapping and experimental nuclear physics",
+  "InitialFeedbackHistory": "25/05/2023\r\nWill you use metadata, it this generated with your measurements? For more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nWill you store your data on an external hard drive or does your group have its own maintained server? If you are using external hard drives please have a look at the storage guide to find more secure storage solutions: https://icts.kuleuven.be/storagewijzer/en\nKU Leuven now has a data repository RDR (www.kuleuven.be/rdm/en/rdr) that you can consider using as alternative for Zenodo, your data will also get a DOI here to make it citable",
+  "label": "good with suggestions"
+}

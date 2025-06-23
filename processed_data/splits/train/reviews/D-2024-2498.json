@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2498",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Structural and functional characterisation of the Myzus persicae nicotinic acetylcholine receptors for the development of safer agricultural pesticides",
+  "InitialFeedbackHistory": "03/04/2024\r\nData: please also add the samples/materials that you will use, these are physical data in the context of a DMP, how will you document, store, preserve and/or share those? \nPreservation: you mention RDR to preserve but not to share data; note that RDR is not intended to preserve data without sharing, see www.kuleuven.be/rdm/en/rdr. PDB, EMPIAR and Dryad which you describe for sharing will preserve your data as well so you can add this under preservation instead of RDR. \nSharing: When publishing data in PDB, EMPIAR or Dryad please register the metadata in LIRIAS so it will appear on your publication list https://research.kuleuven.be/en/associatienet/output/lirias/register-datasets-in-lirias",
+  "label": "good with suggestions"
+}

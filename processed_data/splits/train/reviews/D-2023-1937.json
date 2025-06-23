@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1937",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unravelling the mechanism(s) responsible for the therapeutic effect of histone deacetylase 6 (HDAC6) inhibition in amyotrophic lateral sclerosis (ALS)",
+  "InitialFeedbackHistory": "14/06/2023\r\nData summary:\n'Plotted graphs' is not really a dataset. Rather list the dataset that you will plot.\n\nData sharing:\nYou state \"Other digital datasets that support publications (including image, video or audio files, spectroscopy data and simulation data) will be made publicly available via an open research data platform such as Mendeley Data or Zenodo.\" It would be better to use KU Leuven RDR for such datasets: https://www.kuleuven.be/rdm/en/rdr\n\nMake sure your DMP is fit for purpose for your research, and indeed describes how you are managing your data, as the DMP contains largely generic text.",
+  "label": "good with suggestions"
+}

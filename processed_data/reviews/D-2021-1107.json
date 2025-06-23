@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1107",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Deciphering the non-linear mechanical properties of engineered enthesis tissues through the use of tailored composite biohybrids",
+  "InitialFeedbackHistory": "01/07/2022 2. [REDACTED] [REDACTED] looks like you will collect many different datasets in many different experiments, it may be easier to show this in a table. 4. metadata: A collection of metadata standards that may be useful for your work are the MIBBI: https://fairsharing.org/3518, for example MIFlowCyt. [REDACTED] microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2). 7. [REDACTED] [REDACTED] you considered any specific data repositories for sharing, for example IDR (https://idr.openmicroscopy.org/) or maybe EBI (https://www.ebi.ac.uk/submission/)? [REDACTED] no suitable domain specific repository exists you can use KU [REDACTED] RDR (https://www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

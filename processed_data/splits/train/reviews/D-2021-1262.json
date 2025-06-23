@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1262",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "'Smart' wound dressings for controlled NO-release in chronic wounds",
+  "InitialFeedbackHistory": "28/06/2022\r\n2. Data: it may be easier to show your datasets in a table\n5,6. Storage, Preservation: you can also setup automatic backup to onedrive via onedrive settings, backup, manage backup. For preservation using a hard disk only is risky the archive server may be more suitable. For more information see https://admin.kuleuven.be/icts/services/onedrive and https://icts.kuleuven.be/storagewijzer/en or contact your local IT team. \n7. Sharing: you can also consider KU Leuven RDR for data sharing: www.kuleuven.be/rdm/en/rdr, if needed you can apply an embargo or access restrictions. \r\n\r\n28/06/2022\r\n2. Data: it may be easier to show your datasets in a table\n5,6. Storage, Preservation: you can also setup automatic backup to onedrive via onedrive settings, backup, manage backup. For preservation using a hard disk only is risky the archive server may be more suitable. For more information see https://admin.kuleuven.be/icts/services/onedrive and https://icts.kuleuven.be/storagewijzer/en or contact your local IT team. \n7. Sharing: you can also use KU Leuven RDR for data sharing: www.kuleuven.be/rdm/en/rdr, if needed you can apply an embargo or access restrictions.",
+  "label": "good with suggestions"
+}

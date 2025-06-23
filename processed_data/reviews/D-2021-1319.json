@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1319",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Decoding responses to periodic visual motion stimulation using multiway regression for self-paced brain computer interfacing",
+  "InitialFeedbackHistory": "28/06/2022 2. [REDACTED] in the table type of data is missing, please submit an updated DMP with these details as intermediate 4. [REDACTED] [REDACTED] please describe storage and security measures in the next question, focus here on which documentation you will use, do you use notebooks, readme files, sops or the bids standard for example? 5. [REDACTED] please describe where you will store your data 7. [REDACTED] have you considered using any repositories, if there are no domain specific repositories suitable for your data you can consider using KU [REDACTED] RDR (www.kuleuven.be/rdm/en/rdr) 8. [REDACTED] usually the PhD candidate is responsible for the day to day data management including storage and documentation and the supervisor has the end responsibility 28/06/2022 2. [REDACTED] in the table type of data is missing, please submit an updated DMP with these details as intermediate 4. [REDACTED] [REDACTED] please describe storage and security measures in the next question, focus here on which documentation you will use, do you use notebooks, readme files, sops or the bids standard for example? 5. [REDACTED] please describe where you will store your data 7. [REDACTED] have you considered using any repositories, if there are no domain specific repositories suitable for your data you can consider using KU [REDACTED] RDR (www.kuleuven.be/rdm/en/rdr) 8. [REDACTED] usually the student is responsible for the day to day data management including storage and documentation and the supervisor has the end responsibility",
+  "label": "good with suggestions"
+}

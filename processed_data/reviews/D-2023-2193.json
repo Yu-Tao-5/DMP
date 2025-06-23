@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2193",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "LEMMA - The role of Language in Early MatheMatical Achievement",
+  "InitialFeedbackHistory": "20/04/2023 [REDACTED] please describe the procedures to document the datasets and the metadata that you may use, how will you collect the survey data, will you use any tools that generate metadata? [REDACTED] can find more information here: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] please clarify whether you will use onedrive cloud storage or store your data on the shared drives of the research units. Please note that onedrive is not very suitable for long term storage since this is connected to the researcher's account and expires after the researcher leaves and is also not recommended for long term storage of personal data, for more information see: https://icts.kuleuven.be/storagewijzer/en. [REDACTED] you mention that there are no factors restricting sharing but that it is not allowed to reuse the data, and later that it may be made available via OSF please clarify this. [REDACTED] can also consider using RDR for data sharing: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

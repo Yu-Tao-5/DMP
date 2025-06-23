@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2969",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Functional adaptations in the primate shoulder joint complex",
+  "InitialFeedbackHistory": "05/06/2024\r\nData: please add the ethical approval numbers (in your final DMP)\nStorage: You can also consider using onedrive and belnet filesender for data transfer and sharing as more secure alternatives for external hard drives and free cloud storage, for more information see: https://icts.kuleuven.be/storagewijzer/en, https://icts.kuleuven.be/sc/english/storage/onedrive and https://filesender.belnet.be/\nMetadata/Sharing: you mention using DataCite to share data in RDR and Zenodo; but these are not the repositories you list under sharing, best to check which metadata these repositories require to ensure that you collect the metadata you need for deposit when collecting/generating the data",
+  "label": "good with suggestions"
+}

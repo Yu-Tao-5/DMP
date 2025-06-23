@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2716",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "\"PAR-2, a maternal sensor to detect embryonic signals\"",
+  "InitialFeedbackHistory": "19/04/2024 [REDACTED] you describe security of solutions that you don't mention under where will data be stored, please make sure these answers are consistent; please add how/where you will store, and in the next question preserve, your physical data. [REDACTED] [REDACTED] you preserve and share all your data via RDR, or will part stay on the large volume storage as your answer under costs suggests? [REDACTED] [REDACTED] datasets will you share openly, which upon request, what is the reason to restrict access if there are no factors restricting sharing? [REDACTED] license will you select for open data? [REDACTED] are also many repositories in life sciences that may be interesting for your data, for example: https://www.ebi.ac.uk/submission/; for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

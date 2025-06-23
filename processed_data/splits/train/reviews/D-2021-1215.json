@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1215",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Proof of concept: immunotherapy in glioblastoma multiforme.",
+  "InitialFeedbackHistory": "04/07/2022\r\n3. Ethics: you also mention mouse models in you data table, do you already have ethical approval for this work? Please also list these approval numbers. \n7. Sharing: Have you considered using repositories for sharing, maybe EBI (https://www.ebi.ac.uk/submission/) or KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr). Here you can still restrict access to the data if needed but others can find your data easier and request access via the repository.",
+  "label": "good with suggestions"
+}

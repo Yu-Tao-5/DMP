@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3008",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "VLAIO",
+  "ProjectTitle": "STRAUSS",
+  "InitialFeedbackHistory": "12/06/2024 [REDACTED] will you receive data with directly identifiable personal data (names, contact information) from the city or will you get pseudonymous data? [REDACTED] both cases you will have to register the processing of personal data in the KU [REDACTED] internal processing of personal data register, once approved please update your DMP, add the approval number and submit as intermediate. [REDACTED] more information see: https://admin.kuleuven.be/privacy/studpers/index [REDACTED] are you allowed to keep the data from the city for 10 years after the project, which measures will you take to protect the privacy of the persons whose personal data may be in the dataset?",
+  "label": "intermediate DMP needed"
+}

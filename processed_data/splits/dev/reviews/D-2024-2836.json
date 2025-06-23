@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2836",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "PhD position to investigate plant resistance to DNA viruses",
+  "InitialFeedbackHistory": "24/05/2024\r\nThis is a good dmp with a few minor remarks:\n-\tSome of your data, such as the gene expression data, will be derived from physical samples. You might consider mentioning them in the data summary.\n-\tYou might consider dry lab and wet lab protocols as documentation rather than research data as the aim of this project is probably not the development of the protocols.\n-\tThe answer on the question “When will the data be made available?” under Sharing is the answer on the question “Where will the data be made available?”\n-\tYou mention CC-BY as the licence you are going to use but this conflicts with “The cost of sharing data will be covered by the requesting parties”.",
+  "label": "good with suggestions"
+}

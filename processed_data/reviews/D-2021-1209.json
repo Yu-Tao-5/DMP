@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1209",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Targeting dysregulated IP3 receptor-mediated calcium signaling as an early event in Alzheimer’s disease through its Bcl-2-interaction network",
+  "InitialFeedbackHistory": "27/06/2022 3. [REDACTED] [REDACTED] the cells that you will use from human origin? Please note that these also fall under the scope of the biobank which means the use has to be registered by submitting a short form. [REDACTED] your group already has this registration please add this under ethics. [REDACTED] more information see: www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial and www.uzleuven.be/nl/ethische-commissie-onderzoek/studie-met-lichaamsmateriaal. 4. [REDACTED] [REDACTED] metadata standards that may be interesting for your work are OME (https://fairsharing.org/FAIRsharing.cq8tg2) and MIFlowCyt (https://fairsharing.org/search?q=miflowcyt) 7. [REDACTED] [REDACTED] don't have to describe open access publishing in a DMP, this only focuses on data underlying the publications. [REDACTED] there any domain specific repositories in your field, is IDR suitable for example (https://idr.openmicroscopy.org/), otherwise KU [REDACTED] RDR is a good alternative.",
+  "label": "good with suggestions"
+}

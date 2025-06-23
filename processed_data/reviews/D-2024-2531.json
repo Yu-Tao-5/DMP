@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2531",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The causal role of social brain networks during real-life social interactions",
+  "InitialFeedbackHistory": "12/04/2024 [REDACTED] will you use a metadata standard for neuro-imaging, eg dicom or bids? [REDACTED] please describe here whether you will make data available for externals for reuse by depositing data a in trusted data repository, you can find more information here: https://www.kuleuven.be/rdm/en/guidance/data-sharing 05/04/2024 [REDACTED] you work with non-human primates there are ethical issues, please update your DMP and add the ethics approval number(s) [REDACTED] sharing please describe whether you are planning to share your data with external researchers via a data repository, for guidance see: https://www.kuleuven.be/rdm/en/guidance/data-sharing 05/04/2024 [REDACTED] you work with non-human primates there are ethical issues, please update your DMP and add the ethics approval number(s) [REDACTED] sharing please describe whether you are planning to share your data with external researchers via a data repository, for guidance see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "intermediate DMP needed"
+}

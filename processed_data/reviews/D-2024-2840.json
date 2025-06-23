@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2840",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "CXCL9-derived peptides for treatment of pneumonia induced by microbial infection",
+  "InitialFeedbackHistory": "19/04/2024 [REDACTED] please use the table in the template to list your datasets with their details. [REDACTED] use of data from previous project is considered reuse of existing data, if you use this kind of data please add this (relevant for next questions) . [REDACTED] you list ethical approvals that are already a bit older, are these ongoing studies, or are you reusing the data/materials collected in the past, if so do these include the use of the data/materials for this research question/project? [REDACTED] also mention that you receive data with a code that can still be linked with the patient by the physician, this means the data is not anonymous but pseudonymous with is still personal data according to the GDPR, do the ethical approvals include privacy? if not please register the processing of personal data via PRET, for more information see: https://admin.kuleuven.be/privacy/studpers/index [REDACTED] [REDACTED] mention many different storage solutions, some of them are not very secure (PC, [REDACTED] drives) but this also makes it difficult to keep track of the locations an versions of the different datasets, can you use a KU [REDACTED] storage solution with automatic backup? [REDACTED] more information see: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

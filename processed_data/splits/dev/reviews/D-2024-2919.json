@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2919",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Advanced Nanomaterials for Cancer Phototherapies in 3D Cell Models",
+  "InitialFeedbackHistory": "13/06/2024\r\nData: will you use samples/materials? These are considered physical data in the context of a DMP, please list these the table and describe how you document, store and preserve these. Will you use human bodily materiaal which include human cells? In that case please make sure to register the use at the UZL EC Research see https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial; answer yes to the question whether there are ethical issues and add the approval (S)-number. \nPreservation: please note that the KU Leuven RDM policy aks for 10 years preservation of all relevant data: https://www.kuleuven.be/rdm/en/policy; you can always contact your local IT team or rdm-icts@kuleuven.be to discuss whether there are more economical long term storage solutions available. \nSharing: please note that Lirias is not suitable for data sharing, for this purpose you can use RDR: https://www.kuleuven.be/rdm/en/rdr or another (disciplinary) data repository, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

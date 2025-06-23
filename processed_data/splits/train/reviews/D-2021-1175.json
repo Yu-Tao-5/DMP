@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1175",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "A generic platform for the development of fluorescent biosensors based on modified recombinant binders.",
+  "InitialFeedbackHistory": "13/07/2022\r\n4. Metadata: would OME be useful for microscopy (FAIRsharing.cq8tg2)? For sequencing you can have a look at the ENA checklists to see of any of these may be relevant for your work: www.ebi.ac.uk/ena/browser/checklists\n5. Storage: please answer the first sub question. \n7. Sharing: Have you considered using disciplinary repositories? These make your data more findable and reuable by asking for specific metadata? Would EMBL-EBI (www.ebi.ac.uk/submission/) or IDR (https://idr.openmicroscopy.org/) for example be suitable? If you prefer a generic repository, instead of Zendo you can now also use KU Leuven RDR (https://rdr.kuleuven.be/)",
+  "label": "good with suggestions"
+}

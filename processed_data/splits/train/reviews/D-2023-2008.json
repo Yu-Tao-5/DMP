@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2008",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of an innovative CRISPR-based tool for industrial yeast strain improvement",
+  "InitialFeedbackHistory": "26/05/2023\r\nIs there a reason why you are not using storage that is managed by KU Leuven ICTS? Check the storagewijzer: https://icts.kuleuven.be/storagewijzer/en\n\nThe information on Data Sharing seems inconsistent. You mention GenBank and European Nucleotide Archive. Then also Addgene for vectors. But there's no vectors listed in your datasets. Then you mention the cost of KU Leuven RDM. It is actually KU Leuven RDR (Research Data Repository).\nNothing is said about sharing algorithms and scripts; will you share this via GitLab?\n\nHave a look at guidance to improve this: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

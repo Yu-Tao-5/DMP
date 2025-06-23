@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1983",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed, new upload needed",
+  "Funder": "FWO",
+  "ProjectTitle": "Dissecting the genetic interactions controlling α-Synuclein accumulation in Parkinson’s Disease",
+  "InitialFeedbackHistory": "03/07/2024\r\nYou are using human bodily material, which is personal data, so indicate that you use personal data for question \"Will you process personal data?\"\n\nPlease include the EC ethical approval number for your research (S number).\n\nYou indicate that you will use parental Ctl65 iPSC and derived lines. Are these existing data? If yes, then include those as existing data in the data summary table. \n\nOther then that, your responses are largely the standard VIB responses that we frequently see. Make sure they are fit for purpose for your research.\r\n\r\n05/06/2023\r\nFWO this year uses the Standard Flemish DMP template. Your DMP is still in a very old version. So please convert and resubmit. See guidance and template here: https://www.kuleuven.be/rdm/en/guidance/dmp/dmp\n\nAlso, you need to include a detailed list of datasets your research will generate. That is missing at the moment. Your DMP contains largely very generic text, without going into detail on the data you will use / generate in your research.\n\nIt may be helpful to contact the RDM helpdesk and request an in-person meeting to discuss how to write a DMP that suits your research.",
+  "label": "not good"
+}

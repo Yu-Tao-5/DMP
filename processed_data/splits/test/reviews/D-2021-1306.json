@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1306",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Engels",
+  "InitialFeedbackHistory": "06/07/2022\r\n2. Data: you can also include your samples/models here, those are physical data\n3. Ethics: will you use human bodily material or human cell lines? Please note these fall under the biobank law and you need approval from the UZL ethical committee to use these, for more information and how to apply see: www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial\n4. Metadata: A collection of metadata standards that may be handy for your work are the MIBBI: https://fairsharing.org/3518, for example MINSEQE or MIFlowCyt. For microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2). \n7. Sharing: Have you considered using domain specific data repositories for sharing, maybe those from EBI (www.ebi.ac.uk/submission/)? Reading the submission guidelines of candidate repositories may also help you to decide which metadata to collect along with your experiments. If there are no suitable domain specific repositories for your data you can use KU Leuven RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1513",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Fishing for regulators of neuronal repair in the degenerating central nervous system of the fast-aging Killifish",
+  "InitialFeedbackHistory": "30/06/2022\r\nPlease note that the right part of your table is missing\n2. Data: You don't have to mention your own manuscripts in a DMP\n4. Metadata: The link that you give for metadata for genomics goes to the PATRIC standard for bacterial genomes, since you describe under 6 that you plan to submit to EBI-ENA/NCBI-SRA better to use their standards. For microscopy can can have a look at OME (https://fairsharing.org/FAIRsharing.cq8tg2).\n\n\r\n\r\n30/06/2022\r\nPlease note that the right part of your table is missing\n2. Data: You don't have to mention your own manuscripts in a DMP\n4. Metadata: The link that you give for metadata for genomics goes to the PATRIC standard for bacterial genomes, since you describe under 6 that you plan to submit to EBI-ENA/NCBI-SRA better to use their standards. For microscopy can can have a look at OME (https://fairsharing.org/FAIRsharing.cq8tg2).",
+  "label": "good with suggestions"
+}

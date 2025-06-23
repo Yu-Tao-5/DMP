@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1301",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Exploring strategies for efficient vectorized exosome-based therapy in pancreatic cancer",
+  "InitialFeedbackHistory": "28/06/2022\r\n4. Metadata: please take a look if you find using OME for microscopy useful (https://fairsharing.org/FAIRsharing.cq8tg2)\n7. Sharing: After you discuss with LRD which datasets you can share you can use a repository to make your data available. Is your data suitable for a repository such as IDR (https://idr.openmicroscopy.org/)? or you can use the KU Leuven repository RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

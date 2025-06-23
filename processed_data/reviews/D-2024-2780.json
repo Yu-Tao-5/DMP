@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2780",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Deep learning solutions for deciphering gene regulation in the human brain",
+  "InitialFeedbackHistory": "15/05/2024 [REDACTED] you mention animal experiment but I don't see data related to this work in the table, please list all your datasets [REDACTED] please focus here on documentation; file formats are part of the datatable, are alle the listed formats relevant for this project? [REDACTED] please only describe the solutions with backup and security that you are planning to use [REDACTED] what is the reason not to use a license? you can consult a license selector to help you choose: https://ufal.github.io/public-license-selector/",
+  "label": "good with suggestions"
+}

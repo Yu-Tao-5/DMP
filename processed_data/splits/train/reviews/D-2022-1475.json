@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1475",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The neural fingerprint of human image processing",
+  "InitialFeedbackHistory": "19/07/2022\r\n2. Data: you don't have to list your own manuscripts here, the DMP focuses on the data underlying the manuscripts \n7. Sharing: have you considered using repositories for data preservation and sharing, maybe disciplinary repositories such as ebrains (https://search.kg.ebrains.eu/), OpenNeuro (https://openneuro.org/) or Neurovault (https://neurovault.org/) may be suitable? You can also use KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr), here you can restrict access to the datasets in needed, but your data will get a DOI that you can use in your publication, and the metadata that RDR adds makes the data more findable.",
+  "label": "good with suggestions"
+}

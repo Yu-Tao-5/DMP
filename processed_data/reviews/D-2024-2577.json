@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2577",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "An organism-wide map of neuromodulatory signaling across development",
+  "InitialFeedbackHistory": "25/04/2024 [REDACTED] content of your DMP is very good, you however used the old FWO template. [REDACTED] 2022 FWO requests DMPs to follow [REDACTED] [REDACTED] DMP template. [REDACTED] can find the template in DMPonline.be with guidance for each question, or on the FWO website: https://www.fwo.be/en/the-fwo/research-policy/data-management-plan/. [REDACTED] can copy paste most of the information from the current DMP but here some additional tips: [REDACTED] [REDACTED] new template specifically asks to add the description of physical data (samples) in a table. [REDACTED] list code that you may write. [REDACTED] [REDACTED] will be some extra questions about data sharing, repositories that you can consider include EMBL-EBI: https://www.ebi.ac.uk/ or the KU [REDACTED] data repository RDR: https://www.kuleuven.be/rdm/en/rdr and GitHub that you already mention, RDR also has an integration dashboard where you can upload your code from GitHub to add a DOI. A nice tool to help you to select a license is: https://ufal.github.io/public-license-selector/",
+  "label": "good with suggestions"
+}

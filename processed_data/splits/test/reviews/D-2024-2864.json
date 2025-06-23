@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2864",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Automatics in Space Exploration",
+  "InitialFeedbackHistory": "07/03/2024\r\nGood DMP. Just one suggestion:\n2.1 Findable data: since you will deposit the ASAP generated datasets in Zenodo as indicated in 2.2 (the EC indeed expects all generated research data to be deposited in a data repository), in Zenodo the datasets will obtain a DOI and discovery metadata will be added there too.",
+  "label": "good with suggestions"
+}

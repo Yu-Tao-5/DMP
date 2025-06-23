@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1730",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Glial-immune interactions in the gastrointestinal tract: protection against inflammation and cancer",
+  "InitialFeedbackHistory": "31/05/2023\r\nData: please also list the cells and/or samples that you will use, these are physical data, do these need special management such as storage under specific conditions? \nEthics: your ethical approval numbers are already a bit older, please ensure that they are still valid or apply for a renewal. https://research.kuleuven.be/en/associatienet/ethics/index\nMetadata: the metadata links you give are not the most suitable for your data, I don't see proteomics in your table and the standard for genomics that you give is for pathogens. For sequencing MINSEQE is often used, check in the repository where you reuse data or ask the sequencing facility. For flow cytometry MIFlowCyt is widely used and for IHC OME. For more information: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: To ensure compliance with GDRP, please use European repositories such as RDR (https://www.kuleuven.be/rdm/en/rdr) or EGA (https://ega-archive.org/) and restrict access for data from human tissue, contact the data access committee (dac@uzleuven.be) before depositing",
+  "label": "good with suggestions"
+}

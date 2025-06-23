@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2209",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Human-mouse neuronal xenografts to study incipient Alzheimer’s Disease.",
+  "InitialFeedbackHistory": "29/06/2023\r\nUnder documentation you mention human cell lines, please note that these are human bodily material for with ethical approval is needed, please add your approval number or apply for approval if you don't have this, for more information and application procedure see https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial. \nUnder storage you mention private data that you store in the digital vault and tissue samples that you don't mention in the data and ethics section, are you using these, if so add the ethical approval numbers, if not please remove the information that is not relevant for this specific project from your DMP",
+  "label": "good with suggestions"
+}

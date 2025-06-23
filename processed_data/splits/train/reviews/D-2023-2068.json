@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2068",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Therapeutic targeting of pathogenic presynaptic Tau in human neurons in a chimeric Alzheimer’s Disease mouse model",
+  "InitialFeedbackHistory": "22/05/2023\r\nPlease note that you used an older DMP template, FWO now uses the Flemish standard DMP template that you can find in DMPonline.be or here: www.fwo.be/en/the-fwo/research-policy/data-management-plan/\nData: Please give all the details that are asked, indicate for each dataset the format(s), volume and for reused data the origin.  \nEthics: Do you have ethical approval to use the iPSCs, if yes please include the nr, if not please apply for approval, for more information and how to apply see: https://research.kuleuven.be/en/associatienet/ethics/guidance/human material. Please also add the approval number from the ECD to use transgenic mice, https://research.kuleuven.be/en/associatienet/ethics/guidance/animalcare\nStorage/preservation: You give a long list of storage locations, are all of these relevant for your work? private data for example, you don't list these under data. Consult https://icts.kuleuven.be/storagewijzer/en to find the best storage solutions. \nSharing: Please also be more specific here, which of your datasets will you share and where? Avoid generic information so your DMP can be used as guide during your project and at the end of the fellowship the information needed to find your data is all in the DMP. \nPlease update your DMP addressing these issues, using the Flemish standard DMP template, and submit as intermediate, you can find templates and guidance here: www.kuleuven.be/rdm/en/guidance/dmp/dmp",
+  "label": "intermediate DMP needed"
+}

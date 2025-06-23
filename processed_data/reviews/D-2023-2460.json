@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2460",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "RecyClear - Data- & AI-driven sorting for efficient rigid plastics recycling",
+  "InitialFeedbackHistory": "09/01/2024 Please note that you used an older DMP template. [REDACTED] your future DMPs, please use the [REDACTED] standard DMP template that is now used by all [REDACTED] funders (FWO, BOF/IOF and VLAIO), this is very similar to the one you used. [REDACTED] can find this template in DMPonline.be and on the FWO website (www.fwo.be/en/the-fwo/research-policy/data-management-plan/) [REDACTED] please clarify which cloud storage you will use, note that cloud storage is usually not very suitable for long term storage, these may be linked to a user account and you may lose data when researchers leave. [REDACTED] the storage guide to compare solutions that KU [REDACTED] ICTS offers: https://icts.kuleuven.be/storagewijzer/en. [REDACTED] note that KU [REDACTED] policy asks to store all relevant data for 10 years, see https://www.kuleuven.be/rdm/en/policy [REDACTED] note that scientific data is a data journal, not a data repository. [REDACTED] can use a repository such as KU [REDACTED] RDR where you can share your data and in addition your data is securely preserved for 10 years without additional costs, for more information see: https://www.kuleuven.be/rdm/en/rdr and https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3551",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Diffusion analysis by rapid thermal sampling (DARTS)",
+  "InitialFeedbackHistory": "13/02/2025\r\nData: will you use samples/materials? Please note that these are considered physical data within the context of a DMP, please add these in the table. Additionally, in the subsequent questions, please describe how you will document, store, preserve, and share these materials\nStorage: please note that the ICTS recommends against the use or cloud storage for research data, please consult the storage guide for more secure solutions: https://icts.kuleuven.be/storagewijzer/en\nPreservation: please note that the KU Leuven RDM policy asks for 10 years preservation of all relevant research data. Cloud storages are not suitable for long term preservation, they are usually linked to the user and expire whey they leave, you can find solutions recommended by ICTS in the storage guide\nSharing: this section is not very clear, you mention that \". Published data will be publicly available\" but not which data repository you will use and which license you provide, please complete this section in your final DMP that FWO requests at the end you your mandate, for more information see https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

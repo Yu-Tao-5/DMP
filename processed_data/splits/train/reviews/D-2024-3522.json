@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3522",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Novel Immunostimulatory Genes in Immunomodulatory Endothelial Cells as Therapeutic Targets for Vascular Endothelial Dysfunction in Non-Alcoholic Steatohepatitis (NASH)",
+  "InitialFeedbackHistory": "11/12/2024\r\nSharing: Where will you share data? Under metadata you mention EGA which is a repository for human genetics data but not for mouse data. RDR as you mention under sharing is a good candidate, but also have a look at the disciplinary life sciences repositories, for example those from EBI (https://www.ebi.ac.uk/submission/).",
+  "label": "good with suggestions"
+}

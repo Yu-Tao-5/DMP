@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2570",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Resurrecting Turnout, Saving Democracy? Lowering the voting age, compulsory voting, and the legitimacy of election results",
+  "InitialFeedbackHistory": "29/02/2024\r\n1) Data table: not very clear what type of data the \"Voting at 16 Leuven-Ghent\" dataset is\n3) Metadata & Documentation: Suggestion \"This upload contains keywords and accompanying metadata making it easier to find the dataset\"\n5) Data preservation: Since you will anonymize the datasets you will not preserve personal information that can be used to identify the data subjects in order to protect these data subjects.\n6) Data sharing (& preservation): Maybe consider to use the KU Leuven Research Data Repository. It is build on the same open source research data repository software (= Dataverse software) as Harvard Dataverse, but it's more convenient because you receive support from KU Leuven staff + the data are preserved on KU Leuven servers + it is automatically linked with Lirias + there is an integration dashboard which makes it much easier to upload research data and so on. For more information on RDR: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

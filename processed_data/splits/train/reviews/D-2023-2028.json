@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2028",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Enabling in-tissue nanoplastic detection through optical clearing",
+  "InitialFeedbackHistory": "02/03/2023\r\nPlease note that you used the old FWO template, FWO now uses the Flemish standard DMP template that you can find in DMPonline.be or here: https://www.fwo.be/en/the-fwo/research-policy/data-management-plan/. Please use this template for your future DMPs. \n\nData: Please also include your samples in the table, these are considered physical data\nEthics: Please note that pseudonymous data also falls under the GDRP, do you have ethical approval to work with this data and human bodily materials at KU Leuven? Please list the approval numbers and/or have a look at: https://research.kuleuven.be/en/integrity-ethics/ethics for more information. \nStorage: please note that RDR is a data repository for data sharing and not suitable just for storage, for more information see: https://www.kuleuven.be/rdm/en/rdr\nSharing: Lirias is not suitable for data sharing, but you can use RDR for this purpose\nFor which 3rd party agreement is embargo needed, do you reuse data or is there a collaboration agreement? please clarify under the question about 3rd party agreements in part 3.",
+  "label": "good with suggestions"
+}

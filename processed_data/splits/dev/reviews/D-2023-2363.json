@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2363",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Dental Tissue Regeneration via Bioengineerd Immune Modulatory Scaffolds (DREIMS)",
+  "InitialFeedbackHistory": "04/04/2024\r\nData: please also add the samples/materials that you will use, these are physical data in the context of a DMP, how will you document, store, preserve and/or share those? \nDocumentation: will you use additional documentation or metadata, eg protocols, SOPs, gitlab for code, metadata that you collect with nano-CT scans? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: note that a data usage license is only relevant for open data, if you share closed data with externals you will need a data transfer agreement.\r\n\r\n04/04/2024\r\nData: please also add the samples/materials that you will use, these are physical data in the context of a DMP, how will you document, store, preserve and/or share those? \nDocumentation: will you use additional documentation or metadata, eg protocols, SOPs, gitlab for code, metadata that you collect with nano-CT scans? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: note that a data usage license is only relevant for open data, if you share closed data with externals you will need a data transfer agreement.",
+  "label": "good with suggestions"
+}

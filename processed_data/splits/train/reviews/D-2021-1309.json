@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1309",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Local field potential recordings in deep brain stimulation patients",
+  "InitialFeedbackHistory": "03/05/2022\r\n2. Please give an estimated volume of the datasets, you can use this to calculate storage volume and costs under 5 and 6\n4. You may also collect metadata with your measurements, medical imaging often follows the DICOM standard for example (https://fairsharing.org/FAIRsharing.b7z8by) contact onderzoek2bergen@kuleuven.be if you need more information\n6. Please note that the UZL CTC expects data related to a clinical trail to be preserved for 25 years (https://gbiomed.kuleuven.be/english/ctc)\n7. You can mention privacy as factor restricting sharing under 7a. Can you deposit (a selection of) your data in a repository under restricted access, for example in RDR (www.kuleuven.be/rdm/en/rdr)? \r\n\r\n03/05/2022\r\n2. Please give an estimated volume of the datasets, you can use this to calculate storage volume and costs under 5 and 6\n4. You may also collect metadata with your measurements, medical imaging often uses the DICOM standard for example (https://fairsharing.org/FAIRsharing.b7z8by) contact onderzoek2bergen@kuleuven.be if you need more information\n6. Please note that the UZL CTC expects data related to a clinical trail to be preserved for 25 years\n7. You can mention privacy as factor restricting sharing under 7a. Can you share (a selection of) your data in a repository under restricted access, for example in RDR (www.kuleuven.be/rdm/en/rdr)?",
+  "label": "good with suggestions"
+}

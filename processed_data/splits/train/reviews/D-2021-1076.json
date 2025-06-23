@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1076",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Functional characterisation of Transient Receptor Potential Vanilloid (TRPV2) as a potential new target for endometrial cancer",
+  "InitialFeedbackHistory": "15/07/2022\r\n3. Ethics: human cell lines (hek293) and organoids are considered human bodily material, please submit the necessary information about the use of this material in your project to UZL EC research, for more information and procedures see www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial\n4. Metadata: are you sure that DDI is the most suitable standard for your data? DDI is designed for surveys, questionnaires and other social sciences data whereas your data description shows cell based assays. The MIBBI (https://fairsharing.org/3518) may be a better fit for this kind of data, for example MIACA (https://fairsharing.org/FAIRsharing.7d0yv9), alternatively you can adjust Dublin Core to your needs (www.dublincore.org/specifications/dublin-core/dces/)\n7. Sharing: Why are you sharing anonymised transcripts? Your data description does not show that you generate these. Please update your DMP to describe what you will actually generate and share. Are there disciplinary repositories in your field? If so these may be the best place to share and preserve your data, otherwise you can use the KU Leuven dataverse RDR (www.kuleuven.be/rdm/en/rdr) instead of the Harvard Dataverse.",
+  "label": "intermediate DMP needed"
+}

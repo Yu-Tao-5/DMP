@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2032",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "How do cardiovascular diseases and their treatments affect the microstructural-mechanical relationship? An advanced 3D microstructural analysis & modeling approach",
+  "InitialFeedbackHistory": "04/05/2023\r\nThe animal ethics approval number that you mention is from 2016, since these approvals are usually valid 5 years max it is likely expired, are using new animals or only reusing tissues? If you use new animals please make sure to have a valid protocol, if you only use tissues obtained by others for other projects/purposes please notify the ECD via the form  \"Notification of replacement (4R) animal experiment (English)\" on the animalium website: www.kuleuven.be/animalia/en/forms/index.html. \nFor data sharing you can also consider using the KU Leuven repository RDR as alternative for Zenodo (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

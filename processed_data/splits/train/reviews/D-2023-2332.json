@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2332",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Affectometrics: Improving the measurement of affect in daily life",
+  "InitialFeedbackHistory": "28/03/2024\r\nDetailed DMP! Some suggestions:\n- Data storage & back-up: You mention storing the data on the Large volume storage for long term preservation, I would mention this in the following section long term preservation, as this section is about active data storage during the research project.\n- Data sharing: You mention making the pseudonymized ESM data openly available on OSF: \"For the empirical data that we collect during this project (ESM and experimental data), the pseudonymized versions will be made open, subject to an embargo period....\" Do you have the permission of the participants to share the pseudonymized data in open access on OSF and did you mention this in the ethical approval? Because pseudonymized data are still considered to be personal data, often only anonymized data can be made openly available and pseudonymized data can be shared in restricted access (users need to request access and then a data sharing agreement is drawn up together with the legal department). I would also advise to choose the Germany - Frankfurt storage location of your OSF project as this is safer GDPR wise, see https://help.osf.io/article/236-set-a-global-storage-location",
+  "label": "good with suggestions"
+}

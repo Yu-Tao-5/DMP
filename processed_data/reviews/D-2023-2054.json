@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2054",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Identification and characterization of biocontrol organisms and unraveling their mode of action to tackle Phytophthora cactorum in strawberry",
+  "InitialFeedbackHistory": "25/05/2023 [REDACTED] use many different storage solutions, is there a specific reason to use different locations rather than one solution with automatic backup? [REDACTED] storage guide can help you to choose: https://icts.kuleuven.be/storagewijzer/en Please note that RDR is a repository for data sharing (https://www.kuleuven.be/rdm/en/rdr), not for preservation only. [REDACTED] describe NCBI for data sharing which is for your data more suitable than RDR, and you can also consider the [REDACTED] alternative EBI (https://www.ebi.ac.uk/). [REDACTED] data that like to share but is not suitable for these disciplinary repositories you can use RDR",
+  "label": "good with suggestions"
+}

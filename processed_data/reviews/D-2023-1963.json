@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1963",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unravelling the neuropeptidergic circuitry underlying arousal and sensitization",
+  "InitialFeedbackHistory": "08/06/2023 [REDACTED] you list RNA/DNA samples but I don't see related data in the table, will you do PCR, sequencing? [REDACTED] C. elegans stocks are also physical data, will you use special strains? [REDACTED] don't have to list your own manuscripts and notebooks for documentation here. [REDACTED] please focus here on the documentation that you will use, where you store data is part of the next question [REDACTED] [REDACTED] is a publication repository, not suitable for data sharing, but KU [REDACTED] also has a data repository RDR: www.kuleuven.be/rdm/en/rdr. [REDACTED] in your DMP you mention wormbase, will you use this for data sharing? [REDACTED] more information: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

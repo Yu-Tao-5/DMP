@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3114",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Metal-oxo clusters as a new generation of artificial enzymes: where experiment meets theory",
+  "InitialFeedbackHistory": "13/11/2024 [REDACTED] Please clarify the data types, you check the box software but from the description it looks more like experimental data [REDACTED] [REDACTED] instruments may also generate metadata with your measurements, for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] Please note that storing data on a HDD is not very secure and that onedrive is linked to the account of one researcher which closes when the researcher leaves risking data loss. [REDACTED] can consult the storage guide to see if there are better solutions, a teams site for example gives access to all researchers without linking it to one researcher's account, see https://icts.kuleuven.be/storagewijzer/en. [REDACTED] Please note that KU [REDACTED] RDR is a repository for data sharing, it will preserve your shared data as well, but can not be used for long term storage only, for more information see https://www.kuleuven.be/rdm/en/rdr [REDACTED] Please explain whether you will share your data with researchers outside of your team via a trusted data repository such as KU [REDACTED] RDR, or a disciplinary repository if available, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing. [REDACTED] reviewed journal publications are not in the scope of a DMP",
+  "label": "good with suggestions"
+}

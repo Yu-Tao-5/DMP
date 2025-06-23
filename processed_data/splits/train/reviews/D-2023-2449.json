@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2449",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Data-centric distributed signal processing for spatial filtering in wireless sensor networks",
+  "InitialFeedbackHistory": "13/03/2024\r\n\"Research Data Summary\"\nYou only mention your source data in the table.\nIn the context of a DMP, data is more than this: code, visualisations, processed data, ect. are also considered data.\nThink of all the steps in your research project and include the other types of data in the table. \nFor more information on this, check the RDM website of KU Leuven: https://www.kuleuven.be/rdm/en/guidance/data-standards\n\"Data Sharing and reuse\"\n\"Will the data (or part of the data) be made available for reuse after/during the project?\"\nReflect the changes in the data table in this question. Go over the different rows, and state for each if the data will be shared. \nThis also applies to the other questions in this section. \n\"Are there any factors that restrict or prevent the sharing of (some of) the data?\"\nYou mention valorisation potential at the start. Does this also restrict data sharing? \n\"When will the data be made available?\"\nBy definition, keeping the data on the servers cannot be considered as using a repository.\nFor more information on repositories: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

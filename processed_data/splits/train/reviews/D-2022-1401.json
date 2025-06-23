@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1401",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Solid catalysts for Functional group Shuttling",
+  "InitialFeedbackHistory": "06/08/2024\r\nData: Will you use samples or materials? Please note that these are considered physical data in the context of a DMP, also list these the table and describe how you document, store and preserve them. \nMetadata: it is likely that your instruments generate metadata with the measurements, for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nPreservation: Please note that preserving data on external hard drives is not very secure, please have a look at the storage guide: https://icts.kuleuven.be/storagewijzer/en or contact your local IT department for alternatives. \nSharing: Please explain under factors restricting sharing why you share under restricted access and not open, is this related to the valorization potential? Also note that RDR will assign a DOI and that you need a sharing agreement instead of a licence for restricted data. https://www.kuleuven.be/rdm/en/rdr. The cost of sharing question refers to the use of the repositories which is free for RDR, for sharing during the project https://filesender.belnet.be/ is a more secure alternative to wetransfer.",
+  "label": "good with suggestions"
+}

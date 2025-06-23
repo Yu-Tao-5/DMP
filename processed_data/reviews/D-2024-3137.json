@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3137",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "AI for synthetic data",
+  "InitialFeedbackHistory": "09/09/2024 [REDACTED] now only list one dataset of existing data, please add the datasets that you will generate, maybe code/scrips, models, output files, ...........; if you write code, will you use gitlab/github for storage and documentation, and will you share the code outside of your group?",
+  "label": "good with suggestions"
+}

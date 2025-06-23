@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3715",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Electromagnetic radiation signatures from turbulent reconnection in black hole accretion flows",
+  "InitialFeedbackHistory": "13/03/2025\r\nThe code / scripts that you use or write for simulatiosn & modelling can also be listed as 'data' in the DMP. You can then also indicate how to document, store, archive, share those. E.g. do you use github or gitlab?",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1914",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Combinatorial and Computational Algebraic Geometry",
+  "InitialFeedbackHistory": "04/04/2023 [REDACTED] will you collect any additional datasets, eg notes, calculations or files with results? [REDACTED] more information about what is considered data in a DMP see: https://www.kuleuven.be/rdm/en/guidance/data-standards [REDACTED] please explain which documentation you will add, are these for example readme files, explanatory lines in code? [REDACTED] please explain here where you store your software packages during the project, will you use gitlab, consult the storage guide to help you choose between the different KU [REDACTED] solutions: https://icts.kuleuven.be/storagewijzer/en. [REDACTED] you can also consider using RDR (https://www.kuleuven.be/rdm/en/rdr), the institutional repository of KU [REDACTED]",
+  "label": "good with suggestions"
+}

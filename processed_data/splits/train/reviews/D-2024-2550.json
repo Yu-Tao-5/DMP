@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2550",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of conditionally active enzymes based on recombinant binders",
+  "InitialFeedbackHistory": "26/04/2024\r\nData: will you use samples/materials? These are considered physical data in the context of a DMP, please list these the table and describe how you document, store and preserve these\nStorage: do you have a specific reason to use external hard drives, the use of a KU Leuven storage solution with automatic backup is more secure, have a look in the storage guide for more information: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1278",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of a novel protocol for Metal Organic Frameworks (MOFs) as artificial enzymes in proteomics applications",
+  "InitialFeedbackHistory": "22/06/2022 Please note that you used the general KU [REDACTED] template, select the FWO template in DMPonline for your future FWO DMPs, this has some additional questions regarding to storage but since you don't mention very large datasets there I don't expect any issues there. 1. [REDACTED] [REDACTED] you collect any physical samples please also describe these in the table 2. [REDACTED] [REDACTED] your instruments collecting any metadata with your measurements, for example CXI for XRD? [REDACTED] can find more information about metadata for proteomics in the elixir RDM kit: https://rdmkit.elixir-europe.org/proteomics 7. [REDACTED] [REDACTED] is a publication repository and is not suitable for data sharing, you can use KU [REDACTED] RDR instead (https://www.kuleuven.be/rdm/en/rdr) or consider domain specific repositories, f1000 research gives good recommendations https://f1000research.com/for-authors/data-guidelines [REDACTED] can always contact onderzoek2bergen@kuleuven.be if you like to learn more about metadata and data repositories",
+  "label": "good with suggestions"
+}

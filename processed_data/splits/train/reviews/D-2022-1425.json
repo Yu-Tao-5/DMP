@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1425",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Decoding mammalian pre-implantation and pluripotency",
+  "InitialFeedbackHistory": "24/06/2022\r\n1. Data: You don't have to mention your manuscripts in a DMP, documentation fits better under 4\n2. Ethics: is the data that you are using fully anonymous? If not please fill the CTC GDPR questionnaire: www.uzleuven.be/nl/clinical-trial-center/ctc-gdpr-questionnaire; for more information see: https://admin.kuleuven.be/privacy/en/studpers/index\n6. Sharing: Since you work with human data best to use European repositories (EBI instead of NCBI). For flow cytometry take a look if flow repository https://flowrepository.org/ is suitable and for microscopy IDR may be interesting (https://idr.openmicroscopy.org/). For data for which there is no suitable repository you can now also use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr).",
+  "label": "good with suggestions"
+}

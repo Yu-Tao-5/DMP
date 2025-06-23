@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3029",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EUHB",
+  "ProjectTitle": "The malignant Glioma immuno-oncology matchmaker: towards\r\ndata-driven precision medicine using spatially resolved radio-multiomics",
+  "InitialFeedbackHistory": "31/05/2024\r\nCurrently, your DMP mainly gives general information about how data will be managed within the consortium during the course of the project, which is  important as a guideline for the consortium members, however, the expectation of the European commission is for Horizon Europe projects that you clearly describe in a DMP how data will be managed according to the FAIR principles (Findable, Accessible, Interoperable, Reusable) including how you will make data available for reuse by others via a trusted data repository according to the principle “as open as possible, as closed as necessary”. On the other hand, information about peer reviewed publications is not in the scope of a DMP\n\nThe EC therefore has a DMP template for Horizon Europe (HE) projects, which you can find via the EU portal under 'Project reporting templates' https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx So it is best to check which questions in the HE DMP template are currently not answered in your DMP and to rewrite the FAIR section according to this template using the headings \"Findable, Accessible, Interoperable, Reusable\". Try to be as specific as possible, list repositories to be used, how these repositories help to make data FAIR, how data will be documented and which standards you will use. Also keep in mind that the EC may ask to rewrite the DMP based on the HE DMP template. \n\nYou can find example DMPs here: https://www.groupware.kuleuven.be/sites/dmpmt/Pages/Search/SearchExamples.aspx",
+  "label": "good with suggestions"
+}

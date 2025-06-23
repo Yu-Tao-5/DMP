@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3440",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Artificial self-dividing cell",
+  "InitialFeedbackHistory": "03/12/2024\r\nEthics: please add the ethical approval number(s) for the experiments with mammalian oocytes; for the experiments with frog eggs please notify the animal Ethics Committee using the from 'Notification of replacement (4R) animal experiment (English)' that you can find on https://www.kuleuven.be/animalia/en/forms/index.html. \nSharing: Since you mention that there are no factors that restrict or prevent the sharing of data, you can consider sharing your data via a trusted data repository such as KU Leuven RDR (https://rdr.kuleuven.be/) or EBI (https://www.ebi.ac.uk/submission/). This approach will enhance your visibility and the impact of your data by making it accessible for reuse by others. For more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

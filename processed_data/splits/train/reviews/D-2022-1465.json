@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1465",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "From Sheet to tube: Bioengineered Models of Neural Tube Defects",
+  "InitialFeedbackHistory": "25/07/2022\r\n2. Data: can you give an estimation of the volumes of your datasets already, if these are small you can just give a maximum, for lager volumes this may help to decide where to store your data and whether you have to contact ICTS to purchase additional storage. \nYou can also list samples, those are considered physical data. \nHave you considered which formats to use? Can you can store your data in open formats to facilitate preservation and sharing, or do you lose information in open formats and prefer to use proprietary formats. \n3. Ethics: Will you use human cells or other human bodily material? Please note that these fall under the scope of the biobank \nlaw and therefore the use of this material needs to be registered and/or ethically approved by the UZL ethics committee, for more information and procedures see: www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial\n4. Metadata: GEO will also add metadata which is based on the MINSEQE standard (https://fairsharing.org/FAIRsharing.a55z32). For microscopy please take a look if OME would be useful (https://fairsharing.org/FAIRsharing.cq8tg2)",
+  "label": "good with suggestions"
+}

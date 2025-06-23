@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3014",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Synthesis and Utilization of Mesoporous Silica Nanoparticles for more sustainable and durable cementitious composites",
+  "InitialFeedbackHistory": "22/04/2024 2.2.1: please describe here which identifier your datasets will get and how this will be assigned, this is normally done by a repository. 2.1.2, 2.1.4: here I also miss how you will add/offer metadata, which repository will you use to ensure this? 2.2.1: there are many EOSC-federated repositories, which one will you use? https://search.marketplace.eosc-portal.eu/search/all_collection?q=*&fq=unified_categories:(%22Manage%20Research%20Data%22) 2.2.8, 9: if your data is openly available this is not applicable, only describe this if you indicate above that there access restrictions are needed for all or some of your data 2.2.13: how long does the repository that you wil use ensure availability of the data? 2.2.14: can you use open formats, eg csv or txt? 2.4.2: which licenses will you use? see https://ufal.github.io/public-license-selector/ 3.1: will you generate/collect code or materials that could be interesting to share with others? 4.4: a trusted data repository will also insure long term preservation",
+  "label": "good with suggestions"
+}

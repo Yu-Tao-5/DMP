@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1343",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "“How to understand, access, record and integrate identity in care contexts for persons with high support needs who cannot speak for themselves.”",
+  "InitialFeedbackHistory": "10/05/2022\r\n6.1. Will you keep all research data for 10 years? What about audio recordings? Sometimes those are destroyed once transcripts are written out. \n7.1. There are privacy restrictions on sharing pseudonymous data. Those can be shared but would need a GDPR data sharing agreement. Anonymous data can be shared with a CC-BY licence.\n7.2. Besides OSF and Research Catalogue, you can consider KU Leuven RDR (research data repository) to preserve data for 10 years and make them available, especially those that cannot be anonymised: https://www.kuleuven.be/rdm/en/rdr (with access restrictions, they can be shared once a data sharing agreement is drawn up).",
+  "label": "good with suggestions"
+}

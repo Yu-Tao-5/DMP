@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2917",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Dissecting the neural basis of flexible threat responses in the superior colliculus",
+  "InitialFeedbackHistory": "19/07/2024\r\nGeneral:\nIt seems like you have used an old DMP template. We advise you to use DMP online to write and create your DMP. DMP online will provide you with the correct template and you will get funder related guidance.\n\nData description:\nWith the new template you can describe your data in a clear table indicating details like volume, format, type, ….\nDescribe your physical data as well.\n\nEthical and legal issues:\nIf I'm not mistaken you are working with mice and animal behaviour so don't you have any ethical issues working with animal experiments. If so indicate that in this section.\n\nDocumentation and metadata:\nWhich documentation will be kept for the physical data?\nMetadata standard -> note that images in e.g. TIFF file format have internal metadata stored. This is considered to be a kind of metadata standard. You can add that to this section.\n\nData storage & backup:\nWhat about the physical data? Where will they be stored and how.\n\nData preservation:\nThe KU Leuven RDM policy expects you to retain all relevant data (usually data underlying a publication) for at least 10 years.\nWhen destroying your physical data, clearly document why and how and keep the documentation for at least 10 years.\n\nData sharing and reuse:\nThe new DMP template will ask you additional questions on this section make sure to fill them in as well (e.g. Information on licences and persistent identifiers). I see you have indirectly added licence information here as well. You can incorporate that into the new DMP template.",
+  "label": "good with suggestions"
+}

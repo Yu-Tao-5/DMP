@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1962",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "How does the mosquito microbiota (virome and bacteriome) influence the ability of Culex mosquitoes to transmit West Nile Virus and Usutu Virus, two important emerging flaviviruses in Europe?",
+  "InitialFeedbackHistory": "01/03/2023\r\nData: Please also include the samples that you will use (physical data), are you collecting mosquito's or will you use collections that are already available at KU Leuven? \nHet project zal gebruik maken van 'field-collected mosquitoes from different regions worldwide'. Is er reeds bekeken of dit onderzoek onder het Nagoya Protocol valt? Zelfs indien de EU wetgeving niet van toepassing is, is er mogelijks lokale ABS wetgeving die de toegang tot de muggen reguleert. Voor meer info omtrent het Nagoya Protocol zie https://research.kuleuven.be/en/associatienet/ethics/guidance/nagoya. Je kan ook steeds contact opnemen met Wouter Vandevelde (wouter.vandevelde@kuleuven.be).\nSharing: please note that KU Leuven now also has a repository (RDR https://www.kuleuven.be/rdm/en/rdr) that you can use for data sharing as alternative for Zenodo (for sequencing data it is better to use NCBI (or EBI) as you describe).",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2253",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Optical genome mapping for comprehensive genetic analysis of  sarcomas in a diagnostic setting.",
+  "InitialFeedbackHistory": "29/06/2023\r\nFor human genomic data please use EGA (https://ega-archive.org/) instead of GEO; pseudonymous patient details still fall under the GDPR and can also not be made publicly available, if you can't anonymize them you can use KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr/rdr) to share the metadata and restrict acces to the data which can be made available upon signing a transfer agreement. Please contact dac@uzleuven.be to check the best approach for data sharing",
+  "label": "good with suggestions"
+}

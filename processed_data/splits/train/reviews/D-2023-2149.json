@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2149",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Process Model Forecasting: From Short and Sweet to Long and Lasting",
+  "InitialFeedbackHistory": "29/06/2023\r\nData: will you also generate datasets, eg code/scripts, models, notes, numerical files related to analysis, etc? \nDocumentation: how will you document your work, will you use notebooks, annotation tools, explanatory lines in code? Does the dataset that you reuse contain metadata? \nStorage: storing data on a local desktop is not very secure, please consult the storage guide for KU Leuven ICTS recommended storage solutions: https://icts.kuleuven.be/storagewijzer/en. \nPreservation/Sharing: what are you creating during your project? How will you preserve these data? Will you generate any data including code, models, underlying your publications that could make available for others via a repository?",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1204",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Speech brain-computer interface based on human intracranial recordings",
+  "InitialFeedbackHistory": "21/06/2022\r\n3. Personal data: Are you using any personal data (including pseudonymized data) at KU Leuven? If yes please register this via a PRET application, for more info: https://admin.kuleuven.be/privacy/en/studpers/index. \n4. Documentation is also important for yourself and your colleagues, also describe this for data that you are not planning to share, are you using databases (KWS, Redcap), protocols, sops, notebooks etd? Are you using DICOM metadata and metadata generated with photographs?",
+  "label": "good with suggestions"
+}

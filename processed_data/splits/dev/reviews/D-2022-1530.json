@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1530",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Investigation of the underlying mechanism by which the PKA and calcineurin pathway regulate stress tolerance in the human fungal pathogen Candida glabrata",
+  "InitialFeedbackHistory": "19/07/2022\r\n2. Data: please also list your samples/materials, these are considered physical data\n4. Metadata: are your instruments for mass spec phosphoproteomics adding metadata to your data or would MIASPP be useful? www.nature.com/articles/npre.2009.3131.1\n7. Sharing: Using a disciplinary repository may make your data easier to find and reuse by colleagues from your field. Would pride (www.ebi.ac.uk/pride/archive) or another EMBL-EBI repository (https://www.ebi.ac.uk/submission/) be suitable? Otherwise using RDR is a good alternative.",
+  "label": "good with suggestions"
+}

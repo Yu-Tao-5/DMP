@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1211",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unraveling the in vivo host cell tropism and virus dissemination strategies of human norovirus.",
+  "InitialFeedbackHistory": "21/06/2022\r\n4. Metadata\nMaybe check whether these Flow Cytometry Standards recommended by the  International Society for Advancement of Cytometry  are relevant to use: https://isac-net.org/page/Data-Standards\nAnd for microscopy, standards such as the Open Microscopy Environment Ontology (https://fairsharing.org/bsg-s001430/) and the Cellular Microscopy Phenotype Ontology (CMPO) (https://www.ebi.ac.uk/cmpo/) can help provide standardised metadata terms.\n6. Preservation\nDo samples (larvae, virus) need to be preserved? If yes, then indicate where.\n7. Data sharing\nFor your kind of data there are better discipline-specific repositories (instead of RDR), e.g. ArrayExpress, BioImage Archive. Have a look here: https://elixir-europe.org/platforms/data/elixir-deposition-databases and https://www.ebi.ac.uk/bioimage-archive/",
+  "label": "good with suggestions"
+}

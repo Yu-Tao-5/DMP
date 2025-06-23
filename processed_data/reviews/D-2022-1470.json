@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1470",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Mapping single-cell drug responses in Glioblastoma",
+  "InitialFeedbackHistory": "04/07/2022 2. [REDACTED] you can also include your samples in the table, these are considered \"physical data\". 3. [REDACTED] you mention mouse models in you data table, please also list these approval number(s) from the animal ethics committee. 7. [REDACTED] [REDACTED] you work with patient data it may be better to use a [REDACTED] EBI repository instead of the US based NCBI, for repository selection see www.ebi.ac.uk/submission/. [REDACTED] data for which there is no specific repository you can use KU [REDACTED] RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

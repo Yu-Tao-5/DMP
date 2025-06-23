@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3058",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Social media surveillance and psychosocial well-being: A mixed-method study across adolescents with varying neurodevelopmental and social-structural backgrounds",
+  "InitialFeedbackHistory": "21/02/2025\r\nDocumentation/metadata: You indicate that you will not use a metadata standard. To enhance reproducibility, it would nevertheless be beneficial to consider using a metadata standard. One option that might be of interest is using metadata in OSF: https://help.osf.io/article/606-add-a-cedar-metadata-record-to-a-file. \nAnother possibility is to attend the following KU Leuven workshop on Documentation and Metadata for Qualitative Research: https://www.kuleuven.be/rdm/en/training/rdm-skills-in-practice/workshop-documentation-metadata/metadata_hw\nSharing: Please ensure that your data is fully anonymized before sharing it as open data on OSF. If the data is pseudonymous, meaning there is still a (small) possibility that participants could be reidentified by you or by others, you can use RDR and apply access restrictions. Interested researchers will be able to view the description of your dataset but must submit a request to access the files. Access can then be granted upon signing a Data Transfer Agreement. For more information see https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

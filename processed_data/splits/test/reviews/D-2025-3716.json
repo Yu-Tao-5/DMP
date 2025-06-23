@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3716",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Nuclear Shapes of Heavy Atoms and Proton-Emitting nuclei",
+  "InitialFeedbackHistory": "22/01/2025\r\nGood DMP, some minor suggestions\n1: Findable: please note that KU Leuven now also has a data repository: https://rdr.kuleuven.be/; but of course you can use Zenodo if you prefer. If there are disciplinary repositories in your field you can also consider those, if you like to discuss options please contact onderzoek2bergen@kuleuven.be \n3: Interoperable: are there no metadata standards used by the software that you use for measurements or analysis? You can also discuss this with onderzoek2bergen if you like (no need to wait for that to submit your DMP)\n4: Reuse: please describe here which license you will add to your data, e.g. CC-BY meaning others can reuse your data but have to acknowledge you, for more information see https://www.kuleuven.be/rdm/en/rdr/licenses (that is guidance for RDR but the same licenses can be selected in Zenodo)",
+  "label": "good with suggestions"
+}

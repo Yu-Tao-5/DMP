@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1856",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Selective vulnerability in Alzheimer’s disease and frontotemporal degeneration: integration of postmortem MRI, mass-spectrometry and histopathology",
+  "InitialFeedbackHistory": "07/02/2023\r\nData: Please also include physical data (samples). You mention reused data in the table but answer the question about the source with Not applicable, please explain here what this origin is of the reused data. \nPlease discuss valorization with LRD before publishing (lrd@kuleuven.be)\nMetadata: you can mention DICOM here which you use according to your data table. \nSharing: Please clarify whether you will make data openly accessible as indicated under preservation or restrict acces as indicated under data sharing. Please note that BioRxiv and Lirias are not suitable for the publication of data, but KU Leuven has a data repository RDR that you can consider for data sharing: https://www.kuleuven.be/rdm/en/rdr; or your can use a domain specific repository. You can find more information here: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

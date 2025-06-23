@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1785",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Introducing porous organic molecules into advanced membrane for lithium extraction",
+  "InitialFeedbackHistory": "26/05/2023\r\nData: please also list materials/samples that you will use, these are physical data, do these need special management such as storage under specific conditions? \nDocumentation: Which documentation and metadata will you use to understand the content of your data, will you use protocols, electronic notebooks, readme files, explanatory lines in code, are you generating metadata with your measurements? for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nPreservation: Onedrive is not suitable for long term preservation since this expires when the researcher whose account is linked leaves KU Leuven, consult the storage guide to find alternative solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2008",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of an innovative CRISPR-based tool for industrial yeast strain improvement",
+  "InitialFeedbackHistory": "26/05/2023 [REDACTED] there a reason why you are not using storage that is managed by KU [REDACTED] ICTS? [REDACTED] the storagewijzer: https://icts.kuleuven.be/storagewijzer/en [REDACTED] information on [REDACTED] [REDACTED] seems inconsistent. [REDACTED] mention GenBank and [REDACTED] [REDACTED] [REDACTED] [REDACTED] also [REDACTED] for vectors. [REDACTED] there's no vectors listed in your datasets. [REDACTED] you mention the cost of KU [REDACTED] RDM. [REDACTED] is actually KU [REDACTED] RDR [REDACTED] [REDACTED] [REDACTED] [REDACTED] is said about sharing algorithms and scripts; will you share this via GitLab? [REDACTED] a look at guidance to improve this: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1517",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed, new upload needed",
+  "Funder": "FWO",
+  "ProjectTitle": "The stability and flexibility of cortical odor representations",
+  "InitialFeedbackHistory": "13/09/2024\r\nYou uploaded an older version of the DMP template. Please complete the most recent version of the DMP template and upload your DMP again. You can find the most recent new Flemish template on dmponline.be, along with guidance on what information is needed (e.g.: abstract/short description of research project, data table,…). This new template uses a data table for example, in which you have to describe the datasets in more detail (e.g., short description of the data, format, volume,…).\n\nIn the section on ethical and legal issues, you mention that there are ethical issues. Please be more specific on which ethical (and legal) issues (e.g.: experiments on humans? On animals? Third party agreements?...). Keep in mind that if you use/collect personal data, that you indicate this in the corresponding section.\n\nThere seem to be some rather generic pieces of text in your DMP (e.g. in the “ethical and legal issues”; “the question on tech transfer”; “data preservation section”). Please try to make these more specific to your project regarding these topics.\n\nIf you would need further guidance with your DMP, you can contact onderzoek2bergen@kuleuven.be .",
+  "label": "not good"
+}

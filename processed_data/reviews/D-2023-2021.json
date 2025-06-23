@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2021",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Policy recommendations for a pharmaceutical R&D and evaluation  framework that is driven by unmet medical needs",
+  "InitialFeedbackHistory": "16/02/2023 [REDACTED] and metadata: Please explain how you will document your data, will you use protocols, SOPs, readme files and/or code books for example? [REDACTED] the databases that you use add metadata? for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] [REDACTED] mention that you will use sharepoint with a 5GB capacity, but according to your table you collect multiple datasets of about 100GB, please consult the storage guide to find additional storage solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

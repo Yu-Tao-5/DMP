@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1595",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Expression of the metabolite transporter SLC4A4 in pancreatic cancer cells promotes immune\r\nescape and resistance to immunotherapy",
+  "InitialFeedbackHistory": "08/06/2022\r\n2.2 Data description: It may be easier to summarize your datasets in a table\n4.2 Metadata: The MIBBI metadata standards may be useful for your project: https://fairsharing.org/3518, especially MINISEQE for sequencing and MIFlowCyt for flow cytometry. For microscopy you may use OME (https://fairsharing.org/3502) and for animal experiments ARRIVE (https://fairsharing.org/FAIRsharing.t58zhj)\n7. Sharing: Have you considered any specific repositories? you can consider using KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) or domain specific repositories including those from EBI (www.ebi.ac.uk/submission/) or recommended by F1000 research (https://f1000research.com/for-authors/data-guidelines)",
+  "label": "good with suggestions"
+}

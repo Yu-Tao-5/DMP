@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1740",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Interventions against polarisation in society for TRUSTworthy social media (iTRUST).",
+  "InitialFeedbackHistory": "07/07/2023\r\nAlso include the software you will develop in the Research data summary table. \n\nDocumentation: are the corpora that you will use already annotated? Or is the annotation part of your research? If yes, include that as documentation you create. \n\nData sharing: it would be better to publish your software and data in the KU Leuven data repository RDR instead of on your website. That ensures longterm preservation. https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

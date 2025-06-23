@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1356",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "STIFF: Stiffness Tailored Implants for improved Fracture Fixation",
+  "InitialFeedbackHistory": "07/06/2022 3. [REDACTED] and [REDACTED] [REDACTED] privacy approval included in the ethics approval? Please include the approval number under the first subquestion. 4. [REDACTED] [REDACTED] medical imaging DICOM is a commonly used metadata standard, are you generating/using DICOM metadata? 6. [REDACTED] Please note that the UZL ethics committee recommends 25 years of data preservation, if you study is a clinical trial storing your data for 25 years is a legal requirement. 7. [REDACTED] please note that KU [REDACTED] now has an institutional data repository that you can use for data sharing, if needed you can restrict access and others can request access trough the repository, for more information see: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

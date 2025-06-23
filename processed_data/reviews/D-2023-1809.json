@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1809",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Coevolution of epithelium in colorectal cancer: comprehensive characterization of progress-associated tumor heterogeneity in the colorectal cancer",
+  "InitialFeedbackHistory": "31/05/2023 [REDACTED] please also list the cells and/or samples that you will use, these are physical data, do these need special management such as storage under specific conditions? [REDACTED] you only use human bodily material (cells, biopsies) covered by the ethical approval? [REDACTED] you also use patient data please indicate that you will process personal data, and check if this is registered; but since you have a recent ethical approval number this most likely included. [REDACTED] more information: https://admin.kuleuven.be/privacy/studpers/index [REDACTED] will you use protcols, sops, readme files etc for documentation? [REDACTED] will also be generated with sequencing, maybe following MINSEQE standard? [REDACTED] more information: www.kuleuven.be/rdm/en/guidance/documentation-metadata or ask the genomics core which metadata they provide. [REDACTED] [REDACTED] ensure compliance with GDRP, please contact the data access committee (dac@uzleuven.be) before sharing any sequencing data",
+  "label": "good with suggestions"
+}

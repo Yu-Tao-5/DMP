@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2473",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "The Reward of Absent Danger: Parsing the Liking, Learning and Wanting of Relief",
+  "InitialFeedbackHistory": "15/03/2024\r\nData: You now only mention the source datasets in the table, but in the context of of DMP data is more than this, will you generate processed data files, write code ...., please also list new datasets in the tabel and describe how you will manage these.\nSharing: Note that OSF is not suitable for sensitive data and for data where there is still a (small) chance of identifying the participanten, for this kind of data you can use a repository that allows you to apply access restrictions such as RDR: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

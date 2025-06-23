@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2886",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of allosteric intracellular CCR5 signaling modulators to overcome DMPK limitations",
+  "InitialFeedbackHistory": "05/07/2024\r\nDear,\n\nThis is a good dmp. A few remarks you might deal with in the next version of the dmp:\n-\tDoes the use of commercial compound libraries and molecules descriptions provided by companies have consequences on what you are allowed to do with the data? This could have an impact on the questions on 3rd party agreements and other legal issues that have to be managed (section 1).\n-\tIf you answer “No” on the question whether you are going to use a metadata standard, you are expected to give some explanations.\n-\tIn the answer to “Where will the data be made available?” you give the impression that data will only be deposited in RDR after you get a request. Is that a correct interpretation? You may also upload your sets in RDR as restricted before getting a request. The metadata would then be available to other researchers who missed the information about the data in your publications.\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2546",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Predicting the long-term effects of iron addition on phosphorus dynamics in streams using modelling and high-resolution in-situ techniques.",
+  "InitialFeedbackHistory": "04/04/2024\r\nData: please also add the samples/materials that you will use, these are physical data in the context of a DMP, how will you document, store, preserve and/or share those? \nPreservation: please note that the KU Leuven RDM policy asks for 10 years of preservation of all relevant data: https://www.kuleuven.be/rdm/en/policy. Onedrive is not suitable for long term preservation, this is linked to your account and expires when you leave KU Leuven make sure to transfer your data to your supervisor before you leave. \nSharing: will all your data be available in the publication? It may be easier to share your data in a repository such as KU Leuven RDR where you also get a DOI so you can link it in your publication and add it to your cv. When publishing data it's best to add a license so others know how to reuse your data, eg cc-by meaning others can freely reuse it but they have to acknowledge/cite you. For more information see: www.kuleuven.be/rdm/en/guidance/data-sharing and www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2751",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Optimizing the response to large disruptions on railway networks",
+  "InitialFeedbackHistory": "15/03/2024 [REDACTED] [REDACTED] now only mention the source datasets in the table, but in the context of of DMP data is more than this, will you generate processed data files, write code etc, please also list these in the tabel and think about how you will manage these. [REDACTED] [REDACTED] way to share your data is to use a repository, eg RDR https://www.kuleuven.be/rdm/en/rdr, this could be easier since once you deposit your data the RDR team will take care of the preservation whereas you have to maintain a website yourself. [REDACTED] license here can also include a data licence, eg CC-BY meaning others can reuse your data but have to acknowledge/cite you, for more information see: https://www.kuleuven.be/rdm/en/rdr/license-selection 15/03/2024 [REDACTED] [REDACTED] now only mention the source datasets in the table, but in the context of of DMP data is more than this, will you generate processed data files, write code etc, please also list these in the tabel and think about how you will manage these. [REDACTED] [REDACTED] way to share your data is to use a repository, eg RDR https://www.kuleuven.be/rdm/en/rdr, this could be easier since once you deposit your data the RDR team will take care of the preservation whereas you have to maintain a website yourself. [REDACTED] license here can also include a data licence, eg CC-BY meaning others can reuse your data but have to acknowledge/cite you, for more information see: https://www.kuleuven.be/rdm/en/rdr/license-selection",
+  "label": "good with suggestions"
+}

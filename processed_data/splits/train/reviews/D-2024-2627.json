@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2627",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Correlations between blood and allograft gene expression signatures to improve the diagnosis and monitor treatment of kidney transplant rejection.",
+  "InitialFeedbackHistory": "29/03/2024\r\nDocumentation: please move the information about 3rd party agreements storage and sharing to the question about these topics, focus here on documentation, will you use protocols, (e)notebooks, etc? \nPreservation: please note that the UZL ethical committee recommends storage for 25 years which is mandatory if your study is a clinical trial. Onedrive is not suitable for long term preservation of data since it is linked a your account which expires when your leave KU Leuven, please consult the storage guide for other solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

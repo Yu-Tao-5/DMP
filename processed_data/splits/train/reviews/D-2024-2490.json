@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2490",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Building bridges between graph colouring, extremal and structural graph theory",
+  "InitialFeedbackHistory": "12/03/2024\r\nData: Are you (re)using input data files to validate your code? If so add these in your data description.\nDocumentation: Can you provide some information on documentation and metadata? The information added in this section (3) details data sharing.\nDocumentation are the contextual and descriptive features of data. You need documentation to understand and to (re)use data. Examples of documentation are README files, codebook, ELN, code explanation… Metadata are the data about you data. Adding metadata and documentation to your data files makes it easy combine, compare, map your data with other data. Examples of metadata are the creation date, author, data modified, file size, ...\nWhat kind of documentation and metadata do you plan on creating and adding to your data for your future self and other researchers to be able to understand and (re)use your data?\nSharing: Sharing/uploading your data to the KU Leuven institutional repository RDR will provide your data or code with a persistent identifier or DOI. This makes your data findable and citable by other researchers. You can check out RDR at: https://www.kuleuven.be/rdm/en/rdr\nResponsibilities: Who will manage data preservation and sharing of the data in case you leave KU Leuven after the end of your project? It is advised to add a PI or RDM/storage expert as a responsible on that matter.",
+  "label": "good with suggestions"
+}

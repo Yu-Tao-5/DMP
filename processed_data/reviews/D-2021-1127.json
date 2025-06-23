@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1127",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Peripheral disease triggers and disease progression in multiple system atrophy",
+  "InitialFeedbackHistory": "01/07/2022 Please note the footer in your DMP gives the reference to different DMP, please correct this and submit as intermediate 2. [REDACTED] don't have to list your own manuscripts and publications in a DMP. 4. [REDACTED] [REDACTED] is a software, do you use this create metadata? [REDACTED] microscopy you may consider OME (https://fairsharing.org/FAIRsharing.cq8tg2, www.openmicroscopy.org/omero/), you can also take a look at the arrive guidelines for reporting of animal experiments, many journals ask to follow these (https://arriveguidelines.org/) 7. [REDACTED] you considered using repositories for data sharing? [REDACTED] IDR (https://idr.openmicroscopy.org/) or FlowRepository (https://isac-net.org/page/FlowRepository) for example be suitable? [REDACTED] the submission guidelines of candidate repositories may also help you to decide which metadata to collect along with your experiments.",
+  "label": "intermediate DMP needed"
+}

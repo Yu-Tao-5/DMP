@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2367",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "DEFIS",
+  "ProjectTitle": "Exploring the interaction of spin and orbital angular momentum of light with chiral photonic structures",
+  "InitialFeedbackHistory": "28/03/2024\r\nDear,\n\nIt seems you have been using a deprecated DCC template for this DMP. It should be uploaded using the FWO Template (Flemish Standard Template). \n\nI've added some comments on the content as well, they may be relevant when moving the information to the new file.\n\nQuestion: What data will you collect or create?\nFWO expects to see some information about the size of the data. The table proposed in the Flemish Standard DMP makes it easier to present the data and their expected size.\n\nQuestion: What documentation and metadata will accompany the data?\nThis answer is about the data themselves, not about documentation and metadata. That would be about things like readme files, protocols,  or EXIF and IPTC metadata for images.\n\nQuestion: How will you manage copyright and Intellectual Property Rights (IPR) issues?\nThis is not an answer to this question, but to the one about “Sharing”. IPR is about patents, copyright and the like.\n\nWe can arrange a meeting, if you want, to discuss the DMP.\n\nBest regards,\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

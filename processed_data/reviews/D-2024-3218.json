@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3218",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Multiple diagnostics platforms for in situ crystallization studies connected by differential impedance measurements (DIM-C)",
+  "InitialFeedbackHistory": "20/01/2025 [REDACTED] Please add the samples/materials that you will use in the data table, these are considered physical data in the context of a DMP, also describe how you document, store, preserve and share them in the subsequent questions. [REDACTED] Please focus here on how you will document your data, e.g using protocols, readme files, lab notebooks, etc; data sharing will be addressed in a 5th topic of the DMP. [REDACTED] Please describe which storage solution you will use, the storage guide can help you choose: https://icts.kuleuven.be/storagewijzer/en [REDACTED] [REDACTED] you have a specific reason to use [REDACTED] [REDACTED] [REDACTED] not, please consider using KU [REDACTED] RDR (https://rdr.kuleuven.be/) instead, RDR stores the data on the KU [REDACTED] servers, has a detailed guide: https://www.kuleuven.be/rdm/en/rdr and in house support making it a more user friendly option for researchers at KU [REDACTED]",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1015",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Characterization of novel regulators of the ethylene biosynthesis pathway in Arabidopsis.",
+  "InitialFeedbackHistory": "12/05/2022\r\n4. Metadata: You don't mention any metadata, do your instruments generate any metadata with your images, sequencing or GC? \n7. Sharing: You mention that you aim to publish your data but also that you share upon request by mail. Have you considered any repositories, for example DRYAD (https://datadryad.org) or KU Leuven RDR (www.kuleuven.be/rdm/en/rdr)? F1000 research also gives good recommendations: https://f1000research.com/for-authors/data-guidelines. \nIf you like to discuss whether there are any suitable metadata standards in your field or need help with the selection of a repository please contact onderzoek2bergen@kuleuven.be",
+  "label": "good with suggestions"
+}

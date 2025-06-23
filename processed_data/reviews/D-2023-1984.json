@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1984",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Exploring the reciprocal crosstalk between the vasculature in cancer to improve immunotherapy",
+  "InitialFeedbackHistory": "12/06/2023 [REDACTED] [REDACTED] you are going to reuse data which contains personal data please register this in the KU [REDACTED] internal processing of personal data register, note that if you receive data that is already pseudonymous, it still falls under the GDPR and registration is needed. [REDACTED] more information see: https://admin.kuleuven.be/privacy/en/studpers/index, contact pret@kuleuven.be if you have any questions [REDACTED] please focus here on how you will document your data, where you store and secure your data is part of the next question. [REDACTED] metadata standard will you use? [REDACTED] you receive existing data for reuse there may already be metadata according to a standard, and many instruments also generate metadata, sequencing comes often with MINSEQE and flow cytometry with MIFlowCyt, have a look at this when you are working with the data so you can add this in your future DMPs. [REDACTED] more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] [REDACTED] looking for repositories please have a look at EBI (https://www.ebi.ac.uk/) and KU [REDACTED] RDR (https://www.kuleuven.be/rdm/en/rdr), for more information see https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

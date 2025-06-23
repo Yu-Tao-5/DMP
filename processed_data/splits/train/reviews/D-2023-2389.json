@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2389",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Degradation of CDK1 and HDACs as a strategy to treat T-cell malignancies",
+  "InitialFeedbackHistory": "05/01/2024\r\nData: please also list cells/biological materials in the data table, these are considered physical data, note that you may also need ethical registration/approval when working with human materials including cell lines, for more information see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nMetadata: Will you collect metadata with your measurements? You also mention RDR in sharing where metadata will be added (https://www.kuleuven.be/rdm/en/rdr/full-metadata-model), for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: note that datasets receive an identifier (DIO) upon deposit in RDR",
+  "label": "good with suggestions"
+}

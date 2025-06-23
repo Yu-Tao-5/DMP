@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3807",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "",
+  "Funder": "",
+  "ProjectTitle": "GPU-based First-principles Modeling of Collisionless Shocks in the Heliosphere",
+  "InitialFeedbackHistory": "03/06/2025\r\n- Storage: Storing data on external hard drives is not advised due to risk of data loss. RDR is a solution for data sharing but not suitable for the storage of active data.  It is recommended to use a KU Leuven storage solution with automatic backup, you can consult the storage guide to compare available solutions: https://icts.kuleuven.be/storagewijzer/en. In addition, you may find KU Leuven’s GitLab platform helpful for storing, tracking, and collaborating on your code: https://gitlab.kuleuven.be/",
+  "label": "good with suggestions"
+}

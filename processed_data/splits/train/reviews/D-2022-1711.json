@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1711",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "A micromechanical model of load transfer across the bone-cartilage interface to evaluate osteochondral remodelling in osteoarthritis.",
+  "InitialFeedbackHistory": "20/04/2023\r\nDocumentation & Metadata:\nWhat you describe is very generic and therefore somewhat meaningless. Consider what documentation / metadata you have that explains the meaning of your data, so other researchers can understand it too.\nYour protocol is important documentation. \nDo you use a lab notebook? That provides documentation.\nConsider which metadata you can export from the instruments for the microCT images and microscopy images. Often they can be exported as txt files for each image. \nMentioning the DDI standard makes no sense - this is a metadata standard for social science research / surveys. \nSome guidance here: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata",
+  "label": "good with suggestions"
+}

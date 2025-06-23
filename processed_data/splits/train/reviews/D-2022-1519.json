@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1519",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unraveling the visual and motor properties of mirror neurons in human and nonhuman primates",
+  "InitialFeedbackHistory": "18/07/2022\r\n3. Personal data: since you work with human participants you will collect personal data, please make sure your project is GDPR compliant by filling the CTC GDPR questionnaire: www.uzleuven.be/nl/clinical-trial-center/ctc-gdpr-questionnaire, for more information: https://admin.kuleuven.be/privacy/studpers/index\n4. Metadata: a commonly used standard for medical imaging is dicom\n6. Preservation: what is the reason to keep the human data for only 5 years? the UZL ethics committee usually recommends 25 years. Storing data on hard drives is not very safe, please take a look in the storage guide for alternatives or contact your local IT team. \n7. Sharing: have you considered using repositories for data preservation and sharing, maybe a disciplinary repository such as ebrains (https://search.kg.ebrains.eu/) or OpenNeuro (https://openneuro.org/) may be suitable? For data for which there is no good disciplinary repository you can use KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr). You can restrict access to the datasets but your data will get a DOI that you can use in your publication, and the metadata that RDR adds makes the data more findable.",
+  "label": "good with suggestions"
+}

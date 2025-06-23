@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1850",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unraveling the unprecedented roles for Presenilin/?-secretase in inter-organellar membrane contact sites and how this modulates cellular calcium homeostasis",
+  "InitialFeedbackHistory": "03/05/2023 Please note that human cells, including cell lines, are considered human bodily material under the biobank law, please register the use of these cells, for more information and forms see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial [REDACTED] Please focus here on the documentation, where you store data and for how long is a later question, will you use electronic notebooks, readme files or protocols for example? [REDACTED] also mention MIBBI, and OME-TIFF under the first part but dublin core in de question about metadata, please clarify this [REDACTED] you mention repositories such as OMERO, PRIDE, EMBL-EBI and [REDACTED] maps earlier but not here, please make sure the information in the different sections is consistent and reflecting your plan and avoid generic information.",
+  "label": "good with suggestions"
+}

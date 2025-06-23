@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1025",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Label-free imaging of cellular activity using second harmonic generation",
+  "InitialFeedbackHistory": "15/07/2022 4. [REDACTED] [REDACTED] please describe here how you document your data, are you using protocols, sops, readme files, (e) notebooks? [REDACTED] the data table you mention spectra with metadata, does this metadata follow a standard, please also explain this here. 6. [REDACTED] [REDACTED] data preservation onedrive is not the best solution since this is linked to your account and expires after you leave please have a look at the storage guide for alternative solutions: https://icts.kuleuven.be/storagewijzer/nl 7. [REDACTED] have you considered using a repository for preservation and sharing? [REDACTED] there is a disciplinary repository in your field that is likely the best place to deposit your data, if there is none you can use KU [REDACTED] RDR (www.kuleuven.be/rdm/en/rdr), this makes it easier for others to find your data and the repository will give you a DOI that you can mention in your publications. 08/07/2022 Please answer all questions in the DMP template and resubmit your updated DMP. [REDACTED] can find more information on the new RDM website: www.kuleuven.be/rdm/en/guidance and in the guidance in DMP online (https://dmponline.kuleuven.be/). [REDACTED] you like to discuss your DMP with an RDM expert in your field please contact onderzoek2bergen@kuleuven.be",
+  "label": "good with suggestions"
+}

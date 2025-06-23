@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1308",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Benefits of deep learning algorithms for delineation of target volumes in radiotherapy treatment for head and neck cancer.",
+  "InitialFeedbackHistory": "22/06/2022 4. [REDACTED] [REDACTED] you using the DICOM metadata standard for imaging? 5. [REDACTED] [REDACTED] you storing personal data on external disks, is this approved by the ethical committee? Please contact your local IT team to discuss more secure alternatives. 6. [REDACTED] Please note that the ethics committee UZL recommends data preservation of 25 years, which mandatory for all data that is considered part of a clinical trail. 7. [REDACTED] have you considered any repositories, F1000 research gives good recommendations for domain specific repositories https://f1000research.com/for-authors/data-guidelines. [REDACTED] there are no suitable domain specific repositories you can also consider using KU [REDACTED] RDR where you can share you data openly or under restricted access if you can't fully anonymize your data. www.kuleuven.be/rdm/en/rdr.",
+  "label": "good with suggestions"
+}

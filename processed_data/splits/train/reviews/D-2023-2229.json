@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2229",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Exploring excited state dynamics of fluorescent proteins by X-ray free  electron laser (XFEL).",
+  "InitialFeedbackHistory": "07/07/2023\r\nData: please also list the samples that you may use in the table, these are physical data, do they need management such as storage under specific conditions? \nDocumentation: will you use (e)notebooks, protocols, readme files? Will your instruments generate metadata to understand the content of the data? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: You can also consider using a disciplinary repository eg EBI (https://www.ebi.ac.uk/submission/) instead of the more generic RDR, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

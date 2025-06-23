@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3185",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Naar gastgerichte immunotherapie en biomarkers: het dissecteren van immuunmodulatoren bij influenza-geassocieerde pulmonale aspergillose.",
+  "InitialFeedbackHistory": "20/01/2025\r\nMetadata: Will you use metadata generated with your measurements by instrument software or other disciplinary metadata, e.g. MIFlowCyt for flow cytometry or MINSEQE for sequencing? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata/life-sciences\nPreservation: you mention the GDPR here but you answer under ethics that you are not using personal data, please explain this discrepancy and make sure processing of personal data is registered in the KU Leuven register, for more information see: https://admin.kuleuven.be/privacy/studpers/index\nSharing: Please describe here if you intend to share the data underlying publications in a trusted data repository, e.g. KU Leuven RDR (https://rdr.kuleuven.be/) or a disciplinary repository (e.g. https://www.ebi.ac.uk/submission/)",
+  "label": "good with suggestions"
+}

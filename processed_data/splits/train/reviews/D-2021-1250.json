@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1250",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Engineering yeast as platform strains to convert food waste into high-value chemicals",
+  "InitialFeedbackHistory": "15/07/2022\r\n5. Storage\nIs there no suitable KU Leuven managed storage you can use instead of dropbox? Have a look here: https://icts.kuleuven.be/storagewijzer/en\n\nUnder storage you mention EGA, but I don't see that you are generating human-related omics data.\n\nMuch of the text in this DMP is the same as in the DMP for project 1S43022N. Please make sure that the DMP is fit for purpose for your specific project.",
+  "label": "good with suggestions"
+}

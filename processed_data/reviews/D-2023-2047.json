@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2047",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Functional Materials to Optically Report Cellular Forces in Natural ECM",
+  "InitialFeedbackHistory": "30/05/2023 [REDACTED] are your instruments generating metadata, eg OME for microscopy? [REDACTED] more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] please clarify where you store your data, are you using onedrive or the servers (I, J, K, L drive) better to avoid the use of exernal hard drives since these are not very secure; the storage guide helps you to select the most suitable storage solution: https://icts.kuleuven.be/storagewijzer/en [REDACTED] [REDACTED] is a publication repository and not suitable for data sharing, KU [REDACTED] has a data repository RDR for that purpose (www.kuleuven.be/rdm/en/rdr); but your data may be more suitable for a disciplinary repository, bioimage archive for example (www.ebi.ac.uk/bioimage-archive/) for more information see: www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

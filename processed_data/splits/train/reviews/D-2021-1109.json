@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1109",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Deciphering the evolution of gene regulatory networks and enhancer architectures in neuronal cell types using single-cell deep learning and comparative genomics",
+  "InitialFeedbackHistory": "05/07/2022\r\nThe DMP contains a lot of generic text not relevant for your research project. Please remove that, so the DMP is fit for purpose for your research. Eg:\n2. Data description\nRemove text that is not relevant, eg Simulation data / Derived and compiled data\n7. Data sharing: Your DMP states that you only use animal data, yet here you state: Patient data: Upon publication, all anonymized patient details supporting a manuscript will be made publicly available as supplemental information. \nSame for the section on \"Vectors\". Irrelevant here.",
+  "label": "good with suggestions"
+}

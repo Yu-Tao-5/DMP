@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2046",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Remote allograft rejection diagnosis by epigenetic changes in circulating cell-free DNA in kidney transplanted patients.",
+  "InitialFeedbackHistory": "22/05/2023 [REDACTED] you work with patient data please make sure your data is really anonymous before sharing openly, this is challenging for genetic data, therefore best to check this with the ethics committee and/or legal department when you have the data; for this reason it is also better to use [REDACTED] [REDACTED] [REDACTED] repositories (https://www.ebi.ac.uk/) instead if the [REDACTED] GEO. [REDACTED] there is still a risk of identification, in repositories such as RDR and EGA you can keep access to the data files restricted and provide access only after a DTA is signed.",
+  "label": "good with suggestions"
+}

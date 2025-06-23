@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2828",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Personalised stimulation strategies for cochlear implants using EEG source analysis",
+  "InitialFeedbackHistory": "24/05/2024\r\nDear,\nThis is a very decent dmp, with only some minor remarks:\n-\tThe question “If you reuse existing data, please specify the source” has not been answered.\n-\tIs there any documentation specifically directed to non-members of the group? Everything mentioned under “Clearly describe what approach will be followed to capture the accompanying information necessary to keep data understandable and usable” seems to be directed towards members of your own research group.\n-\tThe answer to “Does your work have potential for commercial valorization?” is “No” but under “Data Sharing and Reuse” you mention “Yes, intellectual property rights” as a factor that restricts or prevent the sharing of data. Doesn’t this suggest possibilities for valorization?\n-\tThe answer to “Where will the data be made available?” seems to be more relevant for storage than for sharing, probably because the exact method for sharing is not yet known.\n-\tAre the storage drives referring to a server solution of the research group?\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

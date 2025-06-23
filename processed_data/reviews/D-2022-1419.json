@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1419",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "NMR-Relaxorption: Measuring and understanding NMR relaxation during sorption in porous materials.",
+  "InitialFeedbackHistory": "28/06/2023 Please also include the materials/samples in your data table, these are physical data, do these need management such as storage under specific conditions or documentation? Please note that RDR is a data repository primary for data sharing, your data will also be preserved here but it is not suitable for long term preservation without the intention to share, you however indicate that there are no factors restricting sharing, so why don't you make your data available for others for reuse? [REDACTED] there are factors restricting sharing please describe these and consult the storage guide to find an alternative solutions for long term preservation: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1865",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "METHUSALEM",
+  "ProjectTitle": "Resilience and vulnerability in the cellular phase of Alzheimer’s disease.",
+  "InitialFeedbackHistory": "04/04/2023 Please note that you used an older DMP template, BOF now uses the [REDACTED] standard DMP template that you can find in DMPonline.be by selecting that there is no funder associated with your project when creating the DMP. Please use this template for your future DMPs. [REDACTED] please provide all the detailed asked in the DMP, in particular the data volumes to estimate the storage space needed [REDACTED] later in the DMP you mention several repositories that use metadata, best to review the guidelines to make sure you collect this metadata together with your data throughout your project [REDACTED] is not clear if all the information in the DMP is really relevant for this project, please remove general information to make the DMP suitable to use as guideline for data management for the researchers working on this project.",
+  "label": "good with suggestions"
+}

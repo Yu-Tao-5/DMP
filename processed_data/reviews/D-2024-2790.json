@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2790",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "PREDISTINE - A Privacy-Preserving and Resilient Framework for Distributed Modular Neural Networks on the Tiny Edge",
+  "InitialFeedbackHistory": "10/04/2024 [REDACTED] Please make sure the CMT file of the project (see https://research.kuleuven.be/en/integrity-ethics/cmt-guidance) and the DMP are consistent regarding the necessary ethics/privacy approvals. [REDACTED] the CMT file, it is stated that an ethics dossier will be submitted to SMEC (with ethics approval to be obtained within the first year of the project), and that no personal data will be processed. [REDACTED] contradicts the current version of the DMP that states that personal data will be processed while there are no ethical issues concerning the creation and/or use of the data (e.g. experiments on humans or animals, dual use). Please check and update. [REDACTED] please note that RDR is not just a storage solution that you can use to preserve all your data; but intended to make data available for others for reuse and to perserve it at the same time, see www.kuleuven.be/rdm/en/rdr [REDACTED] your sharing section is a bit confusing, will you use RDR and for which datasets? Note that ManGO is an active data management platform not intended for data archiving and sharing (unless as collaboration). [REDACTED] license you can choose CC-BY, in that case, if others use your data, they have to acknowledge/cite you, which is not required when selecting public domain. [REDACTED] you use RDR a DIO will be assigned to your data; you can get a DOI for your code in gitlab by uploading it in RDR via the integration dashboard: https://www.kuleuven.be/rdm/en/rdr/integration-dashboard",
+  "label": "good with suggestions"
+}

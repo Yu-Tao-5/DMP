@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2223",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The early microglia–neuron interactions in Alzheimer’s Disease and their modulation by immunotherapy",
+  "InitialFeedbackHistory": "04/07/2023 [REDACTED] [REDACTED] metadata you now mention is very general citation metadata, there are more suitable standards available for your data types, the MIBBI https://fairsharing.org/3518 with MINSEQE for omics and MIFlowCyt for cytometry for example or OME for microscopy, for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata or ask the core facility where you do the analysis which metadata is added by their instruments [REDACTED] please make sure this section is consistent with your data, will you collect personal data? [REDACTED] [REDACTED] repositories will you use? EBI has many repositories in your field, https://www.ebi.ac.uk/submission/ and KU [REDACTED] also has its own repository RDR: https://www.kuleuven.be/rdm/en/rdr, for more information see:https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1085",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The bittersweet taste of bacteria in the nose of patients with chronic rhinosinusitis with nasal polyps.",
+  "InitialFeedbackHistory": "01/07/2022 4. [REDACTED] 7. [REDACTED] A collection of metadata standards that may be useful for your work are the MIBBI: https://fairsharing.org/3518, for example MINSEQE and MIQE. [REDACTED] microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2). [REDACTED] place to find metadata standards and guidelines are data repositories. [REDACTED] you considered which repositories to use for sharing already? [REDACTED] for example EBI be suitable for your work (https://www.ebi.ac.uk/submission/)? [REDACTED] the submission guidelines of candidate repositories may help you to decide the contents of the readme files that you write along with your experiments. 6. [REDACTED] Please note that the KU [REDACTED] RDM policy recommends 10 years of storage (www.kuleuven.be/rdm/en/policy). [REDACTED] UZL ethics committee even recommends 25 years of data preservation, which is mandatory for data related a clinical trial.",
+  "label": "good with suggestions"
+}

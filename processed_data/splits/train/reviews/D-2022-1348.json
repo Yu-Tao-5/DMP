@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1348",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Second and Third Harmonics, a dynamic and Label-free imaging technique to study (bio)-polymers and cellular structures\r\nAcronym: STHar-Lite",
+  "InitialFeedbackHistory": "07/06/2022\r\n3. Ethics, please list the ethics approval reference numbers. \n6. Preservation: storing data on a hard drive only is risky, please contact your local IT team to discuss alternatives such as large volume storage or the archive server.\n7. There are also some microscopy repositories available such as Image Data Resource (https://idr.openmicroscopy.org/) which may be  suitable for sharing your data. If you prefer a generic repository instead of zenodo you can also use KU Leuven RDR  to share your data, for more information see: https://www.kuleuven.be/rdm/en/rdr.",
+  "label": "good with suggestions"
+}

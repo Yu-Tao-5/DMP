@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1458",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Model Atmospheres of Massive Stars with Winds - Finally Toward 3D",
+  "InitialFeedbackHistory": "18/07/2022 2. [REDACTED] [REDACTED] you give an estimation of the total volume of data that you will collect? this may help to assess if you have sufficient storage space or need to contact ICTS to discuss which other solutions are available, if you only collect small datasets you can just give a maximum total volume. [REDACTED] you considered whether you can store your data in open formats to facilitate preservation and sharing, or do you lose information in open formats and prefer to use proprietary formats. 3. 3rd party agreements: [REDACTED] is the source of the existing data? [REDACTED] you receiving these with a data transfer agreement or are these shared with a licence? 4. [REDACTED] will MPI-AMRVAC add metadata to your datasets?",
+  "label": "good with suggestions"
+}

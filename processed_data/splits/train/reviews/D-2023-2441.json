@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2441",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Silver Zeolite Composites - Based LED: Insights from Multiscale Modeling and Accelerating Discovery by Artificial Intelligence.",
+  "InitialFeedbackHistory": "05/01/2024\r\nData: Will you use any physical data (materials, models) or will you use/generate software/code? please also list these in the table (in your future DMPs)\nPreservation: You list RDR under preservation but not under data sharing. Please note that you cannot use RDR for preservation only, but if you make your data available for reuse in RDR your data will also be preserved there; for data that is not deposited in RDR (or github) consult the storage guide (https://icts.kuleuven.be/storagewijzer/en)",
+  "label": "good with suggestions"
+}

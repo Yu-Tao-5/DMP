@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1564",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Heterologous Expression of Calvin Cycle Enzymes in S. cerevisiae for Hemi-Autotrophic Growth and Bioethanol Production in a Novel Yeast-Driven Bionic Leaf",
+  "InitialFeedbackHistory": "15/07/2022\r\n4. Metadata\nAre PDB metadata not suitable for your protein sequences? Also check which metadata standards are used byreporistories you plan to use: GenBank, GEO.\n\n5. Storage\nIs there no suitable KU Leuven managed storage you can use in stead of dropbox? Have a look here: https://icts.kuleuven.be/storagewijzer/en\n\nUnder storage you mention EGA, but I see no human-related omics data.\n\n7. Data sharing\nFor non-omics digital data you can use KU Leuven RDR: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

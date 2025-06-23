@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1173",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Mapping the cell-surface molecule repertoires patterning hippocampal CA1 border interneuron connectivity",
+  "InitialFeedbackHistory": "06/07/2022\r\n2. Data: you don't have to list your manuscript/thesis in a DMP, notebooks fit better under 4\n7. Sharing: Have you considered any specific repositories? Would IDR (https://idr.openmicroscopy.org/) or EBI (https://www.ebi.ac.uk/submission/) for example be suitable? Reading the submission guidelines of candidate repositories may help you to decide which information to collect in your readme files along with your experiments. For data for which no domain specific repository exists you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

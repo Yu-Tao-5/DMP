@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1943",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Towards a mechanistic understanding of confidence",
+  "InitialFeedbackHistory": "17/04/2023\r\nPlease submit your updated DMP as discussed by email with Wouter\r\n\r\n04/04/2023\r\nAccording to the description and data table you will work with human participants, this means that there are ethical issues and that you will collect personal data, please add this information in your DMP and make sure you have ethics approval and that the processing of personal data is registered via a PRET application, for more information see https://research.kuleuven.be/en/associatienet/ethics/index. Please submit an updated DMP with application number(s)\n\nData: please give more detail about the experimental data, what are you collecting, are these interviews, results of tests in a laboratory, surveys? Are you only collecting csv files? \nDocumentation and metadata: how will you document the experiments, do you use protocols, SOPs, notebooks, codebooks?  Will you use DICOM or BIDS for MRI data? \nSharing: Will you be able to fully anonymize your data? Make sure to include sharing in your PRET application and informed consent.",
+  "label": "good with suggestions"
+}

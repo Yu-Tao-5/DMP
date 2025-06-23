@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3517",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Integration of long read genome sequencing and single-cell multi-omics to identify genetic variation underlying Parkinson’s disease",
+  "InitialFeedbackHistory": "20/01/2025\r\nData: Please add the samples that you will use in the data table, these are considered physical data in the context of a DMP, also describe how you document, store and preserve and share them in the following questions. \nEthics: it is stated that ethics approval was obtained (S64966). As this is an approval obtained a few years ago, can you please double check whether that approval covers the current research plan? In addition, it seems there is a processing of personal data. Please note it is most likely not correct to state the data are anonymized. Please check: https://admin.kuleuven.be/privacy/en/studpers/researchers#autotoc-item-autotoc-8 for the KU Leuven vision on anonymous vs pseudonymized data. Has this processing of personal data been registered using one of the 'privacy review at KU Leuven' procedures (see https://admin.kuleuven.be/privacy/en/studpers/index)?",
+  "label": "good with suggestions"
+}

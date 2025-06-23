@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1470",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Mapping single-cell drug responses in Glioblastoma",
+  "InitialFeedbackHistory": "04/07/2022\r\n2. Data: you can also include your samples in the table, these are considered \"physical data\". \n3. Ethics: you mention mouse models in you data table, please also list these approval number(s) from the animal ethics committee. \n7. Sharing: Since you work with patient data it may be better to use a European EBI repository instead of the US based NCBI, for repository selection see www.ebi.ac.uk/submission/. For data for which there is no specific repository you can use KU Leuven RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

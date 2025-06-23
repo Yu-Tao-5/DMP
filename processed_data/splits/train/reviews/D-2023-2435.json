@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2435",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Engineering viral vectors for high-throughput CRISPR genetic screens in plants",
+  "InitialFeedbackHistory": "24/11/2023\r\nFor use of data repositories to make your data FAIR, I suggest that besides RDR you also look at repositories for the life sciences, as for some of your data types those will be more relevant. You already mention using GenBank further in your DMP, so make sure you indicate that each time you refer a repository to make data FAIR. That is also a data repository. Have a look here for further relevant repositories: https://elixir-europe.org/platforms/data/elixir-deposition-databases and https://elixir-europe.org/platforms/data/core-data-resources\n\nFor file naming convention you have a paragraph of text that has nothing to do with your research (oral histories, amnesty etc). Remove this. Write here what you are already now applying in your research. Starting from your WPs is good.\n\nUnder Accessible you first indicate that you will not share certain data due to contractual restrictions. Which are those restrictions? You need to explain this.  Is this about valorization / IP by KU Leuven, or are there industry partners involved? Either way, the EC is very clear in their requirements that it is mandatory for you to place all research data in data repositories, as open as possible, or with restricted access if needed. See their requirements here: https://www.kuleuven.be/rdm/en/guidance/funder#he  So data that need a restriction also need to be in a data repository, with then information of how access can be requested.",
+  "label": "good with suggestions"
+}

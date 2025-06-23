@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3830",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "",
+  "Funder": "",
+  "ProjectTitle": "Peroxisomes and vision: what is the role of peroxisomal 􀉴􀍲oxidation in the retina?",
+  "InitialFeedbackHistory": "02/06/2025\r\nGood DMP. In the final DMP, we recommend updating the content to reflect what has actually been done and where the data is currently stored, rather than outlining intended actions as in an initial DMP. If there are any updates were data is shared and stored please add them, e.g. in the preservation section, you mention considering whether cells, tissues, and mice need to be preserved. In a final DMP it would be more appropriate now to state whether they have been preserved, along with the rationale and storage location. If the data has been deposited in GEO or another repository, please include the accession number for reference.\nYou can find additional guidance on updating a final DMP here: https://zenodo.org/records/10985170\nI noticed you generated your DMP in the retired KU Leuven instance of DMPonline, if you need help accessing a modifiable version please contact rdm-icts@kuleuven.be \n\nYou mention preserving your data on the J drive, while this is OK for small volumes, there are more cost-effective alternatives available, e.g. the read only K drive/ archive server or FriGO which is currently in a pilot phase. Our ICTS colleagues can advice: rdm-icts@kuleuven.be \n\nPlease note that for more recent projects starting after September 2022 the Flemish Standard Data Management Plan should be used",
+  "label": "good with suggestions"
+}

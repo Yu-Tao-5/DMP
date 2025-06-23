@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2184",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Generation of purified biomimetic nanoparticles to stimulate therapeutic delivery to tumor cells",
+  "InitialFeedbackHistory": "14/07/2023\r\nMetadata: OME-TIFF has a metadata standard OME-xml. Consider whether that is iseful for your data. For DICOM consider conversion to Nifti as an open standard.\n\nTissues & cells: will these be preserved after the research? Where? And shared?",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1307",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of a mouse model for Multiple System Atrophy based on peripheral triggers of a-synuclein aggregation and propagation.",
+  "InitialFeedbackHistory": "28/06/2022 [REDACTED] good and detailed DMP. 4. [REDACTED] OME-TIFF focuses on microscopy, this may not be very suitable for western blots and gels. [REDACTED] rtPCR you can take a look if you find MIQE useful (https://fairsharing.org/FAIRsharing.mxz4jy). [REDACTED] take a look at the arrive guidelines for reporting of animal experiments since many journals ask to follow these (https://arriveguidelines.org/) 7. [REDACTED] you considered using any specific repositories for data sharing? [REDACTED] IDR (https://idr.openmicroscopy.org/) or EBI (https://www.ebi.ac.uk/submission/) for example be suitable? [REDACTED] you can the KU [REDACTED] data repository RDR (www.kuleuven.be/rdm/en/rdr) where you can also restrict access to files or apply embargo if needed.",
+  "label": "good with suggestions"
+}

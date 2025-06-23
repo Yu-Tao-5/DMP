@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2574",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The neurobiology of meaning composition: a multi-method research approach",
+  "InitialFeedbackHistory": "29/05/2024\r\nPlease make sure data sharing in openneuro.org is clearly described in your PRET application. You write in your DMP that you will add access restrictions, does openneuro allow this, the license CC0 suggest data will be open? I advise to contact pret@kuleuven.be before sharing your data to review if openneuro.org is suitable for your data\r\n\r\n29/05/2024\r\nPlease make sure data sharing in openneuro.org is clearly described in your PRET application. You write in your DMP that you will add access restrictions, does openneuro allow this, the license CC0 suggest data will be open? I advise to contact pret@kuleuven.be before sharing your data to review if openneuro.org is suitable for your data",
+  "label": "good with suggestions"
+}

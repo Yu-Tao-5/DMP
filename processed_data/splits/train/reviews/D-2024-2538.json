@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2538",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Detecting depression in time: novel statistical process control methods and applications",
+  "InitialFeedbackHistory": "14/02/2024\r\n- Besides the use of the EMOTE data, the project also seems to reuse the data from a number of publications. Have these data been anonymized? In addition, can the data be reused for the current project? Has this been discussed with SMEC/PRET? Having ethics approval for the original use does not automatically mean the data can also be used for other purposes.\n- Please also note that the EMOTE data seem to be de-identified, which is not the same as 'anonymized'. It rather seems that the data have been pseudonymized as it cannot be excluded that the researchers that uploaded the data can still trace back the identity of the participants. Can you please check https://admin.kuleuven.be/privacy/en/studpers/researchers#section-8 for the difference between anonymized and pseudonymized?\n- Given the above, it is probably best to consider the data as personal data. Consequently, please register the use of this data by requesting a PRET review, please contact pret@kuleuven.be if you have any further questions.",
+  "label": "good with suggestions"
+}

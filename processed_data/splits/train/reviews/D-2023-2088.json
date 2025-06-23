@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2088",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Advances and applications of symmetric tensor decomposition",
+  "InitialFeedbackHistory": "17/01/2023\r\nStorage: Will you store all your data online, also the data that you are actively working on? If not please have a look at the storage guide to find KU Leuven recommended storage solutions for your data: https://icts.kuleuven.be/storagewijzer/nl\nPreservation: Please note that Lirias is for publications, for data you can use RDR: https://www.kuleuven.be/rdm/en/rdr\nSharing: Will you also share code? In that case a software licence is more appropriate, you can use this licence selector to choose: https://ufal.github.io/public-license-selector/",
+  "label": "good with suggestions"
+}

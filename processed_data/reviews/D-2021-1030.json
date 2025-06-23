@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1030",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The Design and Cryptanalysis of Quantum-Resistant Digital Signatures",
+  "InitialFeedbackHistory": "10/05/2023 [REDACTED] there's algorithms, software, code that you create / manage / use in this research, then please include this in the DMP. [REDACTED] indicate where/ how those will be managed, documented, published etc. 02/08/2022 [REDACTED] must be some 'resources' that you create / generate in your research: algorithms, software, models, .... or do you use existing data to test? [REDACTED] these resources as your data in the DMP. [REDACTED] indicate where/ how those will be managed, documented, published etc. [REDACTED] can be entirely in your papers. [REDACTED] it may be that you manage / publish via GitLab/GitHUb.",
+  "label": "good with suggestions"
+}

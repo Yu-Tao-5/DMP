@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1374",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Home-based PHysical rehabilitatiOn after livEr traNsplantation and Impact of eXercise intensity: a Randomized Controlled Trial [PHOENIX-RCT]",
+  "InitialFeedbackHistory": "20/05/2022\r\n2. Data: Please also include file formats and volumes, best use open or standard formats where possible to facilitate preservation and sharing. If your datafiles are expected to be large it is recommended to contact your local IT team to discuss the most suitable storage solutions. \n3. Ethics: Upon ethics and privacy approval please update your DMP to include the approval numbers and revise other sections if changes are needed upon ethics review. Please submit your updated DMP as intermediate. \n4.2. Metadata: You can mention redcap metadata here and it is also likely your instruments generate metadata with your measurements, DICOM for medial imaging for example.",
+  "label": "intermediate DMP needed"
+}

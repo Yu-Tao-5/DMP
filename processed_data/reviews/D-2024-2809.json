@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2809",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "FraudPANDA -- Counteracting Fraud using Pro-Active (Network) Detection and Analysis",
+  "InitialFeedbackHistory": "14/03/2024 [REDACTED] [REDACTED] now only mention the source dataset in the table, but in DMP data is more than this, will you write code, generate processed data files, etc, also list these in the tabel and think about how these should be managed, will these be stored at KU [REDACTED] [REDACTED] all the processing of personal data be done at the financial institutions? [REDACTED] you transfer any personal data to KU [REDACTED] please consult: https://research.kuleuven.be/en/associatienet/ethics/index and and apply for privacy and ethical approval.",
+  "label": "good with suggestions"
+}

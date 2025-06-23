@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2926",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Nano-hybrid materials based on metal-organic frameworks as artificial enzymes for proteomics applications",
+  "InitialFeedbackHistory": "30/04/2024 [REDACTED] if you will use any samples/materials, please also list these in the table and describe how these are documented and stored, these are considered physical data in the context of a DMP [REDACTED] storing data on hard drives is not very secure, please have a look at the storage guide for solutions recommended by KU [REDACTED] most of these make automatic backups: https://icts.kuleuven.be/storagewijzer/en [REDACTED] please correct [REDACTED] [REDACTED] [REDACTED] (RDR) [REDACTED] [REDACTED] [REDACTED] Note that RDR is a data repository for data publishing which preserves data as well, but you can't use RDR just for archiving without the intention to share, see https://www.kuleuven.be/rdm/en/rdr [REDACTED] peer reviewed publication are not in the scope of a DMP, please describe here how you will share your data underlying these publications.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3214",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "In-dept characterization of cryptic ADAMTS13 epitopes: hidden witnesses of structural autoinhibition to elucidate the allosteric ADAMTS13 activation",
+  "InitialFeedbackHistory": "20/01/2025\r\nEthics: You mention using human cells in the data table, please note that these are human bodily material and fall under the biobank law, please ensure you have ethical approval before starting to work with these cells, for more information see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nMetadata: Will you use metadata generated with your measurements by instrument software or other disciplinary metadata, e.g. MINSEQE for sequencing? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata/life-sciences\nSharing: please note that repositories assign a PID upon data deposit, RDR uses DOIs. You can also consider using disciplinary repositories to share your data, e.g. https://www.ebi.ac.uk/",
+  "label": "good with suggestions"
+}

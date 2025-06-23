@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1650",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Neurobotics: blended brain-machine control for human assistance using hybrid smart systems",
+  "InitialFeedbackHistory": "27/03/2023\r\nPlease list the ethical approval numbers, since you collect data from patients also indicate that you work with personal data and include the privacy registry number (included in UZL ethics S number or PRET approval number) \nMetadata: will you use BIDS or DICOM metadata which are often used in Brain Imaging? for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata",
+  "label": "good with suggestions"
+}

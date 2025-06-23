@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2176",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of a CRISPR-based tool for localized random mutagenesis of biosynthetic pathways",
+  "InitialFeedbackHistory": "29/06/2023 [REDACTED] mention that you will closely monitor the MIBBI, these already have standards relevant for your datatypes, eg MINSEQE, MIxS, MIFlowCyt for more information see https://fairsharing.org/MIBBI. [REDACTED] may als be added by your instruments during analysis, ask the core facilities which software they use and which metadata these add, for more information see https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] there a specific reason to use [REDACTED] [REDACTED] also have a 2TB onedrive linked to your KU [REDACTED] account that you can use without extra costs, for more information and to compare storage solutions recommended by KU [REDACTED] ICTS see https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

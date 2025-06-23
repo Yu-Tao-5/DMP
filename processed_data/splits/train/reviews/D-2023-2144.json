@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2144",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "An AI-driven study of mRNA subcellular localization using highly-multiplexed super-resolution in situ transcriptomics",
+  "InitialFeedbackHistory": "14/07/2023\r\nData: Please also list the samples that you may use, these are considered physical data\nEthics: In the datatable you mention mammalian gut enterocytes, and murine embryo's. Please add the ethical approval number from the animal ethics committee (ECD), if you receive material from others list their approval number or, if from outside KU Leuven, apply for an M number using the form  \"Notification of replacement (4R) animal experiment\" or \"Notification animal experiments done outside of KU Leuven/UZ as part of a collaboration\" that you can find here:https://www.kuleuven.be/animalia/en/forms/index.html#ecd. You may also need this number for your publications.",
+  "label": "good with suggestions"
+}

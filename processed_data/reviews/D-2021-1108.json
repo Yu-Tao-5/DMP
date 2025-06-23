@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1108",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "BOOST - stimulating BOne remOdelling against metaSTasis",
+  "InitialFeedbackHistory": "26/07/2022 2. [REDACTED] can you give an estimation of the volumes of your datasets already, if these are small you can just give a maximum, for lager volumes this may help to decide where to store your data and whether you have to contact ICTS to purchase additional storage. Please also include your samples, these are physical data. 3. [REDACTED] [REDACTED] mention the [REDACTED] [REDACTED] [REDACTED] 95/46/EC, this is however replaced by the GDPR. 3. 3rd party restrictions: what is the origin of the patient data and cells? [REDACTED] these from a previous study in your department or did you obtain these elsewhere with a data/material transfer agreement? 4. [REDACTED] and metadata: [REDACTED] can also consider using KU [REDACTED] [REDACTED] server (https://gitlab.kuleuven.be/) for version management of source code files and the following naming conventions could be useful to consider: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424 and www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions 7. [REDACTED] sharing and reuse: [REDACTED] you considered which open access repository you will use to share your public datasets? EMBL-EBI has many good repositories for example: www.ebi.ac.uk/submission/, but if there is no suitable disciplinary repository you can use KU [REDACTED] public data repository RDR: https://www.kuleuven.be/rdm/en/rdr/rdr [REDACTED] you can specify which license you will use to share your computer scripts. [REDACTED] tool can help you to choose an appropriate license: https://ufal.github.io/public-license-selector/",
+  "label": "good with suggestions"
+}

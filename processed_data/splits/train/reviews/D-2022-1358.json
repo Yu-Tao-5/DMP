@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1358",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Air pollution as a CAtalyzer of defective angiogenesis Driving chronic thromboEmbolic pulMonary hypertension progression: Insights from in vivo and in vitro Approaches\r\n\r\nAcronym: ACADEMIA",
+  "InitialFeedbackHistory": "07/06/2022\r\n3. Ethics: Your ethical approval (S57114) is already a bit older, is this updated to be compliant with the GDPR and does this include ethical approval for the use of personal data and human bodily material for this project? Is all human bodily material registered in the biobank? \n4. Metadata: A collection of metadata standards that may be useful for your work are the MIBBI, see https://fairsharing.org/search?q=mibbi\n5. Storage: storing data on a hard drive only is risky, it is recommended to contact your local IT team to discuss alternatives such as the large volume storage. \n6. Preservation: Please note that the UZL ethics committee recommends 25 years of data preservation, if you study is a clinical trial storing your data for 25 years is a legal requirement.\n7. Sharing: please note that KU Leuven now has an institutional data repository that you can use for data sharing, if needed you can restrict access and others can request access trough the repository, for more information see: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

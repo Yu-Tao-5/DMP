@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2015",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Single-cell sorting and DNA profiling for complex forensic casework",
+  "InitialFeedbackHistory": "05/06/2023\r\nDo the samples from which you generate DNA profiles, MPS sequencing data, microscopy images and FCS files need to be managed, documented and preserverd too? If so, then include them in the DMP as physical data.",
+  "label": "good with suggestions"
+}

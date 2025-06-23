@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1231",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Loss of cardiac resident macrophage self-renewal as a trigger for Heart Failure with preserved Ejection Fraction.",
+  "InitialFeedbackHistory": "08/06/2022\r\n3. Ethical and Legal: Are you processing patient data and/or samples at KU Leuven or are these only processed at a collaborators institute? Please note that pseudonymous data is still personal data according to the GDPR, if you use these at KU Leuven this needs to be registered via a PRET application, please have a look at https://admin.kuleuven.be/privacy/en/studpers. If you receive human bodily material this needs registration in the UZ/KU Leuven biobank (www.uzleuven.be/en/uz-kuleuven-biobank). Also ensure that the ethical approvals cover the use of data and human bodily materials for this specific project.\n6. Preservation: Please note that the KU Leuven RDM policy asks for 10 years of data preservation instead of 5 years expected by FWO. \n7. Sharing: Please note that KU Leuven now also has a data repository (RDR) see www.kuleuven.be/rdm/en/rdr. For human sequencing data it is better deposit these under restricted access in an European repository, see https://ega-archive.org/ or www.ebi.ac.uk/submission/",
+  "label": "good with suggestions"
+}

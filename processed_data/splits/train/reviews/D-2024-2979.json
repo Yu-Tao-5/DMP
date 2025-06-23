@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2979",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Uncovering short- and long-term circuit mechanisms of locomotor rehabilitation after spinal cord injury.",
+  "InitialFeedbackHistory": "07/06/2024\r\nData: please list the different data types in different rows in the table, that makes it easier to have an overview of your data and to refer to the different datasets later in the DMP. \nMetadata: You write: \"We will closely monitor MIBBI (Minimum Informaton for Biological and Biomedical Investigations) for metadata standards that are more specific to our data\": the RDM experts at 2 bergen can help you to implement the MIBBI, you can contact them via onderzoek2bergen@kuleuven.be; they can also help you to select a repository suitable to share your data.",
+  "label": "good with suggestions"
+}

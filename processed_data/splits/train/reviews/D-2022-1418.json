@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1418",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "The gut barrier as master regulator of microbiome-host interactions: exploring the structure and function of paracellular and transcellular transport in the large intestine.",
+  "InitialFeedbackHistory": "01/06/2022\r\n3. Ethics: Please include the reference number of the privacy registration and approval. Your ethics approvals are already a bit older, are these still valid, updated to comply with the GDPR and do these approvals also cover the secondary use of the patient samples/data in this project? For more information see: www.kuleuven.be/english/research/ethics/committees. \n4. The MIBBI metadata standards may also be useful for your work, for example MISEQE and MIQE and see https://fairsharing.org/3518. \n7. When sharing gene expression data there may still be a risk of re identifying the subjects, it is therefore recommended to share these data under restricted access in a European database such as EGA https://ega-archive.org; or see www.ebi.ac.uk/submission/ for more repositories.",
+  "label": "good with suggestions"
+}

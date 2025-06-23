@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3143",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "NEONAID: Neonatal Online Neuro-Analysis for Interpretation and Decision-support - Bringing automated neonatal monitoring to the bedside.",
+  "InitialFeedbackHistory": "06/01/2025 [REDACTED] you now only list existing data that you will reuse, will you generate new data? [REDACTED] can also include code, models etc. [REDACTED] metadata is also useful for yourself and your colleagues when you are not planning to share your data, but since you re-use medical data you may already use metadata, eg BIDS, DICOM or metadata from the [REDACTED] [REDACTED] [REDACTED] (KWS). [REDACTED] more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata",
+  "label": "good with suggestions"
+}

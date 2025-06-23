@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1957",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Neural dynamics of unresponsive states",
+  "InitialFeedbackHistory": "30/05/2023 [REDACTED] [REDACTED] you are working with patient data and imaging files you will process personal data, also if the data is pseudonymous when you receive it, it is still considered personal data under the GDPR. Please check if this is already registered via your ethical approval (via your supervisor or ec@uzleuven.be), otherwise please update your application and submit a PRET application if needed, for more information see: https://admin.kuleuven.be/privacy/en/studpers/index [REDACTED] Please note that the preservation time for clinical trails is extended to 25 years [REDACTED] [REDACTED] sharing section is a bit confusing, you mention IP as restriction here but no IP issues under the data section and when working with patient data privacy would likely restrict sharing. [REDACTED] also mention a licence (CC-BY), but for restricted data a data transfer agreement is normally needed. [REDACTED] you also considered using a repository to deposit your datasets under restricted access, this also gives your data a DOI to make it citable and can be done in RDR for example: https://www.kuleuven.be/rdm/en/rdr ? [REDACTED] more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

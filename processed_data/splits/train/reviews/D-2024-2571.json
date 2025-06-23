@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2571",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Novel IR spectroscopy methods for surface and diffusion characterization of small-pore zeolites using transient probe adsorption",
+  "InitialFeedbackHistory": "23/05/2024\r\nYour project description under general information does not match with your project title and the research data summary, please correct this and make sure the DMP contains only information relevant for your project. \n\nData: will you use samples/materials? These are considered physical data in the context of a DMP, please list these the table as well and if relevant describe how you document, store and preserve these. Also add code/scrips/software if you write these. \nMetadata: which standard will you use? \nPreservation: where will you preserve the data? Note that the use of external hard drives is not very save and secure, the storage guide can help you choose https://icts.kuleuven.be/storagewijzer/en\nSharing: where will you share your data, which repository will you use, you can use the KU Leuven institutional repository RDR (https://www.kuleuven.be/rdm/en/rdr) which also ensured preservation for at least 10 years; you can find some other suggestions here: https://www.kuleuven.be/rdm/en/guidance/data-sharing. Note that most repositories assign an identifier, eg a DIO for RDR.",
+  "label": "good with suggestions"
+}

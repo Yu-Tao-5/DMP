@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1998",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Targeting LEDGF/p75 for Mixed Lineage Leukemia and chemoresistant malignancies",
+  "InitialFeedbackHistory": "24/05/2023\r\nData: What is the origin of your cell lines? Please note that human cells including cell lines are considered human bodily material for which registration with the UZL ethics committee is required, for more information and forms see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nMetadata: metadata is generated with many of your experiments and data repositories that you may consider using for data sharing your data also ask for metadata, the header for microscopy for example, MIFlowCyt for flow cytometry or MIQE for rt PCR which may help you to understand the content of your data. For more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata",
+  "label": "good with suggestions"
+}

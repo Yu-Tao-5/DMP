@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1991",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Towards development of novel tools for plastic degradation pathway discovery from meta-omics data",
+  "InitialFeedbackHistory": "01/02/2023\r\nData: please also include the physical data that you collect (samples, cells etc) in the table \nMetadata: is there metadata associated with the sequencing data, for example following MIxS: https://fairsharing.org/FAIRsharing.9aa0zp",
+  "label": "good with suggestions"
+}

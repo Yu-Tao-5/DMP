@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2960",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The role of TRPM3 in the development of pathological pain - from the periphery to the brain",
+  "InitialFeedbackHistory": "10/07/2024\r\nData: Will you use samples or materials? Please note that these are considered physical data in the context of a DMP, also list these the table and describe how you document, store and preserve them. \nEthics: In the “research data summary” section, you mention to use animal data. Please provide the approval number of the ethical committee under the section on ethical issues\nIn the DMP is stated that after the project, data and metadata will be stored in ManGO. However, ManGO is a KU Leuven storage solution for storage of research data and metadata during the active phase of a research project. For storage after the end of the project, other KU Leuven storage (e.g.: KU Leuven large volume storage, RDR, …) solutions could be used. (see storage guide for further information: https://icts.kuleuven.be/storagewijzer/en).",
+  "label": "good with suggestions"
+}

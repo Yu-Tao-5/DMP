@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2454",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "HyPro: Automatic hybrid digital twins for process modelling",
+  "InitialFeedbackHistory": "09/01/2024 [REDACTED] please describe here how you will document your data, storage is part of the next question, for example using readme files, comments in code etc. for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] Please clarify for which data you use the digital vault, the digital vault is normally used for sensitive personal data which you don't list in your data table. [REDACTED] a look at the storage guide for more information and to compare different storage solutions https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

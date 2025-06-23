@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1237",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Azithromycin for Chronic Obstructive Pulmonary Disease:  A Patient-tailored Prescription",
+  "InitialFeedbackHistory": "24/06/2022\r\n3. Ethics: Please update your DMP when you have all the ethical approvals, you can submit this DMP as intermediate. \n4. Metadata: DICOM is also a metadata standard that you can mention here. \n7. Sharing: Have you considered to use repositories for data sharing and preservation? If there are no domain specific repositories in your field you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) where you can keep your data under restricted access if you can't fully anonymize the data",
+  "label": "intermediate DMP needed"
+}

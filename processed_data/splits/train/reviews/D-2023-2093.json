@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2093",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Continuous Monitoring of Diabetes biomarkers (CoMoDi)",
+  "InitialFeedbackHistory": "15/02/2023\r\nDocumentation: please explain here how you will document your data, will you use(e)notebooks, readme files, protocols, will you generate metadata with your measurements? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata. \nStorage/preservation: Please avoid the use of (free) cloud services such as dropbox, consult the storage guide to choose more secure solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1223",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "A study on the loss of small airways and epithelial cell changes in chronic lung diseases",
+  "InitialFeedbackHistory": "24/06/2022 4. [REDACTED] are you collecting metadata with your measurements, OME for example is often used for microscopy (https://fairsharing.org/FAIRsharing.cq8tg2) 7. KU leuven now also has a data repository (RDR) that you can use for data preservation and sharing: https://www.kuleuven.be/rdm/en/rdr. [REDACTED] microscopy have a look if IDR or a similar repository could be suitable (https://idr.openmicroscopy.org/)",
+  "label": "good with suggestions"
+}

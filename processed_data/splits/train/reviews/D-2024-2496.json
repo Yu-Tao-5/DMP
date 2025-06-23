@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2496",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Novel tree-ensemble based methods for weakly-supervised structured output prediction with applications in biomedicine",
+  "InitialFeedbackHistory": "10/04/2024\r\nData: You now list only source data in the table, please also add the data that you will generate e.g. code, processed files, models and describe later in the DMP how you will manage them. \n\nEthics:\n- it is stated that ethics approval for the use of the EPaNIC was obtained. However, it is not clear whether the retrospective use of the data within the current study is covered by that approval. Moreover, given that these data were collected pre-GDPR, it is suggested to check whether the current processing of the data is in line with the GDPR.\n- In addition, the information in this DMP contradicts the information in the Compliance Monitoring Tool file of the project (see https://research.kuleuven.be/en/integrity-ethics/cmt-guidance), where it is stated that \"For carrying out this research project, no ethics approval is required. In addition, no personal data will be processed in the project.\" Please update the CMT file by adding the relevant approval number(s). To re-open the file, please contact Hanne De Brue (hanne.debrue@kuleuven.be).\n\nPreservation/Sharing: you mention RDR to preserve but not to share data; note that RDR is not just a storage solution but intended to make data available for others for reuse and to perserve it at the same time, see www.kuleuven.be/rdm/en/rdr. GitHub which you describe for sharing will preserve your data as well so you can add this under preservation; but you can also import your data from GitHub in RDR and make it available there under a DIO via the integration dashboard.",
+  "label": "good with suggestions"
+}

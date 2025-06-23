@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2409",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Nuclear metabolism in the control of cancer cells methylome under hypoxia.",
+  "InitialFeedbackHistory": "05/01/2024\r\nData: in your future DMPs, please also include cells/biological materials in the data table, these are considered physical data, note that you may also need ethical and/or privacy approval when working with human materials, cells or data, for more information see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nMetadata: the \"spreadsheet headers corresponding to fields required by these public repositories\" and instrument metadata that you mention under the previous question are your metadata (standards), for sequencing for example this likely corresponds with MINSEQE which is also used by GEO. Have a look at https://www.kuleuven.be/rdm/en/guidance/documentation-metadata if you like to learn more\nStorage: you mention several storage locations, maybe its easier limit to only 1 or a few suitable locations, you can find which storage solution meets your criteria best in the ICTS storage guide: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1165",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Probabilistically modelling the birth and death of stars: changing the game with fast and precise emulation-enabled radiative cooling",
+  "InitialFeedbackHistory": "18/07/2022 2. [REDACTED] have you considered which formats to use? [REDACTED] you can store your data in open formats to facilitate preservation and sharing, or do you lose information in open formats and prefer to use proprietary formats. 6. [REDACTED] please note that the KU [REDACTED] RDM policy expects 10 years of data preservation (www.kuleuven.be/rdm/en/policy) 7. [REDACTED] for costs you write N/A, better to explain whether the use of github for your data or the fee is already covered by department.",
+  "label": "good with suggestions"
+}

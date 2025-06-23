@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2931",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Sediment Transported In Coastal systems is reworKed by eco-sYstem engineering algae: Field observations, lab experiments and modeling - STICKEY",
+  "InitialFeedbackHistory": "05/07/2024\r\nDear,\n\nThis is a decent dmp. A few remarks to deal with in the next version:\n-\tAffiliation is not indicated.\n-\tWe advise to leave none of the questions unanswered, even if the answer is just “No”.\n-\tWhat measures are taken to make sure the data on OneDrive will remain available after a researcher leaves KU Leuven?\n-\tWhen answering “No” on the question whether a metadatastandard is used you should provide an explanation for your answer “No”.\n-\tUnder “Data sharing and reuse” you should also check the box “Yes, as restricted data”.\n-\tUnder “Which data usage licenses are you going to provide?” you only checked the data transfer agreement, but you will probably also have a CC license for the data without restricted access.\n-\tIf you use RDR, a DOI will be generated automatically, so the answer on “Do you intend to add a PID/DOI/accesion number to your dataset(s)?” should be yes.\n-\tRDR puts size limits on the amount of data you can upload. If you exceed these limits it’s best to contact RDR.\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

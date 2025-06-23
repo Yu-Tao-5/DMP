@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2995",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Enhancer-AI: AI-driven modelling and design of cell type specific enhancers for gene therapy",
+  "InitialFeedbackHistory": "19/04/2024 1. [REDACTED] [REDACTED] [REDACTED] - Please give an estimate of digital size of data files - [REDACTED] the models, algorithms, and other computational work, please give a format. [REDACTED] format is not the right way of framing the needed information, please specify the relevant information (e.g. programming language, ...). - [REDACTED] the physical samples: -- [REDACTED] the questions on ethics, you mentioned physical brain slices. Please mention those in the data table. -- [REDACTED] describing data storage of physical samples, you also mention more types of physical data. Please also mention those in the table if applicable. - [REDACTED] data is mentioned in the ethics questions. Please also add this data in the data table.",
+  "label": "good with suggestions"
+}

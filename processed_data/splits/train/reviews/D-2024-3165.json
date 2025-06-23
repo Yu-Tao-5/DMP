@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3165",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Amenable C*-dynamics and their classification",
+  "InitialFeedbackHistory": "11/10/2024\r\nDear,\nThis is a good DMP, especially given the challenge posed by having to write one for purely theoretical research. Just a few small remarks relating to “Making data openly accessible” and “Allocation of resources and data security”:\n-\tYou mention “all relevant data”. One might deduce from this that there are other data, irrelevant for the publication but maybe relevant in different contexts either for yourselves or for others. Is there really no attempt to keep such data available in some way?\n-\t“There is no further associated metadata, documentation or code applicable to the project”: you might add “outside of those contained in the publication”. Will probably contain keywords and MSC subjects.\n-\tIf you have APC’s to pay for publishing in Open Access journals it might be a good idea to mention those under “Allocation of resources and data security”.\nMark Verbrugge",
+  "label": "good with suggestions"
+}

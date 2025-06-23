@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2624",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed, new upload needed",
+  "Funder": "FWO",
+  "ProjectTitle": "Dietary interventions for disorders of gut-brain interaction: FODMAPs and beyond FODMAPs",
+  "InitialFeedbackHistory": "18/06/2024\r\nIn the research summary, for physical data (urinary samples, biopsies), can you indicate how many you plan to collect? \nEthics: since you are using personal/human data and need ethical approval, please include your EC approval reference (S number) in the DMP.\n\nDocumentation & metadata: since you use Qualtrics and RedCap, you will also have documentation that can be exported from those tools, eg the questionnaire form, variable definitions, etc. \n\nData storage: note that OneDrive is not suitable for personal data. Sharepoint is. Make this distinction.",
+  "label": "not good"
+}

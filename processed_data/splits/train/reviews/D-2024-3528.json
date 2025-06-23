@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3528",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The development of a novel intracellular Ca2+-buffering agent and its impact on cell function",
+  "InitialFeedbackHistory": "14/02/2025\r\nData: you list human cell lines in your data, table, these are human bodily material under the biobank law and registration of the use at the UZL ethical committee is required, for more information and procedures see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial. Please submit an updated DMP as intermediate when you have a registration (S) number. \nStorage: you indicate using OneDrive for storage during the project, the ICTS however recommends against the use of OneDrive for research data, please consult the storage guide for more information: https://icts.kuleuven.be/storagewijzer/en\nSharing: you mention using RDR for data sharing with is great, but note that there are also many disciplinary repositors in life sciences that may also be suitable for your data, e.g. https://www.ebi.ac.uk/; for more information see https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

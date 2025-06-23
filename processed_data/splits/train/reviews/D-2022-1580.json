@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1580",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "microBAT - MIcrofluidics Cartridge for RemOte Biofluids AcquisiTion",
+  "InitialFeedbackHistory": "09/06/2022\r\n3. Ethics: Upon privacy and ethics approval please update your DMP, include the approval number and update other sections if changes are made upon request by the ethical committee. You can submit this updated DMP as intermediate \n6. Preservation: Preservation of data on hard disks is risky, its recommended to contact your local IT team to discus alternatives such as using the archive server. Personal data should never be stored on hard drives. \n7. Sharing: There are many risks associated with sharing files trough Dropbox, see https://admin.kuleuven.be/icts/e-mune/filesharing for details and alternatives. It is better to use a repository to share datasets and here you also preserve your data, KU Leuven now also has an institutional data reposiry (RDR) that you can use: www.kuleuven.be/rdm/en/rdr\r\n\r\n09/06/2022\r\n3. Ethics: Upon privacy and ethics approval please update your DMP, include the approval number and update other sections if changes are made upon request by the ethical committee. You can submit this updated DMP as intermediate \n6. Preservation: Preservation of data on hard disks is risky, its recommended to contact your local IT team to discus alternatives such as using the archive server. Personal data should never be stored on hard drives. \n7. Sharing: There are many risks associated with sharing files trough Dropbox, see https://admin.kuleuven.be/icts/e-mune/filesharing for details and alternatives. It is better to use a repository to share datasets and here you also preserve your data, KU Leuven now also has an institutional data reposiry (RDR) that you can use: www.kuleuven.be/rdm/en/rdr",
+  "label": "intermediate DMP needed"
+}

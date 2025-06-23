@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1609",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Identification of metabolic states that stimulate the diversification of interneurons and the assembly of cortical circuits.",
+  "InitialFeedbackHistory": "28/07/2022\r\n3. Ethics: Are you using any human derived cells or cell lines? Please note that human cells, even when commercially obtained, are considered human bodily material under the scope of the biobank law. What are your in vivo recordings of, will you use animal models? If you will work with animals or human bodily material please apply for ethical approval and update your DMP. For more information see: www.kuleuven.be/english/research/associatienet/ethics/ and www.uzleuven.be/en/uzku-leuven-biobank/definition\n4. Metadata: which standards are you using? you already mention OME in the data table, will you use MINSEQE for sequencing (used by NCBI-GEO) and/or generate metadata with mass spec? \n5,6. Storage, preservation: storing data on dropbox is not recommended, please see https://icts.kuleuven.be/storagewijzer/nl for alternatives\n7. Sharing: please note that KU Leuven now also has an institutional repository (RDR) that you can consider as alternative for Zenodo (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

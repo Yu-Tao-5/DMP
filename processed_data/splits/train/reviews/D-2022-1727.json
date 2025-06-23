@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1727",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Bridging Data Science and Intellectual History: Computing the Nodes and Edges in and around the Old University of Louvain (1425-1797)",
+  "InitialFeedbackHistory": "07/07/2023\r\nIn the Research Data Summary, also include the data that you will create through your research using  the existing databases. Your research abstract states that you will plot and visualize networks of students, scholars and their ‘books’. These are your data. Will this be tabular data of the networks, or images? And consider whether these are all published in your papers, or whether a dataset of these network visualisations can also be published in RDR.",
+  "label": "good with suggestions"
+}

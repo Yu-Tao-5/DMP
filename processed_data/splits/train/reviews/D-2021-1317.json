@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1317",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Targeting intestinal macrophages as a new treatment for inflammatory bowel disease (IBD-MAC)",
+  "InitialFeedbackHistory": "27/06/2022\r\n2. Data description\nInclude your physical data (biopsies, tissue samples) also in this list.\n4. Metadata standards\nCheck whether using minimal information standards is useful, e.g. for flow cytometry (https://isac-net.org/page/MIFlowCyt ). There's a collection of such standards for biomedical research data: https://fairsharing.org/3518\n7. Data sharing\nDo you know which data repository you might use? There's a good list here: https://elixir-europe.org/platforms/data/elixir-deposition-databases",
+  "label": "good with suggestions"
+}

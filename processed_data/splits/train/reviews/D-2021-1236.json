@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1236",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Identification of therapies targeting lipid metabolism and myelination for Charcot-Marie-Tooth disease type 1A using patient-derived Schwann cells",
+  "InitialFeedbackHistory": "01/07/2022\r\n2. Data: you don't have to list your manuscripts here, you can describe protocols and lab books under documentation. \n3. Your ethics approval is already a bit older, is this updated for the (secondary) use of cells in this project? Are these registered in the biobank? Under 5 you also mention the use of private data and mice, please also list your privacy registration number and the ethical approval number from the animal ethics committee. \n7. Sharing: Have you considered any specific repositories? Would IDR (https://idr.openmicroscopy.org/), FlowRepository (https://isac-net.org/page/FlowRepository) or EBI (https://www.ebi.ac.uk/submission/) for example be suitable? Reading the submission guidelines of candidate repositories may also help you to decide which metadata to collect along with your experiments.",
+  "label": "good with suggestions"
+}

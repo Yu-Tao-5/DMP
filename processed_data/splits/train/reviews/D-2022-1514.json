@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1514",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Bcl-2/IP3R channel structural dynamics underlying complex formation, function and disease (BInamics)",
+  "InitialFeedbackHistory": "27/06/2022\r\nVery good DMP. \n3. Ethics: Are the cells that you will use from human origin? Please note that these also fall under the scope of the biobank which means the use has to be registered by submitting a short form to the UZL ethical committee. If your group already has this registration please add this under ethics. For more information see: www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial and www.uzleuven.be/nl/ethische-commissie-onderzoek/studie-met-lichaamsmateriaal. \n4. Metadata: Other metadata standards that may be interesting for your work are OME (https://fairsharing.org/FAIRsharing.cq8tg2) and MIFlowCyt (https://fairsharing.org/search?q=miflowcyt)\n7. Sharing: You don't have to describe open access publishing in a DMP, this only focuses on data underlying the publications. Are there any domain specific repositories in your field, is IDR suitable for example (https://idr.openmicroscopy.org/), otherwise KU Leuven RDR is a good alternative.",
+  "label": "good with suggestions"
+}

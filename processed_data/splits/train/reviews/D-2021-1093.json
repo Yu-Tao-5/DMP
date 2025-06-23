@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1093",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Conspiracist, Leaker, Troll, Influencer: A comparative analysis of four post-truth personae",
+  "InitialFeedbackHistory": "15/07/2022\r\n2. Data: please indicate that you reuse existing data; are you also generating some datasets, related to the analysis for example? \n3. Ethics: Since you work with social media information it is likely that you will collect personal data, even if this is publicly available the GDPR still applies. Please take a look at the privacy page to see if there may be privacy and/or ethical issues, (https://admin.kuleuven.be/privacy/studpers/index); discuss with your supervisor and contact the SMEC (smec@kuleuven.be) if you are not sure. \n4. Documentation: Also consider here how you will reuse the data that you collect now in a few years. Have you considered using tools that can help with data management such as the reference manager Zotero (www.zotero.org) which uses Dublin Core metadata? Another tool that may be useful is Tropy (https://tropy.org) to organize and annotate images. For text mining NVivo may be handy. If you like to learn more about these and other tools you can always request a meeting via rdm@kuleuven.be.\n7. Sharing: please note that KU Leuven now also has an institutional repository (RDR) that you can use if you generate any datasets that may be interesting to share with other researchers: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

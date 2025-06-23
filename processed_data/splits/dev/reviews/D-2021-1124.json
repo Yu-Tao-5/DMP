@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1124",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unraveling the gut virome in black soldier fly larvae (Hermetia illucens) and its interaction with the microbial gut community",
+  "InitialFeedbackHistory": "08/07/2022\r\nDo you already know which data repository you might use for preservation and sharing? Would any of the EBI repositories (www.ebi.ac.uk/submission/) be suitable? ENA also gives good checklists for reporting, please take a look if any of these may be a useful metadata standard for your work: www.ebi.ac.uk/ena/browser/checklists. For data for which there is no disciplinary repository you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr).",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2727",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Beyond limbo: theorizing, analyzing and realizing human rights protection of non-removable migrants",
+  "InitialFeedbackHistory": "24/04/2024 [REDACTED] you now list only source data in the table, please also add the datasets that you will generate, eg processed data files, code, models etc. [REDACTED] you mention using RDR, but also that you will not share data. Note that RDR is a data repository for data publishing which preserves data as well, but can't be used just to preserve data without sharing, see https://www.kuleuven.be/rdm/en/rdr.",
+  "label": "good with suggestions"
+}

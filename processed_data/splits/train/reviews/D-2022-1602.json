@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1602",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "TB-AI: advanced analytics for the management of traumatic brain injury",
+  "InitialFeedbackHistory": "10/06/2022\r\nThis research involves data collection in / from 4 Europeans intensive care units, yet nowhere in the plan is anything mentioned about how data are handled at each unit, how they are transferred securely to Leuven (if they are), who is responsible for data collection and  management at each of those units. Are data transferred from those ICUs to Leuven? If yes, then presumably you have data sharing agreements in place for transfer of personal data, which needs mentioning in 3.4. And this then affects data sharing described in section 7.\nPlease include all essential data management and security aspects for these data coming from 4 separate sites.\n\nSection 3: the DMP needs to include the EC approval number as reference for processing personal data.",
+  "label": "good with suggestions"
+}

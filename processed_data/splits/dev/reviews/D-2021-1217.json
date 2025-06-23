@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1217",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Chemokine receptor CXCR3 and its ligands: activity regulation and role in autoinflammatory diseases and juvenile idiopathic arthritis",
+  "InitialFeedbackHistory": "04/05/2022\r\n2. Please note that, in addition to digital files, physical samples are also considered data\n3. The privacy registry reference is your PRET approval number that you now mention under ethics\n4. In the second subquestion you can refer to the metadata that you describe in the first subquestion. Furthermore a metadata standard collection that may be useful for your work is the MIBBI (https://fairsharing.org/3518) for example MIFlowCyt (https://fairsharing.org/FAIRsharing.kcnjj2). If you like to discuss this in more detail please contact onderzoek2bergen@kuleuven.be\n5. You mention many different storage solutions, how do you decide where which data is stored? Make sure personal data is stored conform you PRET application. \n6. Please note that the KU Leuven RDM policy expects relevant data to be preserved for 10 years. If you collect any data that is part of a clinical trail the UZL CTC expects these to be preserved for 25 years, see https://gbiomed.kuleuven.be/english/ctc for more information. Also note that onedrive is linked the researcher's account and will expire when the owner leaves KU Leuven and is therefore not suitable for long term data preservation\n7. You can also mention privacy as factor restricting sharing. For data sharing (under open or restricted access) you can also consider to use KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

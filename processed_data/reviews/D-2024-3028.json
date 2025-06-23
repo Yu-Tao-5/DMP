@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3028",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Situation-aware OrchestratioN of AdapTive Architecture",
+  "InitialFeedbackHistory": "31/05/2024 [REDACTED] your DMP mainly describes how data will be managed within the consortium during the course of the project and gives general concepts about the GDPR, data security and responsibilities, which is important as guide for consortium members, however, the expectation of the [REDACTED] [REDACTED] for [REDACTED] [REDACTED] projects is that your DMP clearly describes how data in the project will be managed according to the FAIR principles [REDACTED] [REDACTED] [REDACTED] [REDACTED] including giving acces to research data via trusted data repository according to the principle “as open as possible, as closed as necessary” [REDACTED] EC therefore has a DMP template for [REDACTED] [REDACTED] (HE) projects, which you can find via the EU portal under [REDACTED] reporting templates' https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx [REDACTED] it is best to check which questions in the HE DMP template are currently not answered in your DMP and add this information under the appropriate headings in the FAIR section, especially under \"accessible\" more detailed information is asked; also keep in mind that the EC may ask to rewrite the DMP based on the HE DMP template.",
+  "label": "good with suggestions"
+}

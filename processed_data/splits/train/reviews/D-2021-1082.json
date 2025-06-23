@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1082",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The neuro-oncological connectome: towards hub-driven analyses and neurocognition-sparing treatments for brain tumors",
+  "InitialFeedbackHistory": "03/05/2022\r\nPlease note that there is an incorrect project reference in the footer in your DMP, make sure to update this in the final DMP which you submit directly to FWO at the end of your fellowship\n3a. Please include your privacy approval number, this can be a PRET number or privacy approval can be included in your UZL ethics reference if applied via their GDPR questionnaire, in that case this is the same S number that you mention under ethics. (https://admin.kuleuven.be/privacy/studpers/index)\n5. Your storage strategy is not very clear, you mention uz server, kul secure environment, onedrive and hard drives, where do you store which dataset? \n6. Please note that the UZL CTC expects data related to clinical trails to be preserved for 25 years (https://gbiomed.kuleuven.be/english/ctc)\n7. You can mention privacy as factor restricting sharing under 7a. You could also consider to deposit (a selection of) your data in a repository under restricted access, for example in RDR (www.kuleuven.be/rdm/en/rdr) to make you data more findable and to assign a DOI.",
+  "label": "good with suggestions"
+}

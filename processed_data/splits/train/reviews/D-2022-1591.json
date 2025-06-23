@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1591",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "GPR18 as novel target to treat visceral pain",
+  "InitialFeedbackHistory": "13/06/2022\r\n1. Data description\nAre you using biopsies from patients? Then also include them in the list of datasets. Do the biopsy samples already exist? Then you are using existing data. Or are they still to be collected?\nAlso, in section 3 you mention animal experiments. Which dataset comes from those animal experiments? That is not clear. So please rewrite the list of datasets that you will generate and/or use in more detail, making sure you include everything. A bit more detail would be useful, e.g. what are the microscopy images of? Of the biopsy samples?\n5. Preservation\nWill you preserve the biopsy samples? If yes, where? Biobank?\n6. Data sharing\nConsider depositing data in a data repository, e.g. KU Leuven RDR (research data repositry): https://www.kuleuven.be/rdm/en/rdr  Then you can reference the data from your publications.\n7. Responsibility\nSomeone needs to take responsibility for data management in this research. You cannot leave this blank.",
+  "label": "good with suggestions"
+}

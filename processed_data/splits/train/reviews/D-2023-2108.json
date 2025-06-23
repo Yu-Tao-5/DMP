@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2108",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Validation of a plant movement sensor as a novel stress diagnostic tool for smart farming applications in horticulture",
+  "InitialFeedbackHistory": "04/07/2024\r\nResearch data summary section:\n• You mention that you have a patent. If current research data is related to this patent please specify to which data. You also mention in this section that there are no “other legal issues”. If “NDA/MTA agreements between parties for use or transfer of sensors” (mentioned in the data table) are related to the data you use, this could be mentioned in this section.\nDocumentation and Metadata section:\n• Please be more specific on what metadata you will keep. You mention physical lab notebooks and README files (documentation). Try to explain which metadata you will use, and if you don’t use metadata standards, try to explain why.\nData sharing & reuse section:\n• You mention that there are no factors to prevent sharing of data (on the question: “Are there any factors that restrict or prevent the sharing of (some of) the data (e.g. as defined in an agreement with a 3rd party, legal restrictions)? ”); but you also state that (part of) your data will be closed access. If possible, provide the reason why (part of the) data will be closed access.",
+  "label": "good with suggestions"
+}

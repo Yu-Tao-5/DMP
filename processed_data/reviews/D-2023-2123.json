@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2123",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Can we trust our numbers? Quantification of measurement reliability for intensive longitudinal data",
+  "InitialFeedbackHistory": "29/07/2024 [REDACTED] [REDACTED] now only mention existing data in the table, will you also generate data, eg code, spreadsheets with results, calculations, ......? please add these in the table [REDACTED] data: [REDACTED] you only reuse the (anonymized) data from te publication? [REDACTED] that case you can answer to no to whether there are ethics issues or if you process personal data. [REDACTED] you reuse data underlying the publication that is not anonymous, a new registration via PRET is needed to ensure compliance with the GDPR, for more information see: https://admin.kuleuven.be/privacy/en/studpers/index [REDACTED] how will you document your data and will you use metadata? [REDACTED] you for example use readme files, notebooks, gitlab for code? see https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] will you generate any new data that you are planning to share?",
+  "label": "good with suggestions"
+}

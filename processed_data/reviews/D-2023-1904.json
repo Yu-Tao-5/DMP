@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1904",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Understanding a novel tissue surveillance mechanism that suppresses liver cancer",
+  "InitialFeedbackHistory": "02/06/2023 [REDACTED] please also list the samples that you will use, these are physical data, do these need special management such as storage under specific conditions? [REDACTED] [REDACTED] you generate metadata with your experiments? [REDACTED] sequencing MINSEQE is often used, for flow cytometry MIFlowCyt and for microscopy OME. [REDACTED] in the repositories that you may use or ask the core facility what they provide, for more information: www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] [REDACTED] you know already which repositories to use? EBI (https://www.ebi.ac.uk/submission/) has many life sciences repositories, or if these are not suitable you can use RDR (https://www.kuleuven.be/rdm/en/rdr) for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

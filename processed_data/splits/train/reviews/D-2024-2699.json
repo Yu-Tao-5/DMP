@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2699",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Instrumental variable methods under dependent censoring",
+  "InitialFeedbackHistory": "12/06/2024\r\nYou indicate that you do not use personal data. However, the second dataset you use “Health Insurance Plan of Greater New York Breast Cancer Screening Trial” clearly consists of pseudonymous data (https://cdas.cancer.gov/hipb/), which require a DTA to gain access to. The procedure for requesting access (https://cdas.cancer.gov/learn/hipb/instructions/) states: \"DTAs are required for each research project to protect the confidentiality of the identity of study participants. While already-prepared standard datasets meet the requirements of the HIPAA privacy rule for de-identified datasets by the removal of 18 key identifiers, some risk remains that the data could be used to re-identify participants and exploit that information in some way implement specific safeguards against the discovery of study participants' identities.\"\n\nUnder GDPR pseudonymous data are also considered as personal data, and in order to use such data at KU Leuven you need to submit a PRET (Privacy and Ethics) application. Please do this here: https://www.groupware.kuleuven.be/sites/pret/Pages/default.aspx\n\nThen for storage of the data during research, OneDrive should not be used for storing such personal data. Check which storage solutions are approved for 'strictly confidential' research data in the storagewijzer: https://icts.kuleuven.be/storagewijzer/en\n\nOnce you have the PRET approval, please submit a new version of the DMP that contains the PRET refernce number as well as amended storage information.\n\nAlso in the CMT (Compliance Monitoring Tool), you have stated that \"no personal data will be processed in the project\". Please also adjust this after the  PRET approval.",
+  "label": "good with suggestions"
+}

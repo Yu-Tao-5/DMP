@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2540",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed, new upload needed",
+  "Funder": "FWO",
+  "ProjectTitle": "Finiteness properties in infinite-dimensional algebraic geometry",
+  "InitialFeedbackHistory": "05/06/2024\r\nDear,\nThe information in this DMP is too incomplete. \nThe products of your mathematical reasoning and thinking, such as f.i. proofs or theorems, are considered to be your data.\nIt is common practice among mathematicians to enter the articles containing the proofs of theorems and other products of their thinking as data in the data summary. That is perfectly acceptable. \n\nBest to add one line to the datatable in the FWO-template, for example:\nDataset Name: Theorems (or however you like to describe you results)\nDescription: purely theoretical mathematical reasonings and proofs contained in published articles (or whatever description you prefer)\nNew or reused: Generate new data\nDigital or Physical: Digital\nDigital Data Type: Other\nDigital Data Formatl: .pdf\nDigital data volume: NA.\n\nAs far as documentation is concerned, you could refer to the articles as containing all necessary documentation needed to understand your results. \nAs far as metadata are concerned: if the journal uses the Mathematics Subject Classification (MSC), then just mention that as metadata. It’s even a metadata standard.\nAs far as sharing and preservation are concerned, I would refer to the journals for preservation to Lirias for sharing. Uploads in arXiv are only considered as open access by the funders if they are peer reviewed versions of the articles.\n\nWe advise to always answer all questions, if only by “No” or “Irrelevant”. For the questions about responsibilities at the end of the DMP it should be possible to refer to yourself and/or your PI.\n\nBest regards,\n\nMark Verbrugge",
+  "label": "not good"
+}

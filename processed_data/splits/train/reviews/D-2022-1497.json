@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1497",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unravelling early cell fate decisions during human preimplantation development",
+  "InitialFeedbackHistory": "27/07/2022\r\n4. Metadata: a collection of metadata standards that may be useful for your work are the MIBBI: https://fairsharing.org/3518, for example MINSEQE, MIFlowCyt and MIQE. For microscopy OME is often used (https://fairsharing.org/FAIRsharing.cq8tg2). \n7. Sharing: have you already considered which repositories you will use? The submission guidelines can also help you to decide which metadata to collect along with your experiments, flowrepository for example uses MIFlowCyt, for transcriptomics EMBL-EBI has repositories (www.ebi.ac.uk/submission). For data for which there is no good disciplinary repository you can use KU Leuven RDR: www.kuleuven.be/rdm/en/rdr/",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2803",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Artificial intelligence for deep profiling and characterization of colorectal polyps",
+  "InitialFeedbackHistory": "24/04/2024\r\nData: will you use samples/materials? These are considered physical data in the context of a DMP, please list these the table as well and describe how you document, store and preserve them; also list code that you may write. What is the metadata, are these the patient characteristics that you mention later? \nMetadata: which metadata standards are you using and how will you add these, is this metadata from the measurements, patient characteristics, descriptive metadata of the datasets?",
+  "label": "good with suggestions"
+}

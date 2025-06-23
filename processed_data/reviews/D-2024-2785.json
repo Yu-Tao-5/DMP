@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2785",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Electrocatalytic dehydrogenative coupling of olefins to dienes",
+  "InitialFeedbackHistory": "15/05/2024 [REDACTED] [REDACTED] you use materials/samples? please list these in the tabel as well, they are considered physical data in the context of a DMP [REDACTED] preservation of data on a external hard drive is not very safe, please have a look at the storage guide for alternatives (https://icts.kuleuven.be/storagewijzer/en) or consider using a data repository such as RDR (https://www.kuleuven.be/rdm/en/rdr) where you make your data available for reuse which also ensured data preservation, see https://www.kuleuven.be/rdm/en/guidance/data-sharing [REDACTED] a DOI is normally added to the dataset in a repository, your publications get a different DOI which is not in the scope of a DMP",
+  "label": "good with suggestions"
+}

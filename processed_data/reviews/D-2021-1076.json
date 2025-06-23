@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1076",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Functional characterisation of Transient Receptor Potential Vanilloid (TRPV2) as a potential new target for endometrial cancer",
+  "InitialFeedbackHistory": "15/07/2022 3. [REDACTED] human cell lines (hek293) and organoids are considered human bodily material, please submit the necessary information about the use of this material in your project to UZL EC research, for more information and procedures see www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial 4. [REDACTED] are you sure that DDI is the most suitable standard for your data? DDI is designed for surveys, questionnaires and other social sciences data whereas your data description shows cell based assays. [REDACTED] MIBBI (https://fairsharing.org/3518) may be a better fit for this kind of data, for example MIACA (https://fairsharing.org/FAIRsharing.7d0yv9), alternatively you can adjust [REDACTED] [REDACTED] to your needs (www.dublincore.org/specifications/dublin-core/dces/) 7. [REDACTED] [REDACTED] are you sharing anonymised transcripts? [REDACTED] data description does not show that you generate these. Please update your DMP to describe what you will actually generate and share. [REDACTED] there disciplinary repositories in your field? [REDACTED] so these may be the best place to share and preserve your data, otherwise you can use the KU [REDACTED] dataverse RDR (www.kuleuven.be/rdm/en/rdr) instead of the [REDACTED] [REDACTED]",
+  "label": "intermediate DMP needed"
+}

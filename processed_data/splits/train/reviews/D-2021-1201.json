@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1201",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The development and function of type 1 innate lymphoid cells in inflammatory diseases",
+  "InitialFeedbackHistory": "21/06/2022\r\n2. Are you also collecting physical data (samples), you can also add these in the data description and consider storing and preservation under 5 and 6. \n4. Metadata: A handy collection of metadata standards for your discipline is the MIBBI (https://fairsharing.org/MIBBI), for example MIFlowCyt also used by flowrepository and MINSEQE used by GEO and ArrayExpress. \n6. Please note that the KU Leuven RDM policy expects 10 years of data preservation (except of course the data that you are not allowed to keep). Are you storing any personal data on hard-drives? Please contact your local IT team to discuss more secure alternatives \n7. Have you considered which repositories you will use for data sharing, in addition to domain specific repositories, for example www.ebi.ac.uk/submission/ you can also consider using KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr).",
+  "label": "good with suggestions"
+}

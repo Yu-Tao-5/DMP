@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1877",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Epigenetic regulation of HIV transcription: Towards a block-and- lock functional cure",
+  "InitialFeedbackHistory": "05/06/2023 [REDACTED] you generate metadata with your experiments? [REDACTED] sequencing MIxS or MINSEQE are often used, and for microscopy OME, for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] can also consider using a data repository for data preservation and sharing, for example RDR (https://www.kuleuven.be/rdm/en/rdr) or a disciplinary repository, e.g. EBI (https://www.ebi.ac.uk/submission/), if needed you can keep the files restricted and give access upon request, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2062",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Condition monitoring of rotating machinery exploiting encoder and video measurements: development of novel encoder-based gear fault indicators by exploiting direct fault measurements as a ground truth",
+  "InitialFeedbackHistory": "21/06/2023\r\nAlso include the algorithms you will develop in the Research Data Summary list.\n\ndata archiving and sharing: the Liris repository is only for publications, not for research data. For data you use the RDR repository: https://rdr.kuleuven.be/dataverse/rdr\n\nAlso indicate where you will archive / share your code / algorithms: via GitLab?",
+  "label": "good with suggestions"
+}

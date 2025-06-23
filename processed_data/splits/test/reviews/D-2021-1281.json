@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1281",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Intra-cochlear biosensor for in situ monitoring of electrode-induced inflammation",
+  "InitialFeedbackHistory": "13/07/2022\r\n2. Data: if you have any samples or models please also include them in the table, these are considered physical data\n3. Ethics: You mention that you will work with cells and animal models in the project description, which means there are ethical issues. Please check the ethics website to and apply for approval before you start working with human cells or animals: www.kuleuven.be/english/research/associatienet/ethics/index\n4. Documentation: please describe storage under 5, here you can focus on how you document your data. \n7. Sharing: have you considered which repository to use already? If there is a disciplinary repository for your field that may be the best place to share and preserve your data, otherwise you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

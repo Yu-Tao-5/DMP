@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1417",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Understanding Early Human Development Using Novel Single-Cell Technologies and Stem-Cell Based Embryo Models",
+  "InitialFeedbackHistory": "14/06/2022\r\n2. Ethical/legal\nLinked anonymized does not exist as term for GDPR. That would be pseudonymized, if there exists a link with a patient ID somewhere, and therefore needs to be treated as personal data. \n5. Data preservation\nKULeuven policy expects data to be kept fro 10 years: https://www.kuleuven.be/rdm/en/policy\n6. Data sharing\nInstead of Mendeley Data or Zenodo you could use KU Leuven RDR: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

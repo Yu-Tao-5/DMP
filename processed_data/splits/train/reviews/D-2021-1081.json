@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1081",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "ACTIVATE: Autophagy is a master regulator for the immune funCTions of the lymph node VasculATurE",
+  "InitialFeedbackHistory": "01/07/2022\r\n2. Data: You don't have to list your publications and presentations. \n4. Metadata: A collection of metadata standard that may be useful for your work are the MIBBI: https://fairsharing.org/3518, for example MIFlowCyt, MINSEQE and MIQE. For microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2), also have a look at the arrive guidelines for reporting of animal research (https://arriveguidelines.org/) journals often ask to follow these. Another place to find metadata guidelines are repositories, would EBI be suitable for your work (https://www.ebi.ac.uk/submission/)? Reading the submission guidelines of candidate repositories may help you to decide which metadata to collect along with your experiments.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1793",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Profiling of protein depalmitoylation during adipogenesis using activity-based probes",
+  "InitialFeedbackHistory": "08/06/2023\r\nDocumentation: please avoid the use of google drive but use a KU Leuven supported solution, for example teams or onedrive, will you generate metadata with your analysis? For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nStorage/preservation: Storing data on laptops and hard drives is not very secure, please use a KU Leuven supported storage solution, consult the storage guide find the most suitable solution: https://icts.kuleuven.be/storagewijzer/en. \nSharing: please note that this section concerns data underlying publications, not the publications themselves. If there are no factors restricting sharing, why don't you use a data repository to share your data, for example KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) or a disciplinary repository, for more information see www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

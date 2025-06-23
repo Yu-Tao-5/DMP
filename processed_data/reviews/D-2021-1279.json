@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1279",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Automated Analysis of Kidney Transplant Biopsies",
+  "InitialFeedbackHistory": "07/07/2022 2. [REDACTED] please also list your samples, these are your physical data 3. [REDACTED] since you work with patient data and human bodily material there are ethical issues, was ethical evaluation included in the S number that you mention under privacy? 4. [REDACTED] you do mention metadata in your table, you can describe this here in more detail. 7. [REDACTED] [REDACTED] you considered to use a repository for data sharing and preservation? [REDACTED] there are no domain specific repositories in your field you can use KU [REDACTED] RDR (www.kuleuven.be/rdm/en/rdr), here you can keep your data under restricted access if you can't fully anonymize the data but others can easily find your data thanks to the metadata and DIO, but to get access to the files they have to fill a request via RDR",
+  "label": "good with suggestions"
+}

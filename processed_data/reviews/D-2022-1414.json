@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1414",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Unraveling the molecular mechanisms underlying cell cycle regulation in pre-implantation embryos.",
+  "InitialFeedbackHistory": "14/06/2022 4. [REDACTED] I assume your documentation (research design, protocol, context of data collection, data collection methods, quality control procedures, processing and analysis procedures) will also exist in digital format, not just on paper (hardcopy)? [REDACTED] standards: you can find suggestions / tips here: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata/life_sciences 7. [REDACTED] archiving / sharing [REDACTED] you know which data repositories you would use? [REDACTED] for your kind of data: - imaging data: https://rdmkit.elixir-europe.org/bioimaging_data#data-publication-and-archiving - biomolecular data: https://elixir-europe.org/platforms/data/elixir-deposition-databases - plasmids: https://www.addgene.org/ - else KU [REDACTED] RDR (research data repository): https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

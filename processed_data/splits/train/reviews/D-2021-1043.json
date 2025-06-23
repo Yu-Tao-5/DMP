@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1043",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The genetics behind historical socio-demography in Flanders revealed by the human Y-chromosome: an interdisciplinary approach",
+  "InitialFeedbackHistory": "01/07/2022\r\nHave you considered any specific repositories for data sharing already? Would a repository like EGA (https://ega-archive.org/) or other EBI repositories (https://www.ebi.ac.uk/submission/) be suitable? Repositories also add metadata, reading the submission guidelines of candidate repositories may help you to design your own metadata standard that you describe under 4.",
+  "label": "good with suggestions"
+}

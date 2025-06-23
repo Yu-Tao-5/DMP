@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1032",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "High-performance membranes for separation of key industrial gas streams",
+  "InitialFeedbackHistory": "22/06/2022\r\n4. Metadata: Are your instruments collecting any metadata with your measurements, for example CXI for XRD (https://fairsharing.org/FAIRsharing.9h5j8c)? \n5. Storing data on personal devices is risky, you can make a backup on KU Leuven onedrive, or contact your local IT team to discuss other secure solutions. \n7. Sharing: Have you considered any specific repositories? You can use KU Leuven RDR instead (https://www.kuleuven.be/rdm/en/rdr) or domain specific repositories, f1000 research gives good recommendations https://f1000research.com/for-authors/data-guidelines\nYou can always contact onderzoek2bergen@kuleuven.be if you like to learn more about metadata and data repositories",
+  "label": "good with suggestions"
+}

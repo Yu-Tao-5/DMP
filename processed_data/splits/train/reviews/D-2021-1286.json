@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1286",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Power Converters for LVDC systems",
+  "InitialFeedbackHistory": "04/05/2022\r\n2. You don't have to list your papers and thesis, this is considered output rather than data\n4. Metadata is often generated during experiments, maybe your oscilloscopes or thermal camera use metadata standards? \n6. Please note that the KU Leuven RDM policy expects relevant data to be preserved for 10 years \n7. For data sharing (and preservation) you can also consider using KU Leuven RDR (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

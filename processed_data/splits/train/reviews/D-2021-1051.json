@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1051",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Assessing the potential dual beneficial effects on bone health and global energy metabolism of hypoxia signaling pathway modulation",
+  "InitialFeedbackHistory": "07/07/2022\r\nHave you already considered which repositories to use, IDR (https://idr.openmicroscopy.org/) or EMBL-EBI (https://www.ebi.ac.uk/submission/) for example? Reading the submission guidelines of candidate repositories may help you to decide which metadata to collect along with your experiments. For data for which there is no disciplinary repository you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr). Also good to have a look at the arrive guidelines for reporting of animal experiments already: https://arriveguidelines.org/, journals may ask you to follow these.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1551",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The long run impact of the COVID-19 school closures.",
+  "InitialFeedbackHistory": "08/06/2022 [REDACTED] you requested a dataset from KU [REDACTED] please update your DMP according to the suggestion below and submit this DMP as intermediate, an updated DMP is required to receive the dataset: [REDACTED] KU [REDACTED] dataset (dataset 3) is not considered fully anonymous but rather pseudonymous, please update this in the data description and make sure this is correctly described in your PRET application. Please also update the ethical and legal section upon privacy and ethics approval, indicate that the PRET application is approved and update other sections such as storage, preservation and sharing if changes are made upon suggestion by the PRET team. [REDACTED] optional suggestion to consider: [REDACTED] DMP is good, but the section on metadata and documentation is sparse. [REDACTED] documentation here refers to all materials resulting from efforts made to render data understandable and useable, particularly (but not exclusively) for the mid or long term. A README.txt file is one example of this, but this also includes all additional information accompanying datasets (often provided by the external sources you will be using), comments in code, any information documenting the nature of the survey for survey data (or the exams here), etc. I am sure a lot of these materials exist and are already part of the project's workflow. I recommend in future versions of the DMP to list them under that section.",
+  "label": "intermediate DMP needed"
+}

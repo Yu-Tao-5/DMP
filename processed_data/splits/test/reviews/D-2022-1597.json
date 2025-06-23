@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1597",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "IOTA-AI: AI-assisted automated detection of ovarian cancer on ultrasound imaging",
+  "InitialFeedbackHistory": "10/06/2022\r\n3. Personal\nIf the data your use are pseudonymous, they still classify as personal data under GDPR. Whilst you don't have access to patient IDs, you still need to treat these data as personal data. \n\n7. Data sharing\nKeep in mind that journals may request that underlying data are available for verification / reproducibility.",
+  "label": "good with suggestions"
+}

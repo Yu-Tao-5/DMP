@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2813",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Real-time hybrid modelling of urban pluvial flood hazard maps using machine learning",
+  "InitialFeedbackHistory": "19/04/2024\r\nStorage: storing data on laptops and external hard drives is not very secure, is there a specific reason not to use a KU Leuven storage solution with automatic backup? see https://icts.kuleuven.be/storagewijzer/en; for easy and secure file transfer you can use Globus: https://rdm-docs.icts.kuleuven.be/globus/index.html.  \nSharing: do you know already which repository you wil use? Have a look at our website for tips: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

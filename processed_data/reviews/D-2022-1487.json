@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1487",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "New therapeutic targets in the dimerization modes that drive androgen receptor functioning",
+  "InitialFeedbackHistory": "28/07/2022 3. [REDACTED] [REDACTED] you work with animal models there are ethical issues and if you use human cells these need registration at the UZL ethics committee, for more information see www.kuleuven.be/english/research/associatienet/ethics/index. Please update your DMP to include the approval number(s). 4. Documentation/Metadata: please note that GEO is an NCBI repository, not from EMBL; they use MINSEQE based metadata, but other standards in the MIBBI collection may also be interesting for your work, see https://fairsharing.org/3518. [REDACTED] microscopy OME (https://fairsharing.org/FAIRsharing.cq8tg2) is often used and for protein crystallography CIF (https://fairsharing.org/FAIRsharing.zr52g5); for reporting of animal experiments ARRIVE is recommended by many journals (https://arriveguidelines.org/)",
+  "label": "intermediate DMP needed"
+}

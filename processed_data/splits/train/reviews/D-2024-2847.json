@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2847",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "The impact of temporary VAT reductions on grocery retail",
+  "InitialFeedbackHistory": "03/04/2024\r\nData: You now list only source data in the table, please also add the data that you will generate, eg processed data files, code, models and describe later in the DMP how you will manage them. Do these have potential for valorization, if not, will you share them with other researchers after the project? \nSharing: you mention privacy as factor restricting sharing, does that mean that the datasets that you use contain personal data, if so please register the processing of personal data via a PRET application, see https://admin.kuleuven.be/privacy/studpers/index.",
+  "label": "good with suggestions"
+}

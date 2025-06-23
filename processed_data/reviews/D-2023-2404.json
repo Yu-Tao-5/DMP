@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2404",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Real-time detection of impendent depressive episodes using statistical process control",
+  "InitialFeedbackHistory": "08/01/2024 [REDACTED] your abstract suggests that you also work with participant data, if this is the case please add these datasets and make sure you have privacy/ethical approval for these studies, see https://research.kuleuven.be/en/associatienet/ethics/guidance/humanparticipants. [REDACTED] this is not the case please clarify under ethical issues why you don't need to process personal data in this project, eg your work is pure theoretical or when you work with fully anonymous or synthetic data Storage/Sharing: will you use github/gitlab for your code, eg: https://gitlab.kuleuven.be/?",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3147",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "VICAR-Project: developing a specialized ventilation mode for resuscitation in cardiac arrest.",
+  "InitialFeedbackHistory": "06/01/2025 [REDACTED] you mention dual use under ethical issues, dual use concerns data which can be used for both civil and military purposes, see https://research.kuleuven.be/en/associatienet/ethics/guidance/dmm/index. [REDACTED] this is an error, please correct this when adding the ethical approval numbers and submit as intermediate DMP. [REDACTED] your storage strategy looks complicated, can you store your data immediately on KU [REDACTED] servers which make automatic backups? [REDACTED] can find information about KU [REDACTED] solutions in the storage guide: https://icts.kuleuven.be/storagewijzer/en or contact your local IT team. [REDACTED] ManGO could be interesting for you, see https://icts.kuleuven.be/sc/english/storage/mango or contact rdm-icts@kuleuven.be if you like to have more information. [REDACTED] [REDACTED] you apply access restrictions on your data you cannot use a license but you will need a [REDACTED] [REDACTED] [REDACTED] the legal department and/or LRD will help you to draft this if needed. A persistent identifier will be added to your datasets when you deposit them in a data repository such as RDR. [REDACTED] identifier allows you to link your dataset in your publications and ensures that your dataset is findable.",
+  "label": "intermediate DMP needed"
+}

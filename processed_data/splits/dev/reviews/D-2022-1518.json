@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1518",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The ADNEX risk model for ovarian cancer diagnosis: improving performance across different hospitals and examiners",
+  "InitialFeedbackHistory": "28/07/2022\r\n2. Data: can you give a bit more detail about the datasets with there formats and volumes, it may be easier to organize the different sets in a table. 1GB is a very small volume if you include ultrasound and histology data and xls and txt are usually not used for these datatypes, maybe check this to ensure that you have sufficient storage space.  \n4. Metadata: are you also generating metadata with the measurements, for medical imaging DICOM is widely used and for histology many researchers use OME. (https://fairsharing.org/FAIRsharing.cq8tg2; https://fairsharing.org/FAIRsharing.b7z8by)\n5. Storage: please also describe how/where you store your samples (physical data)\n6. Preservation: please note that the UZL ethical committee recommends 25 years of data preservation, for data that is part of a clinical trial this is mandatory. Will you also preserve your samples for 10-25 years, or are these completely used in the experiments or not stable for that long?",
+  "label": "good with suggestions"
+}

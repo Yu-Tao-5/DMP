@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2835",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "An attoscale stopped-flow device for the measurement of ensemble and single-molecule kinetics",
+  "InitialFeedbackHistory": "07/06/2024 [REDACTED] will you use samples/materials? [REDACTED] are considered physical data in the context of a DMP, please list these the table as well and describe how you document, store and preserve these Storage/Preservation: it is more safe and secure to use a KU [REDACTED] recommended storage solution, the storage guide can help you choose: https://icts.kuleuven.be/storagewijzer/en; also note that part of the second paragraph is missing on page 10. [REDACTED] [REDACTED] the supervisor is responsible for the data preservation and sharing after the end of the PhD project.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2168",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Structural dynamics of secretory protein sorting, targeting, translocation (DynamicSTarT)",
+  "InitialFeedbackHistory": "06/07/2023 [REDACTED] [REDACTED] you collect metadata with your measurements? [REDACTED] a specific metadata standard be useful, maybe MIAPE (https://fairsharing.org/FAIRsharing.8vv5fc)? [REDACTED] more information see https://www.kuleuven.be/rdm/en/guidance/documentation-metadata, ask the core facility where you do the measurements or contact onderzoek2bergen@kuleuven.be if you like to discuss this further [REDACTED] [REDACTED] it be easier to use one secure KU [REDACTED] server with automatic backup? [REDACTED] the storage guide to compare different storage solutions recommended by KU [REDACTED] ICTS: https://icts.kuleuven.be/storagewijzer/en [REDACTED] [REDACTED] can also consider using a disciplinary repository such as protein data bank (https://www.wwpdb.org/) instead of the generic RDR, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

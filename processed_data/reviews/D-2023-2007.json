@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2007",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Hitting coronavirus replication in its core by combined inhibition of the nsp12 polymerase and associated proteins of the replication-transcription complex",
+  "InitialFeedbackHistory": "05/06/2023 [REDACTED] you use any samples/cells? [REDACTED] so please include these in the table, these are considered physical data, do these need special management such as storage under specific conditions? [REDACTED] you generate metadata with your experiments or use metadata from the repositories? [REDACTED] qPCR MIQE is often used for example, for more information see www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] life sciences data a disciplinary repository may be a better fit, have a look at EBI for example: https://www.ebi.ac.uk/submission; but if there is no suitable disciplinary repository, RDR is a good alternative; for more information see www.kuleuven.be/rdm/en/guidance/data-sharing.",
+  "label": "good with suggestions"
+}

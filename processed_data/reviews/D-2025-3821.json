@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3821",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "",
+  "Funder": "",
+  "ProjectTitle": "Assisting Geriatrics: E-Textiles for Wellbeing, Enhanced Living, and Longevity - AGEWELL",
+  "InitialFeedbackHistory": "03/06/2025\r\n- Data: please note that samples and materials that you study are considered physical data in a DMP, please consider the management of these materials/samples, which samples will you collect, what is the origin, how will these be documented, do you need special storage and is this (sufficiently) available, how long can they be preserved?\n- Metadata: Your microscopy software may generate metadata e.g. in the form of headers, that may be useful; for more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\n- Storage: Storage of data on Onedrive and external hard drives is not advised due to risk of data loss. It is recommended to use a KU Leuven storage solution with automatic backup, you can consult the storage guide to compare available solutions: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

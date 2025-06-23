@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1216",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Investigating a new molecular link between Wnt signaling and IGF1 in osteoarthritis",
+  "InitialFeedbackHistory": "22/06/2022\r\n2. Data: It may be easier to show your datasets in a table. Can you already estimate the volume of your data to see if you have enough storage capacity?\n3. Ethics: Which part of your study is covered by S56271? Is this protocol updated to be compliant with the GDPR and covering the research in your project? P159/2016 is probably expired, ethical approval for animal studies are normally valid for a maximum of 5 years, please update your DMP with valid ethical approvals and submit as intermediate.\n4. A metadatastandard collection that may be useful for your work is the MIBBI https://fairsharing.org/3518, for reporting of animal experiments please take a look at the ARRIVE guidelines https://arriveguidelines.org/.\n6. Preservation: please note that the KU Leuven RDM policy recommends 10 years of data preservation (www.kuleuven.be/rdm/en/policy)\n7. Sharing: You can also consider using KU Leuven RDR for data sharing: www.kuleuven.be/rdm/en/rdr. F1000 research gives good recommendations for domain specific repositories https://f1000research.com/for-authors/data-guidelines.",
+  "label": "intermediate DMP needed"
+}

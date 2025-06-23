@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1890",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The role of bacterial persistence in the evolvability of antibiotic resistance",
+  "InitialFeedbackHistory": "09/06/2023\r\nDocumentation: you list metadata standards under the first sub-question point 6, so you can say \"yes, see previous question\" under the second part \nStorage: what do you mean by \"KU Leuven data Cloud\"? Onedrive? Its better not to store data on lab PCs only, but you can sync to onedrive, for more information see: https://icts.kuleuven.be/storagewijzer/en\r\n\r\n09/06/2023\r\nDocumentation: you list metadata standards under the first sub-question point 6, so you can say \"yes, see previous question\" under the second part \nStorage: what do you mean by \"KU Leuven data Cloud\"? Onedrive? Its better not to store data on lab PCs only, but you can sync to onedrive, for more information see: https://icts.kuleuven.be/storagewijzer/en",
+  "label": "good with suggestions"
+}

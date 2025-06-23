@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1746",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Creation of a humanized mouse model for demyelinating peripheral neuropathies as a platform for therapeutic testing.",
+  "InitialFeedbackHistory": "14/02/2025\r\nCurrently, you are only describing RDM for your own team. However, a DMP typically encompasses RDM for all project partners so you can use the DMP to understand which partners generate which datasets and where it is eventually stored, archived and shared\nData: please include the approval number for the animal studies. \nPreservation: please note that the minimum preservation time of 5 years is the FWO guideline, the KU Leuven RDM policy requires a 10-year preservation period for all relevant data. For more details see https://www.kuleuven.be/rdm/en/policy",
+  "label": "good with suggestions"
+}

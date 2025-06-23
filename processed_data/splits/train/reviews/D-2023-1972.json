@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1972",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Exploring the role of mechanical forces on human cortex development using organoid models",
+  "InitialFeedbackHistory": "25/05/2023\r\nData: Human cells including cell lines are also considered human bodily material, please register these at the UZL ethics committee, for more information and forms see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nDocumentation: How will you document your data, will you use (electronic) notebooks, protocols etc? Which metadata standard(s) will you use? for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: for microscopy you can also consider using a disciplinary repository such as bioimage-archive (www.ebi.ac.uk/bioimage-archive) or image data resource (https://idr.openmicroscopy.org/) another alternative is KU Leuven RDR: www.kuleuven.be/rdm/en/rdr\r\n\r\n25/05/2023\r\nData: Human cells including cell lines are also considered human bodily material, please register these at the UZL ethics committee, for more information and forms see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nDocumentation: How will you document your data, will you use (electronic) notebooks, protocols etc? Which metadata standard(s) will you use? for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nSharing: for microscopy you can also consider using a disciplinary repository such as bioimage-archive (www.ebi.ac.uk/bioimage-archive) or image data resource (https://idr.openmicroscopy.org/) another alternative is KU Leuven RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

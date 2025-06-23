@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1435",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Understanding the role of neutrophil recruitment and activation in  arboviral diseases.",
+  "InitialFeedbackHistory": "28/07/2022 2. [REDACTED] please also include your samples, these are considered physical data. 7. [REDACTED] have you considered using repositories for data preservation and sharing, maybe EMBL-EBI repositories may be suitable (www.ebi.ac.uk/submission/)? [REDACTED] data for which there is no good disciplinary repository you can use KU [REDACTED] RDR (https://www.kuleuven.be/rdm/en/rdr). [REDACTED] you can restrict access to the datasets if needed but your data will get a DOI or accession number that you can use in your publication, and the metadata that repositories add makes the data more findable.",
+  "label": "good with suggestions"
+}

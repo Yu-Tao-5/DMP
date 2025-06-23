@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2877",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "New tools to model Photochemistry in the Long timescale (PhotoLong)",
+  "InitialFeedbackHistory": "05/07/2024\r\nDear,\n\nThis is a very good dmp. Two very small remarks:\n-\tBoth Zenodo and RDR will automatically generate a DOI when you upload a dataset so you could answer yes on the question asking whether you use a DOI.\n-\tThe size of the dataset matters, both RDR and Zenodo put limits on the size, but this is often negotiable.\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

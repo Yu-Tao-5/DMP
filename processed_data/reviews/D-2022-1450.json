@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1450",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Functional dissection of RNA modifiers in immune cells using CROPseq",
+  "InitialFeedbackHistory": "29/06/2022 2. [REDACTED] Please also describe your samples (physical data) here. 4. [REDACTED] [REDACTED] you can add here how you will document your data for your own reuse, are you using protocols, (e)notebooks? [REDACTED] repositories that you mention for data sharing will also ask to add metadata, FlowRepository uses MIFlowCyt and GEO MINSEQE (https://www.ncbi.nlm.nih.gov/geo/info/MIAME.html) for example 6. Please note that although FWO requests 5 years of preservation, the KU [REDACTED] RDM policy expects 10 years of data preservation (www.kuleuven.be/rdm/en/policy)",
+  "label": "good with suggestions"
+}

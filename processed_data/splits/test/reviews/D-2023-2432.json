@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2432",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "eHealth Literacy, Health Information Seeking Behavior, Social Support and Vaccine Hesitancy: A Cross Sectional Study of COVID-19 Pandemic",
+  "InitialFeedbackHistory": "29/02/2024\r\n- Will you process personal data? : Yes, refer to G-number again\n- Documentation: Will you use a Qualtitative data analysis tool like NVivo to analyze the interview transcripts? If yes, you can mention this here.\n- Data storage: Will you store three different copies of the data on 1) I:drive, 2) OneDrive and 3) Shared drive? This is not very clear and also not necessary to have three back ups.\n- Data sharing: This section needs more attention because it is not very clear how you will share the data. If I understand correctly the ySKILLS dataset will be deposited on RDR. Because the qualitative data contain personal data, the transcripts will probably be pseudonymized and be put in restricted access on RDR. If a dataset is in restricted access in RDR it receives a \"custom KU Leuven license\" = researchers (or others) will have to make a request to be able to use the dataset; then a data sharing agreement will be drawn up. If this is the case, you can mention this under the question \"data usage license\". A CC-BY license is only for open available data. Please also note the difference between KU Leuven RDR (data repository where you can publish/deposit research data) and Lirias (KU Leuven repository for academic publications like articles, book chapters, etc.). There is however definitely a link between the two: when you publish research data in RDR, it will automatically appear in your Lirias publication list. For more information on RDR: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

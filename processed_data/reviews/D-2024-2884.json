@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2884",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Quantum defects in 2D systems",
+  "InitialFeedbackHistory": "27/06/2024 [REDACTED] [REDACTED] is a good dmp. I have a few remarks, but these can be adressed when writing the next version of the dmp, either the intermediary or the final one. - [REDACTED] the data summary table it is best to use the extension for the digital data format instead of ASCII, such as .txt or .csv. - [REDACTED] for storage in the long term: if you are talking about uploading [REDACTED] to a repository, then cost might become more important. [REDACTED] [REDACTED] and RDR put limits on the size of datasets, but it is possible to negotiate about larger datasets. - [REDACTED] sharing: o [REDACTED] requested by a publisher data will be shared through an open repository, otherwise on demand after approval or access will be limited in other ways. [REDACTED] that case we advise to answer the next question about who will get access, at least by referring to your answer on where the data will be shared. o CC-BY 4.0 only makes sense for data shared openly. [REDACTED] data shared on request and after approval this licence would defeat the purpose of that policy because it allows to distribute the data to others without your consent. A data transfer agreement (DTA) is then more appropriate. [REDACTED] [REDACTED]",
+  "label": "good with suggestions"
+}

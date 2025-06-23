@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1219",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Tracing the dynamics of mammary tumor initiation.",
+  "InitialFeedbackHistory": "14/07/2022\r\nPlease note that there is an error in the numbering of your sections, best to correct this in your final DMP that FWO expects at the end of your fellowship together with the final report. \n2. Data: you don't have to list your presentations and manuscripts here, protocols and metadata fit better under section 4. Documentation\n4. Metadata, 7.Sharing: A collection of metadata standards that may be handy for your work are the MIBBI: https://fairsharing.org/3518, for example MINSEQE. For microscopy you can consider using OME (https://fairsharing.org/FAIRsharing.cq8tg2). You can also have a look at the arrive guidelines for reporting of animal experiments already: https://arriveguidelines.org/, journals may ask you to follow these. Another way to find good metadata standards for your work is by reading submission guidelines of repositories, have you considered any specific repositories for data sharing and preservation already? Would IDR (https://idr.openmicroscopy.org/) or EMBL-EBI (www.ebi.ac.uk/submission/) for example be suitable? For data for which no domain specific repository exists you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1420",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Inter-organelle communication through membrane contact sites in oncology and neurodegenerative diseases (InterAction)",
+  "InitialFeedbackHistory": "14/06/2022 4.2. [REDACTED] standards [REDACTED] a look at tips for suitable metadata standards for life sciences research: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata/life_sciences 7.3 [REDACTED] sharing - where [REDACTED] you name the data repositories you plan to use? [REDACTED] - imaging data: https://rdmkit.elixir-europe.org/bioimaging_data#data-publication-and-archiving - biomolecular data: https://elixir-europe.org/platforms/data/elixir-deposition-databases - plasmids: https://www.addgene.org/ - else KU [REDACTED] RDR (research data repository): https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1544",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Dynamics of the Type 3 secretion system translocase\t(DOT3S)",
+  "InitialFeedbackHistory": "28/07/2022\r\nPlease correct the footer in your DMP, this shows information of of different project. \n4. Metadata: which standards will you use, is metadata generated with your experiments or will you use a repository? For more information: www.kuleuven.be/rdm/en/guidance/documentation-metadata\n7. Sharing: You don't have to explain open access to peer reviewed publications here, the DMP focuses on the underlying data. Have you considered using a data repository for data sharing? EMBL-EBI (https://www.ebi.ac.uk/submission/) has many good repositories for example and if there is no suitable disciplinary repository you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr). Reading the submission guidelines of candidate repositories may also help you to decide which metadata to collect along with your experiments.",
+  "label": "good with suggestions"
+}

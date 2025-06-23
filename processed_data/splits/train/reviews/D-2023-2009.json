@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2009",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Molecular and physiological analysis of discolorations in witloof chicory",
+  "InitialFeedbackHistory": "05/04/2023\r\nSince you don't mention factors restricting sharing, consider using a data repository to preserve your data and to make it available for reuse, for example RDR (https://www.kuleuven.be/rdm/en/rdr) or a disciplinary repository, these also often have guidelines on metadata standards, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing, you can also find a lot of information in the elixir RDMkit: https://rdmkit.elixir-europe.org/plant_sciences",
+  "label": "good with suggestions"
+}

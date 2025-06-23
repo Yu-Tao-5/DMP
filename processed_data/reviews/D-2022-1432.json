@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1432",
+  "Status": "Final",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Targeted mass spectrometry-based quantification of autoantibodies in systemic rheumatic diseases",
+  "InitialFeedbackHistory": "08/07/2022 [REDACTED] information for [REDACTED] description (section 2) and [REDACTED] (section 4) is confusing and mingled. [REDACTED] to keep those separate, so in 2 you list / describe datasets and in 4 their documentation. [REDACTED] methods and SOPs are documentation (describing how data are created), not data. [REDACTED] figures are not datasets as such. [REDACTED] the SOURCE, TYPE, FORMAT info in section 4 seems to belong in section 2. [REDACTED] seems that the different data types you will use / generate are serum samples, clinical data about the patients (cohorts and controls), mass spectrometry data, purified antibodies, antibody sequencing data, antibody expression plasmids, flow cytometry data and antibody characteristics. [REDACTED] you have processed data. [REDACTED] those in the table in section 2. [REDACTED] in section 4 the documentation for each of these datasets (data types). [REDACTED] will serum samples, antibodies, plasmids be preserved? [REDACTED] so, where?",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3175",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Femtosecond laser processing for micro- and nanopatterning of metal halide perovskite thin films for enhanced light management in solar cells",
+  "InitialFeedbackHistory": "04/10/2024\r\nVery good DMP, some minor suggestions:\nThe DPIA, GDPR, and application DMP are not required. You may exclude them by unchecking the corresponding boxes when downloading your plan from DMPonline.\nAlthough Preprints and Open Acces are important aspects of Open Science, you don't have to mention them in a DMP\n2.1.2: For findability citation metadata is needed (title, author, etc); RDR will apply this upon deposit, for the full model see: https://www.kuleuven.be/rdm/en/rdr/full-metadata-model\n2.2.11: This question also refers to the citation metadata, in RDR this is CC0 \n2.3.3: RDR provides a metadata field where you can link different datasets if needed.",
+  "label": "good with suggestions"
+}

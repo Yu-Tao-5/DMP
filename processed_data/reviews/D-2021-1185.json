@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1185",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Modelling and understanding aesthetic preferences for visual patterns, photographs and paintings: Comparing human perceivers with convolutional neural networks",
+  "InitialFeedbackHistory": "07/07/2022 [REDACTED] documentation about the dataset looks complete but to ensure that other people can replicate your research it would be good that you also provide the analysis script(s) (e.g., R code, SPSS syntax) and that you note with which software version you worked (and if applicable also R package version). [REDACTED] sharing of the data, you could consider to use the new KU [REDACTED] data repository RDR (https://www.kuleuven.be/rdm/en/rdr/rdr).",
+  "label": "good with suggestions"
+}

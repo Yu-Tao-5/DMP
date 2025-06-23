@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1590",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Targeting intestinal macrophages as new treatment for Inflammatory Bowel Disease. IBD-MAC.",
+  "InitialFeedbackHistory": "17/05/2022 3. [REDACTED] [REDACTED] you obtain ethics and privacy approval from PRET or the UZL ethics committee please submit an updated DMP with the approval number as intermediate DMP, also update storage, preservation and sharing if changes are requested. 4. [REDACTED] the MIBBI metadata standard collection (https://fairsharing.org/3518) may be useful for your work, for example MIFlowCyt (https://fairsharing.org/FAIRsharing.kcnjj2) also used by flowrepository; for microscopy OME-TIFF is often used (https://fairsharing.org/3502) 6. Please note that the CTC/UZL ethics committee may request 25 years of preservation if your data is part of a clinical trial. 7. [REDACTED] [REDACTED] you considered any specific repositories? KU [REDACTED] now also has its own data repository RDR (www.kuleuven.be/rdm/en/rdr) or you can use domain specific repositories such as flowrepository and those from EBI (https://www.ebi.ac.uk/submission/); F1000 research also gives a good list of recommendations (https://f1000research.com/for-authors/data-guidelines). [REDACTED] is also good practice to already familiarize yourself with the metadata requirements of the candidate repositories to have everything ready for deposit at the end of your project",
+  "label": "good with suggestions"
+}

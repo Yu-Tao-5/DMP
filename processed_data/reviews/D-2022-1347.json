@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1347",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "robotiC gUided canceR nanomedicinE (CURE)",
+  "InitialFeedbackHistory": "10/06/2022 [REDACTED] obtaining privacy and ethical approval please submit your updated DMP as intermediate to include the approval numbers and update other sections if changes are made based on the feedback of the ethical committee. 3. [REDACTED] when you are performing clinical experiments you will also collect personal data, make sure to register this when applying for ethical approval via the CTC GDPR questionnaire or, if asked while filling the GDPR questionnaire, a PRET application. [REDACTED] also https://www.uzleuven.be/nl/clinical-trial-center/ctc-gdpr-questionnaire and https://admin.kuleuven.be/privacy/studpers/index 4.2 [REDACTED] DICOM is a metadata standard, you can answer yes here. [REDACTED] metadata standards that you may use are MIFlowCyt (https://fairsharing.org/FAIRsharing.kcnjj2) and CXI (https://fairsharing.org/FAIRsharing.9h5j8c). DDI is used for surveys etc and is probably not very useful for your work. [REDACTED] can always contact onderzoek2bergen@kuleuven.be if you like to learn more about metadata. 7. [REDACTED] please note that KU [REDACTED] now has a data repository that you can use for data sharing instead of [REDACTED] www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

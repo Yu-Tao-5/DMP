@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1499",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Characterization of the early immune events underlying food-induced abdominal pain",
+  "InitialFeedbackHistory": "28/07/2022\r\n2. Data: you don't have to list your manuscripts and presentations, but list the samples that you will collect, these are considered physical data. \n3. Ethics: please also include the reference number for the studies with mice, or indicate that no new approval is needed if you only reuse samples that were already collected. \n6. Preservation: please note that the UZL ethical committee recommends 25 years of data preservation, for data that is part of a clinical trial this is mandatory. \n7. Sharing: do you already know which repository you will use? for sequencing you can consider EGA (https://ega-archive.org/) and for data for which there is no suitable disciplinary repository you can use KU Leuven RDR: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

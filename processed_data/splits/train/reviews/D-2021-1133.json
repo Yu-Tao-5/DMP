@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1133",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Computational and Conceptual Density Functional Theory for Electronic Resonances.",
+  "InitialFeedbackHistory": "24/06/2022\r\n2. Data description\nWhat are the input files for Q-Chem. You state that you do not use existing data. These input data must come from somewhere. An experiment? Measurements? Existing data files?\nYour project summary also states \"In addition, we will study DNA fragments and analyze the reaction mechanisms by which attachment of slow electrons to the nucleobases leads to strand breaks in the sugar backbone.\". Does this not generate data? Or is this out of scope for your PhD?",
+  "label": "good with suggestions"
+}

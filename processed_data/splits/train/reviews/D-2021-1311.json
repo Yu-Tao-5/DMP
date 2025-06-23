@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1311",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Understanding and tackling T cell dysfunctions towards improving colorectal cancer therapies.",
+  "InitialFeedbackHistory": "06/07/2022\r\nAccording to your data and ethics sections you work with animal models, but under sharing you describe sharing pseudonymous data in EGA which is only relevant for human data. Would arrayexpress be more suitable? See www.ebi.ac.uk/submission/ to find the most suitable EMBL-EBI repository. Reading the submission guidelines of candidate repositories may also help you to design your own metadata standard. Also good to have a look at the arrive guidelines for reporting of animal experiments already: https://arriveguidelines.org/ many journals now ask to follow these.",
+  "label": "good with suggestions"
+}

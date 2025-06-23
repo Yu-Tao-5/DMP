@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1747",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The SERENA study: Semaglutide for the treatment of glucose intolerance in women with prior gestational diabetes: a double blind RCT",
+  "InitialFeedbackHistory": "08/03/2023 Please note that you used an older DMP template, FWO now uses the [REDACTED] standard DMP template that you can find in DMPonline.be or here: https://www.fwo.be/en/the-fwo/research-policy/data-management-plan/. Please use this template for your future DMPs. [REDACTED] Please also include the samples that you may collect, these are considered physical data, will you store these in the biobank? [REDACTED] [REDACTED] uses metadata and when you deposit data in RDR metadata will be added that you can mention here (https://www.kuleuven.be/rdm/en/rdr/support-guidelines) [REDACTED] privacy is a restriction preventing open sharing; you also mention here anonymized transcripts in harvard dataverse that I don't see in the data table, please clarify this",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2190",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Green Science, Technology and Innovation from the South: an interdisciplinary, ethnographic study of organic pesticide production (pyrethrum) in Kenya, Rwanda and Tanzania",
+  "InitialFeedbackHistory": "13/07/2023\r\nMetadata/Storage/Sharing: You mention RDR for storage and backup, note that this is a repository primary intended for data sharing, it is not suitable just for storage and backup during the project (see https://www.kuleuven.be/rdm/en/rdr). To be able to add metadata to your data during research can consider using ManGO https://www.kuleuven.be/rdm/en/mango, contact rdm-icts@kuleuven.be for more information, they can also help you to find a solution for data storage by your partners. You can also consult the storage guide (https://icts.kuleuven.be/storagewijzer/en) to find and compare other solutions. \nPreservation: preserving data on external hard drives is not very secure, for data that is not shared via RDR (or another repository) the K (archive) drive is a more secure alternative, or have a look at the storage guide for other options",
+  "label": "good with suggestions"
+}

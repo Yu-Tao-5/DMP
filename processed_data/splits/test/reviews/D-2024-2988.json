@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2988",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Transient Receptor Potential and Piezo channels as molecular sensors of extracellular lipid vesicles",
+  "InitialFeedbackHistory": "08/07/2024\r\nData: will you use samples or materials? Please note that these are considered physical data in the context of a DMP, also list these the table and describe how you document, store and preserve them. Will you use human cells? If so please note that these are considered human bodily material, please register the use at the UZL ethical committee, for more information see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial. One of your datasets is in vivo measurements, please mention which organism/model you will use? Do you need ethical approval? later in the DMP you mention mice, make sure to have ethical approval before starting and list the approval number(s) in your DMP? For more information see:https://research.kuleuven.be/en/associatienet/ethics/guidance/animalcare. \nPlease submit an intermediate DMP when you have the approval numbers available. \nPreservation: will you share and preserve all your data in RDR? Otherwise please add where you will archive data that is not shared in RDR. \nSharing: If there are no factors restricting sharing, why are you applying access restrictions?",
+  "label": "intermediate DMP needed"
+}

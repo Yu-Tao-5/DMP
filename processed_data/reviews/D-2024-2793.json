@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2793",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed, new upload needed",
+  "Funder": "FWO",
+  "ProjectTitle": "Model-informed precision dosing of tacrolimus in solid organ transplant recipients",
+  "InitialFeedbackHistory": "08/04/2024 [REDACTED] please list all your different datasets in different rows and give each dataset a name and description Ethics/Personal data: [REDACTED] list several ethical approval numbers in data reuse so there are ethical issues; but answer no to next question please correct this, is the processing of personal data for this study included in these approvals? [REDACTED] which relevant international standard(s) in biomedical science will you use? for more information see: www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] note that the KU [REDACTED] RDM policy asks for 10 years of data preservation, https://www.kuleuven.be/rdm/en/policy [REDACTED] if there are no factors restricting sharing why do you have to have to use restricted access? [REDACTED] privacy a factor?",
+  "label": "not good"
+}

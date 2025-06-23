@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1080",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Lassa virus: unravelling the within-host evolutionary dynamics of acute and persistent infections and the virulence evolution among hosts",
+  "InitialFeedbackHistory": "08/07/2022\r\n2. Data: please also list your samples here, those are physical data\n3. Ethics: you now give your CMT number, please list your ethical approval number(s) starting with S for UZL ethics, G for SMEC or P of ECD and briefly indicate which experiments are approved. \n4. Metadata: which metadata will you collect and how, are you generating this with your measurements? \n7. Sharing: do you already know which data repository you might use? Would any of the EBI repositories (www.ebi.ac.uk/submission/) be suitable? ENA gives good checklists for reporting, please take a look if any of these may be a useful metadata standard for your work: www.ebi.ac.uk/ena/browser/checklists. For data for which there is no disciplinary repository you can use KU Leuven RDR (www.kuleuven.be/rdm/en/rdr).",
+  "label": "good with suggestions"
+}

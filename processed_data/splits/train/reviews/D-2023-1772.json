@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1772",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Mapping the plant-phage-bacterium interaction and impact of viral communities on plant health",
+  "InitialFeedbackHistory": "02/06/2023\r\nData: Please also list the samples that you will use, these are physical data, do these need special management such as storage under specific conditions? \nMetadata: Will you generate metadata with your experiments? For sequencing MIxS or MINSEQE is often used, and for microscopy OME, ask the core facility what they provide, for more information: www.kuleuven.be/rdm/en/guidance/documentation-metadata\nPreservation: Storing data on external hard disks is not very secure, consult the storage guide to find a suitable alternative: https://icts.kuleuven.be/storagewijzer/en.",
+  "label": "good with suggestions"
+}

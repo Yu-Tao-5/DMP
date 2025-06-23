@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1014",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Towards treatments of Congenital Disorders of Glycosylation",
+  "InitialFeedbackHistory": "16/05/2022\r\n4, 7: Since you considering to submit data to MetaboLights it may be easier to already have a look at their metadata guidelines and use these rather than an adjusted Dublin core. For genomics you can take a look here: www.ebi.ac.uk/submission to see if there are suitable repositories for your data and which metadata they need.  \n6. Please note that the KU Leuven RDM policy expects data to be preserved for 10 years and the CTC/UZL ethics committee may even request 25 years of preservation if your data is part of a clinical trial.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1703",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Dual targeting of nsp12 and nsp15: a powerful concept to suppress coronavirus replication and transcription",
+  "InitialFeedbackHistory": "04/04/2023\r\nIf you use human cells please note that these are also considered human bodily material and ethical approval or registration is needed, for more information and procedures see: https://research.kuleuven.be/en/associatienet/ethics/guidance/humanmaterial\nMetadata: You mention the data repositories EMDB and PDB, these use metadata, best to have a look at the guidelines already to make sure you collect this metadata during your project. \nSharing: In the first question you indicate that data will not be made available but later you mention sharing in repositories, please explain which data can and cannot be shared, if needed, contact LRD to discuss how IP affects sharing in your project. (https://lrd.kuleuven.be/)",
+  "label": "good with suggestions"
+}

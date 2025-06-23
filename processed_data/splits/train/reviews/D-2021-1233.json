@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1233",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The role of mechanical loading in cartilage homeostasis, degeneration and repair: A multi-scale approach",
+  "InitialFeedbackHistory": "27/06/2022\r\n4. Metadata: are you using the DICOM standard for MRI? \n6. Preservation: please note that UZL ethical committee recommends to store the data related to clinical studies for 25 years\n7. Sharing: for data sharing you can also use KU Leuven RDR, if needed you can apply an embargo or restricted access and others can request access via the repository (https://www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

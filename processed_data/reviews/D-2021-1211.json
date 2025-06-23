@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1211",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unraveling the in vivo host cell tropism and virus dissemination strategies of human norovirus.",
+  "InitialFeedbackHistory": "21/06/2022 4. [REDACTED] [REDACTED] check whether these [REDACTED] [REDACTED] [REDACTED] recommended by the [REDACTED] [REDACTED] for [REDACTED] of [REDACTED] are relevant to use: https://isac-net.org/page/Data-Standards [REDACTED] for microscopy, standards such as the [REDACTED] [REDACTED] [REDACTED] [REDACTED] (https://fairsharing.org/bsg-s001430/) and the [REDACTED] [REDACTED] [REDACTED] [REDACTED] (CMPO) (https://www.ebi.ac.uk/cmpo/) can help provide standardised metadata terms. 6. [REDACTED] [REDACTED] samples (larvae, virus) need to be preserved? [REDACTED] yes, then indicate where. 7. [REDACTED] sharing [REDACTED] your kind of data there are better discipline-specific repositories (instead of RDR), e.g. ArrayExpress, BioImage [REDACTED] [REDACTED] a look here: https://elixir-europe.org/platforms/data/elixir-deposition-databases and https://www.ebi.ac.uk/bioimage-archive/",
+  "label": "good with suggestions"
+}

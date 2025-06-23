@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1837",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Homogeneous and heterogeneous metal-oxo clusters as a new generation of artificial metal-peptidases",
+  "InitialFeedbackHistory": "21/06/2023\r\nFor data sharing, you need to describe what your plans are for sharing / publishing your research data. That is separate from your publications. Obviously your publications are based on your data, but you can also publish those data that underpin the papers, eg to enable replication.\nKU Leuven RDR can be used for that: https://rdr.kuleuven.be/dataverse/rdr\n\nIn a data management plan you describe how you will manage and share your data (not the publications).\r\n\r\n19/05/2023\r\nAs discussed with my colleagues Marc, please submit a revised version of the DMP addressing:\n- data summary in more detail (individual datasets), including samples\n- address sharing of data, eg RDR",
+  "label": "good with suggestions"
+}

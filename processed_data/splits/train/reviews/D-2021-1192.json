@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1192",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "To work or not to work: constructing structural labour market models for meaningful policy simulation.",
+  "InitialFeedbackHistory": "24/06/2022\r\n2. Data descriotion\nIncluded here also the new derived variables that you will create, and the code you will develop. \n7. Data sharing\nFor your code, you can use KU Leuven GitLab (https://gitlab.kuleuven.be) to manage and publish it. Or else you can deposit and publish it in KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr).\nWhat will you do with the new variables? Destroy? Presumably they can simply be reproduced from your code?",
+  "label": "good with suggestions"
+}

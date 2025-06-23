@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1468",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Complex personalized organ-on-chip models to study the dynamics of cystic fibrosis pathophysiology",
+  "InitialFeedbackHistory": "23/06/2022\r\nPlease note that you used the general KU Leuven DMP template, for future DMPs for FWO projects please select the FWO template in DMPonline. \n3. Ethics. From the data table it looks like you work with human bodily material, please clarify this under 3. Is this material fully anonymous? If not please also indicate which personal data you may collect and the approval number.  \n4. OME could be a useful metadata standard for your microscopy data (https://fairsharing.org/FAIRsharing.cq8tg2)\n7. Sharing: have you considered using repositories for data sharing and preservation, IDR for microsopy for example (https://idr.openmicroscopy.org/) or KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

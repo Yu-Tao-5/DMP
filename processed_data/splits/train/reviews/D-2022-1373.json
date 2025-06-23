@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1373",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Integrated computer modelling of cardiorespiratory fitness for personalised risk profiling and heart failure prevention (iCAREFIT)",
+  "InitialFeedbackHistory": "12/05/2022\r\n2. Metadata: under metadata you write \"not applicable\" but according to your data table you do collect metadata; you mention DICOM files for echocardiography, these use the DICOM metadata standard and redcap also generates metadata that you can mention here. For proteomics you may use MIAPE https://www.psidev.info/miape. \n5. Please note that, if your study falls under the clinical trail regulation, the CTC expects related data to be preserved for 25 years.(https://gbiomed.kuleuven.be/english/ctc)\n6. How do you make the data findable for peers? You can consider using a repository, for example KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) or PRIDE (www.ebi.ac.uk/pride/). You can restrict access to sensitive datasets and others can request access via the repository.",
+  "label": "good with suggestions"
+}

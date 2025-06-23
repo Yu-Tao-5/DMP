@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2966",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "ECO-EVO MICROLITE: The role of the MICRObiome and its associated metaboLITES in ECO-EVO dynamics",
+  "InitialFeedbackHistory": "04/07/2024\r\nDear,\nThe information in this dmp is quite complete but the template that was used seems to be an old one. Please check dmponline.be for the new Flemish template. It should be possible to move the information to this template without a lot of changes except for the data description. The new Flemish template uses a table format for the data description that asks for more information on for example data size. \nOther remarks:\n-\t6.1 There is a typo in the answer: “...the expected 4-year period.” should be  “the expected 5-year period”.\n-\t6.2 ICTS (storagewijzer) advises against the use of BOX for long term storage.\n-\t7.5 Do not add extra conditions on top of a CC licence. Creative commons does not allow this.\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

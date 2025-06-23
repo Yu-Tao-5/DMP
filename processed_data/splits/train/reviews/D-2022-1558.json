@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1558",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Electrocoordination chemistry of s-block elements in organic media for future batteries",
+  "InitialFeedbackHistory": "27/07/2022\r\n2. Data: can you give an estimation of the volumes of your datasets already, if these are small you can just give a maximum, for lager volumes this may help to decide where to store your data and whether you have to contact ICTS to purchase additional storage. It may also be easier to show your datasets in a table\n4. Documentation: will you use any additional documentation, (e)notebooks, readme files, comments in codes, protocols etc? \n6. Preservation: please note that onedrive is not very suitable for long term preservation since this expires when the researcher to whose account onedrive is linked leaves KU Leuven, for alternatives see https://icts.kuleuven.be/storagewijzer/en. \n7. Sharing: Lirias is a publication repository and not suitable for data sharing, but KU Leuven also has a research data repository that you can use: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1213",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Identification of drug resistance mechanisms and acquired sensitivities in resistant cancer cells using genome-wide CRISPR-mediated screens",
+  "InitialFeedbackHistory": "05/07/2022\r\n3. Ethics: in the data table you mention SW26 and SW39 cells. Please note that human cells now also fall under the biobank law and you need to register the use, for more information see: www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial\n7. Sharing: have you considered any specific data repositories for sharing, maybe those from EBI (www.ebi.ac.uk/submission/)? Reading the submission guidelines of candidate repositories may help you to decide which metadata to collect in the readme files along with your experiments",
+  "label": "good with suggestions"
+}

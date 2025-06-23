@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2863",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Planetary space simulations based on the particle description for electrons and ions.",
+  "InitialFeedbackHistory": "01/03/2024\r\nYou can leave out the GDPR and DPIA pages by unchecking these boxes under downloads\nData: are both data types data that you will generate or will you also reuse data? Are there other datatypes or research outputs, eg code, models? Can you share those in a repository? What is the total volume of data that you will generate? \nFindable: \"Data is discoverable.....\" Is your data indeed discoverable already, are you reusing existing datasets? You also mention \"Repositories will apply a unique persistent identifier. E.g. a field data can have the unique identifier ECSIMFIELD_JAX:006852 in the Resource Identification Portal, this is not very clear, is this example relevant for your work? \nAccessible: Please list the repositories that you will use or are under consideration here, eg RDR? Will you be able to share all your data openly? Who are the users, how will they be informed? \nInteroperable: Which are the relevant standards and controlled vocabularies that you will use? \nReusalbe: Please indicate which licence(s) you consider to use for your data \nYou can always contact RDM helpdesk (rdm@kuleuven.be) to request a meeting with an RDM expert in your field if you have further questions.",
+  "label": "good with suggestions"
+}

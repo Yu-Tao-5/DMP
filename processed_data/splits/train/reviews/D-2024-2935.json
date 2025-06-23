@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2935",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Hijacked by nature’s genetic engineer: unraveling novel interactions between Agrobacterium effectors and plant proteins",
+  "InitialFeedbackHistory": "18/07/2024\r\nDear,\n\nThis is a basic but good initial dmp. Specific details not known yet at this moment can be collected during the project and added to the final dmp. A few small comments:\n-\tYou always refer to domain specific repositories upto the question “Where will the data be made available?” where you suddenly mention general repositories such as Zenodo. Can easily be made consistent in the final dmp.\n-\tUnder “Will a metadatastandard be used?” I suggest to change “standard metadata” into “standard metadata scheme”.\n-\tYou might mention who’s covering the costs for the storage on KU Leuven and UGent-PSB servers, f.e. the faculty or the research group.\n\nMark Verbrugge",
+  "label": "good with suggestions"
+}

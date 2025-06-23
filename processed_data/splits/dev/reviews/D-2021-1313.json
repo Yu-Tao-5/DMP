@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1313",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Model-based prediction of post-treatment walking patterns in cerebral palsy to support clinical decision making",
+  "InitialFeedbackHistory": "12/07/2022\r\n2. Data: you don't have to mention dissemination documents in a DMP\n4. Metadata, if you use KWS or redcap with its metadata you can also describe this here; for medial imaging many researchers use the DICOM metadata standard. \n5. Storage: Are you storing personal data on a laptop or onedrive? If so, is this approved by the ethical committee UZL and which security measures are you taking (multi factor authentication, encryption, etc), what is the protected/ secure environment you mention under security? \n7. Sharing: For data sharing you could consider using KU Leuven RDR: https://www.kuleuven.be/rdm/en/rdr instead of Zenodo or, a disciplinary repository if those are available in your field.",
+  "label": "good with suggestions"
+}

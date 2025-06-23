@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1830",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Modelling  interactions in antibiotic resistance between food pathogens and gut microbiota",
+  "InitialFeedbackHistory": "20/04/2023 [REDACTED] can also add the cells/microorganisms to the table, these are your physical data; are these commercially available or will you collect special cells/strains that need careful management? [REDACTED] so, please also describe how you store/preserve and share them. Please note that onedrive is not very suitable for long term storage of data since this is linked to the researcher's account and expires after they leave. [REDACTED] can consider using a repository for data preservation and sharing, for example RDR (https://www.kuleuven.be/rdm/en/rdr) or gitlab for code, here you can find some more information: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

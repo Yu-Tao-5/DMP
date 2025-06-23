@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2343",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Molecular mechanism of insect pentameric ligand-gated ion channels as a target for new insecticides",
+  "InitialFeedbackHistory": "03/04/2024\r\nData: please also add the samples/materials that you will use, these are physical data in the context of a DMP, how will you document, store, preserve and share those?  \nPreservation/sharing: you mention RDR to preserve but not to share data; note that RDR is not intended to just preserve data without sharing, see www.kuleuven.be/rdm/en/rdr. PDB which you describe under sharing will preserve your data as well so you can add this under preservation. When publishing in PDB, Dryad or other repositories don't forget to register the metadata in LIRIAS so it will appear on your publication list (for RDR this is done automatically) see: https://research.kuleuven.be/en/associatienet/output/lirias/register-datasets-in-lirias",
+  "label": "good with suggestions"
+}

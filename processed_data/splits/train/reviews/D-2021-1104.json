@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1104",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Operationally Stable Perovskite Light Emitting Diodes at High Radiance",
+  "InitialFeedbackHistory": "10/05/2023\r\n2. Data description\nIt's better to describe different datasets generated from a particular experiment or measurement separately and then make sure you know how best to document each of those.\nThe entry \"Raw and processed data from electrical measurement ; Images from GIWAXS measurements; atomic force microscopic imagers; X-ray diffraction patterns; SEM images;\" seems to bundle together a lot of different datasets / data types. Surely these all need to be organised and documented separately? \n4. Documentation\nReadMe files for each dataset would be good.\n7. Data sharing\nWhy not make data available in a data repository?\r\n\r\n30/06/2022\r\n2. Data description\nIt's better to describe different datasets generated from a particular experiment or measurement separately and then make sure you know how best to document each of those.\nThe entry \"Raw and processed data from electrical measurement ; Images from GIWAXS measurements; atomic force microscopic imagers; X-ray diffraction patterns; SEM images;\" seems to bundle together a lot of different datasets / data types. Surely these all need to be organised and documented separately? \n4. Documentation\nReadMe files for each dataset would be good.\n7. Data sharing\nWhy not make data available in a data repository?",
+  "label": "good with suggestions"
+}

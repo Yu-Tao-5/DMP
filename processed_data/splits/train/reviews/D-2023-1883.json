@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1883",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Decrypting deficient embryo-endometrium interaction in infertility using cutting-edge blastocyst and endometrium models: spotlights on endometriosis and polycystic ovary syndrome",
+  "InitialFeedbackHistory": "05/06/2023\r\nPlease note that pseudonymous data is still personal data under the GDPR, please make sure it is registered in the KU Leuven’s internal processing of personal data register. For more information please see https://admin.kuleuven.be/privacy/en/studpers/index; contact pret@kuleuven.be or the UZL ethical committee ec@uzleuven.be if you are not sure or have any further questions \nDDI may not be the most suitable standard for your work, but as you indicate,  metadata is generated with your measurements, not only for microscopy but also for qPCR, sequencing, by kws or redcap and the biobank database. For more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nBe careful when sharing human derived data, if your data is not fully anonymous, you can use EGA (https://ega-archive.org/) or RDR with access restrictions, you will still get a DOI or accession number so your data can be found and cited, but others have to submit a request to access the dataset. Contact dac@uzleuven.be before sharing your data to discuss the best strategy.",
+  "label": "good with suggestions"
+}

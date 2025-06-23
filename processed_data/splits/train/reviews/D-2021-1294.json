@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1294",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "A personalized model of Cyctic Fibrosis: towards elucidating cellular contributions to disease severity.",
+  "InitialFeedbackHistory": "10/06/2022\r\n3. Ethics. Your description shows that you will use human material, please include these in the data table under 2. To use human bodily material including cell lines and samples collected in a previous study you need ethical approval and registration in the biobank, please take a look at www.kuleuven.be/english/research/ethics/committees and apply for ethical approval. Please update your DMP and submit as intermediate after obtaining approval. \n4. Metadata: For microscopy OME is a widely used metadata standard that could be useful for your work (https://fairsharing.org/3502). For human samples the biobank uses their own metadata sheet that ensures correct documentation www.uzleuven.be/en/uzku-leuven-biobank/registry\n6. Preservation: Please note that the KU Leuven RDM policy asks for 10 years of preservation of relevant data, see www.kuleuven.be/rdm/en/policy\n7. Sharing: KU Leuven now also has an institutional data reposiry (RDR) that you can use: www.kuleuven.be/rdm/en/rdr; for sharing of microscopy images the Image Data Resource may be interesting: https://idr.openmicroscopy.org/",
+  "label": "intermediate DMP needed"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2025-3589",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "From Page to Place: Cultural Nation-Building and Authorial Self-Fashioning in the Low Countries (1780-1830)",
+  "InitialFeedbackHistory": "14/03/2025\r\n- Data storage and backup: You mention that OneDrive is your primary storage solution for research data. We no longer recommend OneDrive for this purpose for a number of reasons, chief among which the fact that, because your OneDrive account is connected to your KU Leuven employment, your data is deleted as soon as you leave the university for any reason. In other words, data stored on OneDrive cannot be accessed by the university itself, which goes against KU Leuven RDM Policy. To find a different storage solution, we recommend you use the ICTS Storage Guide (at https://icts.kuleuven.be/storagewijzer/en).\n- Data selection and preservation: The same goes here: for the reasons set out above, OneDrive is not an adequate option for long-term preservation. The simplest solution here is to publish your data on a repository like KU Leuven RDR, which ensures long-term availability of the data.\n- Metadata and documentation: If you're planning to use Nodegoat for network analysis, it's best to work with a .csv file (an open format) as opposed to an .xslx file. Open formats are also often required when you're sharing data. Moreover, try to adhere to a certain metadata standard or at least keep track of the different identifiers you use in the spreadsheet so as to improve reusability of your data.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2704",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Gastric interoception: Towards an improved understanding of interoceptive processes within and across organ domains in healthy individuals and patients with functional dyspepsia.",
+  "InitialFeedbackHistory": "25/04/2024\r\nStorage: please clarify why you are indicating that redcap is HIPAA compliant, are you collaborating with researchers in the USA? If so please describe this in the data section under reuse of existing data and/or 3rd party agreements. \nSharing: when sharing data on OSF please make sure it is fully anonymous without any risk to re-identify the subjects. If full anonymization is not possible, please use RDR where you can restrict access to the files with sensitive data, you can import your data from OSF using the integration dashboard: www.kuleuven.be/rdm/en/rdr/integration-dashboard",
+  "label": "good with suggestions"
+}

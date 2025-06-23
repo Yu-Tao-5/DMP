@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1037",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Construction Digital Twins for automated digital construction site monitoring",
+  "InitialFeedbackHistory": "07/06/2022\r\n4. Metadata: are you collecting any metadata with your measurements, is this maybe in the .txt files that explain the contents of the data? Camera's and sensors often generate metadata according to a standard, regular cameras mostly use DCIM for example. Please contact onderzoek2bergen@kuleuven.be if you like to discuss this in more detail. \n7. Sharing: Under 3 you mention 3rd party agreements, do these affect sharing? Please also note the KU Leuven now has an institutional data repository that you can use for data preservation and sharing: www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

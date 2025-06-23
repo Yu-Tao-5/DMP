@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1791",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unravelling the natural complexity of the protein biosynthesis pathway in the yeast Saccharomyces cerevisiae.",
+  "InitialFeedbackHistory": "06/12/2024\r\nStorage: the digital vault is a solution for very sensitive personal data see https://icts.kuleuven.be/sc/english/infosecurity/secure-environment; is this what your are actually using? You can have a look at the storage guide for solutions that may be a better fit for your data: https://icts.kuleuven.be/storagewijzer/en. If you are not working with personal data please remove the data about personal data from your storage section, otherwise update the data section to include your PRET registry number. \nPreservation: please note that the KU Leuven RDM policy asks for 10 years of data preservation: https://www.kuleuven.be/rdm/en/policy\nSharing: When sharing data via a trusted data repository other than RDR, please register these in Lirias: https://research.kuleuven.be/en/associatienet/output/lirias/register-datasets-in-lirias\r\n\r\n27/06/2023\r\nYou used an older DMP template, FWO now uses the Flemish standard DMP template. You can find this template in DMPonline.be or on the FWO website where you can also find more information about the FWO RDM requirements: https://www.fwo.be/en/the-fwo/research-policy/data-management-plan. Consult our website for more guidance on how to write a DMP: https://www.kuleuven.be/rdm/en/guidance/dmp/dmp\nIt looks like your DMP contains a lot of generic text, please describe only the data you will use / generate in your research\nYou mention that you will closely monitor the MIBBI, these have many standards relevant for your data, eg MINSEQE, MIAPE, MIxS, MIFlowCyt for more information see https://fairsharing.org/MIBBI",
+  "label": "good with suggestions"
+}

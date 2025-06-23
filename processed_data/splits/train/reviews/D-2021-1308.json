@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1308",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Benefits of deep learning algorithms for delineation of target volumes in radiotherapy treatment for head and neck cancer.",
+  "InitialFeedbackHistory": "22/06/2022\r\n4. Metadata: Are you using the DICOM metadata standard for imaging? \n5. Storage: Are you storing personal data on external disks, is this approved by the ethical committee? Please contact your local IT team to discuss more secure alternatives. \n6. Preservation. Please note that the ethics committee UZL recommends data preservation of 25 years, which mandatory for all data that is considered part of a clinical trail. \n7. Sharing: have you considered any repositories, F1000 research gives good recommendations for domain specific repositories https://f1000research.com/for-authors/data-guidelines. If there are no suitable domain specific repositories you can also consider using KU Leuven RDR where you can share you data openly or under restricted access if you can't fully anonymize your data. www.kuleuven.be/rdm/en/rdr.",
+  "label": "good with suggestions"
+}

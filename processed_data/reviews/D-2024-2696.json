@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2696",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Discovering the role of the circadian clock morning components in plant latitudinal adaptation",
+  "InitialFeedbackHistory": "13/03/2024 [REDACTED] [REDACTED] you only describe the data that you share with external researchers via a repository (ENA and figshare), the description of the storage of data that you keep internally fits better under preservation. [REDACTED] describe sharing of sequencing and image data but mention a software licence, are you also planning to share code/software, ENA has its own terms and conditions (https://www.ebi.ac.uk/ena/browser/about/policies) and for images a creative commons licence is more appropriatie, for more information see: https://www.kuleuven.be/rdm/en/rdr/licenses",
+  "label": "good with suggestions"
+}

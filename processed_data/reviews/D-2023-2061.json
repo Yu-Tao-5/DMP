@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2061",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Subject-specific MRI passive shims and receive coils through 3D printing",
+  "InitialFeedbackHistory": "15/02/2023 Please note that there is still a comment in your DMP, please correct this in your final DMP that FWO expects at the end of your fellowship, you can already submit an updated DMP as intermediate. Please note that FWO now implemented the new [REDACTED] standard DMP template that you can find in DMPonline.be or here: https://www.fwo.be/en/the-fwo/research-policy/data-management-plan/. Please use this template for your future DMPs. [REDACTED] [REDACTED] you use the DICOM standard which is often used for medical imaging? [REDACTED] more information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata. [REDACTED] Please clarify which cloud storage you use, have a look at the storage guide to help you choose: https://icts.kuleuven.be/storagewijzer/en [REDACTED] please note that scientific data is not a repository but a journal. [REDACTED] there any disciplinary repositories in your field, if not you can use KU [REDACTED] RDR, for more information: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

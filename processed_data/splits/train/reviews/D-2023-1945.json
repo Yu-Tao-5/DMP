@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1945",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Multiple sclerosis immunogenetics: moving to multi-omics single-cell resolution",
+  "InitialFeedbackHistory": "07/04/2023\r\nData preservation: indicate where the physical samples from patients and controls will be kept for 30 years. UZ Biobank? Elsewhere?\n\nData usage licenses: GEO does not apply licenses to data; that is not applicable to genomics data.\n\nFor the scripts in GitHub, you may want to use a GNU or Mozilla licence, have a look here: https://ufal.github.io/public-license-selector/",
+  "label": "good with suggestions"
+}

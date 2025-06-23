@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1567",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Boiling Enhancement by Surface Texturing (BEST)",
+  "InitialFeedbackHistory": "25/07/2022 2. [REDACTED] can you give an estimation of the volumes already, if these are small you can just give an estimated maximum, for lager volumes this may help to decide where to store your data and whether you have to contact ICTS to purchase additional storage 4. [REDACTED] DDI is designed for surveys and other social science data and may not be the most appropriate for your work. [REDACTED] can expand the [REDACTED] core to your needs (/www.dublincore.org/specifications/dublin-core/dces/) or maybe your software already generates metadata along with the experimental data that you use to understand the contents of your datasets? 7. [REDACTED] [REDACTED] you considered using a repository for data preservation and sharing? [REDACTED] you using [REDACTED] [REDACTED] there are disciplinary repositories in your field sharing there may increase the findability and impact of your data, but if these are not available KU [REDACTED] now also has its own repository: www.kuleuven.be/rdm/en/rdr.",
+  "label": "good with suggestions"
+}

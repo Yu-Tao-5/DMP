@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1079",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Integrated, multimodal phenotypic analysis of Ppp2r1a knockin mice: new in vivo models of syndromic PP2A-related (neuro)developmental disorders.",
+  "InitialFeedbackHistory": "01/07/2022\r\nVery good and detailed DMP\n4. Metadata: Since you describe depositing in GEO you can take a look at their metadata templates already: www.ncbi.nlm.nih.gov/geo/info/spreadsheet.html, EBI (www.ebi.ac.uk/submission/) uses similar metadata. CT and MRI often use DICOM metadata which makes it easy to document the data. You may also find the arrive guidelines for reporting of animal experiments useful, journals often ask to follow these: https://arriveguidelines.org/\n5. Storage: Please note that Dropbox is not very secure, although it looks like you only use this for sharing protocols and inventory list you can consider setting up a teams-site for your group: https://icts.kuleuven.be/sc/samenwerking/teams or using onedrive (https://icts.kuleuven.be/sc/storage/onedrive)",
+  "label": "good with suggestions"
+}

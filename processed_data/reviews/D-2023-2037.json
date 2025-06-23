@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2037",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Combined transcriptomic and electrophysiological spatiotemporal profiling of neural circuits with a high-density multi-electrode array chip",
+  "InitialFeedbackHistory": "01/02/2023 [REDACTED] also include your physical data (cells, samples etc). [REDACTED] you using human cells? [REDACTED] so please make sure you have ethical approval, you can find more information here: https://www.kuleuven.be/english/research/associatienet/ethics/guidance/humanmaterial. [REDACTED] you work with imec: are you sure there are no valorization potentials or IP restrictions? [REDACTED] [REDACTED] there are restrictions on data sharing such as IP or valorization please explain, if there are none please consider whether you could share your data, please note that this section does not ask about your peer reviewed publications but about sharing of the underlying datasets which is requested by many journals. [REDACTED] a look at the EBI repositories: https://www.ebi.ac.uk/submission/ or KU [REDACTED] RDR (https://www.kuleuven.be/rdm/en/rdr) if any of these are suitable. [REDACTED] can find more information here: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

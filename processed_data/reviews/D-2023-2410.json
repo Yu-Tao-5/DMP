@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2410",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Identification of Real-World Trunk Biomarkers for Fall Risk Detection",
+  "InitialFeedbackHistory": "08/01/2024 [REDACTED] will you generate datasets or use/write code/scripts for analysis? please also include these in the table. [REDACTED] all the data that you bring to KU [REDACTED] fully anonymous? [REDACTED] not please register the data in the the KU [REDACTED] internal processing of personal data register, for more information see: https://admin.kuleuven.be/privacy/en/studpers/index, or contact pret@kuleuven.be. [REDACTED] please describe how you will document your data, storage locations are part of the next question, will you use codebooks or readme files for example? Please describe the metadata that you use for your data, publications in [REDACTED] do not fall under the scope of a DMP; for more information see https://www.kuleuven.be/rdm/en/guidance/documentation-metadata [REDACTED] [REDACTED] can also use a data repository for data sharing instead of sharing it as supplement to your publication, in that case your data gets a separate identifier and is findable independent of the publication and can be linked to multiple publications; see https://www.kuleuven.be/rdm/en/guidance/data-sharing for more information",
+  "label": "good with suggestions"
+}

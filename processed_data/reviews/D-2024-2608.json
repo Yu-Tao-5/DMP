@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2608",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "IOF",
+  "ProjectTitle": "Validation of CCR8 agonism as therapeutic strategy for treatment of (auto-)inflammation",
+  "InitialFeedbackHistory": "03/06/2024 [REDACTED] Please also list cells or other materials that you may use, these are considered physical data in the context of a DMP; will you generate data related to the in vivo tests in the course of this project? Please list these in the table as well. [REDACTED] and metadata: [REDACTED] now describe where you will store your data, that is part of the next question; please describe here how you will document your data, eg using notebooks, protocols and add which metadata you will use, eg MIFlowCyt and/or the RDR metadata model: https://www.kuleuven.be/rdm/en/rdr/full-metadata-model",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3205",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "New Perspectives on Medieval and Renaissance Courtly Song",
+  "InitialFeedbackHistory": "13/03/2025\r\nIn case this isn't already planned: We strongly recommend connecting the Github account with a data repository (like Zenodo or KU Leuven RDR) so that code on GitHub can be archived securely and receive a DOI for citation purposes. See https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content for Zenodo, and https://www.kuleuven.be/rdm/en/rdr/integration-dashboard for an explanation of RDR’s integration dashboard.\n\nFor authors affiliated with KU Leuven: Metadata about any datasets shared/archived on the institutional data repository RDR (https://rdr.kuleuven.be/) will be automatically added to Lirias. When sharing/archiving data using data repositories other than RDR, such as Zenodo, GitHub, and/or DANS,\ndon't forget to add the metadata about the datasets to Lirias (more information: https://www.kuleuven.be/rdm/en/faq/faq-rdr#Should%20I%20report%20my%20dataset%20in%20Lirias?).",
+  "label": "good with suggestions"
+}

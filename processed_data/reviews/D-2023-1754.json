@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1754",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "APPLIEDX",
+  "InitialFeedbackHistory": "04/04/2023 [REDACTED] Please also list the samples that you may collect or (re)use in the table, these are considered physical data, do these need special management or storage under special conditions eg in the biobank? [REDACTED] you have ethical approval and is the processing of personal data registered? Please list the approval numbers in the DMP, for more information see: https://research.kuleuven.be/en/associatienet/ethics/index Please focus for each question on the information asked, for example, you give information about the storage of data under several questions and mention different storage locations throughout the DMP, please describe this once clearly in the storage section Please note that LIRIAS is not suitable for data sharing, you can use RDR for this purpose, or consider a disciplinary repository: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

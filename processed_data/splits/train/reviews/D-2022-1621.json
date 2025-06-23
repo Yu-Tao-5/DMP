@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1621",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Astrocytes dysfunctions in Phelan McDermid syndrome: from mechanisms towards new therapeutic strategies",
+  "InitialFeedbackHistory": "13/12/2022\r\n2. Data: Physical samples and analysis code/scrips are also considered data, please als include these, are you only generating sequencing data, no functional assays, protein data etc? \n3. Please include where ethical approval for animal experiments is requested and the approval number, it is also recommended to report this to the ecd via the form \"notification of animal experiments.....\" that you can find here www.kuleuven.be/animalia/en/forms/index.html so you get an M number that you can use for reporting. \n4. Metadata: the link you give goes to PATRIC for pathogen genomes. Is MINSEQE or MIxS more suitable? this is also used by GEO/ Arrayexpress or ENA resp (https://fairsharing.org/FAIRsharing.a55z32, https://fairsharing.org/FAIRsharing.9aa0zp)?\r\n\r\n13/12/2022\r\n2. Data: Physical samples and analysis code/scrips are also considered data, please als include these, are you only generating sequencing data, no functional assays, protein data etc? \n3. Please include where ethical approval for animal experiments is requested and the approval number, it is also recommended to report this to the ecd via the form \"notification of animal experiments.....\" that you can find here www.kuleuven.be/animalia/en/forms/index.html so you get an M number that you can use for reporting. \n4. Metadata: the link you give goes to PATRIC for pathogen genomes. Is MINSEQE or MIxS more suitable? this is also used by GEO/ Arrayexpress or ENA resp (https://fairsharing.org/FAIRsharing.a55z32, https://fairsharing.org/FAIRsharing.9aa0zp)?",
+  "label": "good with suggestions"
+}

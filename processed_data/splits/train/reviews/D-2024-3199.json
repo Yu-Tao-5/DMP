@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3199",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "The origin and evolution of a blastered Mercury",
+  "InitialFeedbackHistory": "28/10/2024\r\nThe GDPR and DPIA pages are not required, you can exclude them by unchecking the corresponding boxes under download \nFindable/Accessible: Are there disciplinary repositories in your field that may be more suitable for your data? Otherwise RDR is a good choice, for more information see https://www.kuleuven.be/rdm/en/guidance/data-sharing. You can also upload code in RDR via the integration dashboard to get a DOI: https://www.kuleuven.be/rdm/en/rdr/integration-dashboard  \nInteroperable: Can you give examples of the standards and vocabularies that you will use? \nReuse: Please add here whether you add a license to your data, eg CC-BY, for more information see: https://www.kuleuven.be/rdm/en/rdr/license-selection\nResources: Please note that the ICTS advises against the use of OneDrive for research data, consult the storage guide for more information and to find other solutions: https://icts.kuleuven.be/storagewijzer/en\nPlease check if all the information in your DMP is relevant for the current project, under reusable you mention interviews for example which I don't see under data",
+  "label": "good with suggestions"
+}

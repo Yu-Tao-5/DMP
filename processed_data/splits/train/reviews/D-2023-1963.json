@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1963",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Unravelling the neuropeptidergic circuitry underlying arousal and sensitization",
+  "InitialFeedbackHistory": "08/06/2023\r\nData: you list RNA/DNA samples but I don't see related data in the table, will you do PCR, sequencing? Your C. elegans stocks are also physical data, will you use special strains? You don't have to list your own manuscripts and notebooks for documentation here. \nDocumentation: please focus here on the documentation that you will use, where you store data is part of the next question\nSharing: Lirias is a publication repository, not suitable for data sharing, but KU Leuven also has a data repository RDR: www.kuleuven.be/rdm/en/rdr. Earlier in your DMP you mention wormbase, will you use this for data sharing? For more information: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3184",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Concomitant Reversal of Adrenal Insufficiency and Muscle Weakness to Enhance Recovery from Prolonged Critical Illness",
+  "InitialFeedbackHistory": "16/10/2024 [REDACTED] DMP, some minor suggestions: [REDACTED] GDPR and DPIA pages are not required, you can exclude them by unchecking the corresponding boxes under download [REDACTED] [REDACTED] ERC is mainly interested in how you will ensure that your data will be FAIR for external users. [REDACTED] KU [REDACTED] RDR is great especially for data that need access restrictions, but you can also consider whether disciplinary repositories are more suitable for certain datasets (e.g. https://www.ebi.ac.uk/submission/). [REDACTED] can add here that your data will get a persistent identifier upon deposit in the repository, a DOI for RDR, and that metadata including keywords will be added in the repository. [REDACTED] [REDACTED] you use standards or vocabularies, e.g. [REDACTED] [REDACTED] [REDACTED] (MeSH)? [REDACTED] [REDACTED] you add a license to your open data (https://www.kuleuven.be/rdm/en/rdr/licenses) or provide a data transfer agreement for restricted datasets, describing how data can be reused? [REDACTED] you can include details on how you document your data in RDR here, as now described under the [REDACTED] section.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1613",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "WISH-ROOT: Tuning the wheat root microbiome to improve soil health and optimize rhizosphere nitrogen cycling and availability",
+  "InitialFeedbackHistory": "08/09/2022\r\nYour DMP seem to miss a few questions that FWO asks for. That is no problem now, but best to include those in the final DMP you will need to send to FWO.\n\nSection 3 Ethical - Legal missing (may not apply, then just indicate N/A)\nQ 4.1 missing: What documentation will be provided to enable understanding and reuse of the data collected/generated in this project?\nThis one is important - do make sure there's good documentation, protocols, readme files, variable definitions etc for the datasets you'll create.\n\nSee the FWO template here: https://www.kuleuven.be/rdm/en/guidance/dmp",
+  "label": "good with suggestions"
+}

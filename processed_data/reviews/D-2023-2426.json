@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2426",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Interactive Fluidic State Machines for Soft Robotics",
+  "InitialFeedbackHistory": "28/10/2023 [REDACTED] DMP looks good. [REDACTED] a few suggestions for point 4, \"Re-use\": - consider which licence would be suitable for the code you will publish (CC-BY is good for data, but not for code); you can find suitable code licences here: https://ufal.github.io/public-license-selector/ - indicate which documentation there would be to facilitate understanding / reuse of data & code, eg ReadMe files, comment lines in code.",
+  "label": "good with suggestions"
+}

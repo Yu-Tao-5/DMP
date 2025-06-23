@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2185",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "The role of the peripheral immune system and LRRK2 in gut-to-brain spreading of alpha-synuclein pathology in Parkinson’s disease",
+  "InitialFeedbackHistory": "07/07/2023\r\nData: please also list the samples that you may use in the data table, these are physical data, do they need management such as storage under specific conditions? \nSharing: there may also be disciplinary repositories that you could consider using for some of your data, have a look at EBI for example (https://www.ebi.ac.uk/submission/), for more information see https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

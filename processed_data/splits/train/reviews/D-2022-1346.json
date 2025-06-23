@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1346",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Understanding and boosting the performance of organic thermoelectrics by a tailored molecular design guided by experiments and simulations",
+  "InitialFeedbackHistory": "16/06/2022\r\n4. Documentation : From the description of the project it seems you will be developing new protocols, perhaps you can add information about those protocols in this section.\n4. Metadata standard : You can consider using any standard file/directory naming conventions, such as from Edinburgh university:\nhttps://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions\n6. Data Preservation: Perhaps you can consider creating digital twins of lab books by scanning them and storing on KU Leuven storage infrastructure.\n7. Data Sharing: Lirias is not for sharing datasets. KU Leuven has RDR data repository for this purpose: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

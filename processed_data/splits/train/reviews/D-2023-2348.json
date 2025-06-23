@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2348",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "HURT: HabitUation and sensitization of aveRsive bodily sympToms: methods, mechanisms, and predictive value in real life",
+  "InitialFeedbackHistory": "03/04/2024\r\nSharing: Could privacy be a factor restricting sharing? When sharing data on OSF please make sure it is fully anonymous without any risk to re-identify the subjects. If this is not the case please use RDR where you can restrict access, you can import your data from OSF using the integration dashboard: www.kuleuven.be/rdm/en/rdr/integration-dashboard. When publishing in OSF please register the metadata in LIRIAS so it will appear on your publication list (for RDR this is done automatically) see: https://research.kuleuven.be/en/associatienet/output/lirias/register-datasets-in-lirias",
+  "label": "good with suggestions"
+}

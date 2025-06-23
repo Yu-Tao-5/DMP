@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3007",
+  "Status": "Intermediate",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "A new strategy for chilldown enhancement in cryogenic propulsion systems",
+  "InitialFeedbackHistory": "19/03/2024\r\nVery good DMP, some minor suggestions: \nYou can leave out the GDPR, DPIA and proposal pages by unchecking these boxes under downloads. \n2.1.2: You don't have to mention under findability that there are no specific standards for your data, mentioning the metadata that RDR adds is sufficient here, the readme file fits better under the question about provenance under reusable (2.4.4) \n2.2.2: You can mention here that RDR is free to use for you as KU Leuven researcher (up to 50GB/year)\n2.2.4, 2.2.5, 2,2,8: Which datasets cannot be shared openly and for which reason? You don't have to mention peer reviewed output in a DMP. Make sure to discuss data sharing with LRD before deposit in RDR, you can also mention in the DMP that you will discuss with LRD which data you can share or whether you need to apply an embargo due to patent exploitation, https://lrd.kuleuven.be/\n2.2.10: Who will evaluate request to access the data? (this can be your supervisor or a data access committee)",
+  "label": "good with suggestions"
+}

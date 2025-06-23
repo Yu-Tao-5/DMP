@@ -1,0 +1,16 @@
+{
+    "document_id": "D-2023-2130",
+    "LinkTitle": "D-2023-2130",
+    "file_name": "D-2023-2130.pdf",
+    "file_path": "/Users/JADEPOTTER5/Downloads/DMP-MT/processed_data/pdfs_new/org_pdfs/D-2023-2130.pdf",
+    "metadata": {
+        "title": "D-2023-2130",
+        "author": "Mumin Leblebici",
+        "creation_date": "2023-05-10 10:13:45+02:00",
+        "num_pages": 1
+    },
+    "content": {
+        "full_text": "Data manage ment plan CIPT  \nThis research project will deal with 3 types of data. The first is data provided by the experimental  \nsetups . The second is collected data from simulations . The third type is papers, master theses and PhD \ntheses generated within the CAPTIN II project. The Leblebici research group has a data storage capacity \nof close to 20TB at the moment. The data will be stored in the group repositories during the project \nand maintained for at least another five years after the project end. During the research project, the \nPhD student and the post -doctoral researcher will co -manage these dat a with Prof. Leblebici. At the \nend of the project, the management responsibility of the data will pass to Prof. Leblebici, and iRODS \ndata storage is envisaged. Besides the data, the project will generate a significant amount of code. The \ncode will be store d in the KULeuven GitLab repository on the CIPT group repository channel.  \n "
+    },
+    "clean_full_text": "Data manage ment plan CIPT This research project will deal with 3 types of data. The first is data provided by the experimental setups . The second is collected data from simulations . The third type is papers, master theses and PhD theses generated within the CAPTIN II project. The Leblebici research group has a data storage capacity of close to 20TB at the moment. The data will be stored in the group repositories during the project and maintained for at least another five years after the project end. During the research project, the PhD student and the post -doctoral researcher will co -manage these dat a with Prof. Leblebici. At the end of the project, the management responsibility of the data will pass to Prof. Leblebici, and iRODS data storage is envisaged. Besides the data, the project will generate a significant amount of code. The code will be store d in the KULeuven GitLab repository on the CIPT group repository channel."
+}

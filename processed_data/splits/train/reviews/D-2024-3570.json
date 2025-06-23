@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3570",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "A testing platform for 4D-XCT of materials and biological tissues, a software toolbox for image enhancement and processing, and a database of XCT datasets and imaging protocols",
+  "InitialFeedbackHistory": "20/01/2025\r\nData: please add the samples/materials that you will use in the data table, these are regarded as physical data within the context of a DMP. Additionally, in the subsequent questions, please describe how you will document, store, preserve, and share these materials. \nEthics: please add the ethical approval numbers that cover the work in this project. \nPreservation: does your project include clinical trials with medicinal products for human use or other clinical experiments on humans; if so please add this in the ethics section, if not relevant, please remove this part from preservation.",
+  "label": "good with suggestions"
+}

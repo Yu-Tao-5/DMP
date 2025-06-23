@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1766",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Understanding thrombo-inflammation: the key to safer antithrombotic therapy?",
+  "InitialFeedbackHistory": "04/04/2023 [REDACTED] will you use metadata from a patient database, redcap or generated with the measurements? [REDACTED] please describe where you will store your data, eg UZL servers for patient data, or consult the storage guide to choose a suitable KU [REDACTED] location: https://icts.kuleuven.be/storagewijzer/en [REDACTED] please note that if your data is a clinical trail data should be preserved for 25 years, this is also recommended for other clinical studies, onedrive is not very suitable for long term storage since this expires after the researcher whose account is linked leaves. [REDACTED] you can also consider using KU [REDACTED] RDR or a disciplinary repository to make your data available for reuse, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

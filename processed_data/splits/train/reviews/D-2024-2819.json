@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2819",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Development of a digital twin for pig growth and behaviour.",
+  "InitialFeedbackHistory": "12/03/2024\r\nMajor remark:\n- The Research data summary is missing, please add this using the data table that you can find in dmponline.be. You can find more information in the KU Leuven guidance. It should combine the information under \"Describe the datatypes (surveys, sequences, manuscripts, objects … ) the research will collect and/or generate and /or (re)use.\" and \"If you reuse existing data, please specify the source, preferably by using a persistent identifier (e.g. DOI, Handle, URL etc.) per dataset or data type\"\n\nMinor remarks:\n- Please note that Lirias doesn’t archive data, only the description of the dataset. To archive the data and to make it available for reuse you can use RDR, as you mention further on in the DMP but RDR can not be used just to archive data without the intention of sharing. \n- On “Are there any factors that restrict or prevent the sharing of (some of) the data (e.g. as defined in an agreement with a 3rd party, legal restrictions)?” you answer “No”. Should be yes because there is a restriction: “Data sharing of part of the dataset is restricted by a collaborating company”. This is inconsistent with your answer “There are no 3rd party agreements in place that restrict exploitation or dissemination of the data” on the question “Do existing 3rd party agreements restrict exploitation or dissemination of the data you (re)use?” higher up in the DMP.\n- Data is closed, so no data licence is to be foreseen, unless you plan to make some parts of the data available in the future.\n- Is there a possibility that personal data about pig farmers will be collected, possibly indirectly through information about their livestock or infrastructure?",
+  "label": "good with suggestions"
+}

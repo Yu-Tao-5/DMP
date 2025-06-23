@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1832",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Sixty Donatist Sermons from the 5th Century? A Critical Edition and Content Analysis of the ‘Vienna Collection’.",
+  "InitialFeedbackHistory": "07/02/2023\r\nDocumentation and Metadata: Will you use RDM tools that generate metadata, for example Zotero, Tropy or Nvivo, or does the BiblIndex database use metadata? For more information see: www.kuleuven.be/rdm/en/tools, www.kuleuven.be/rdm/en/guidance/documentation-metadata, or make an appointment with a RMD advisor via rdm@kuleuven.be \nStorage: You list 4 storage locations, are these for different datasets? Normally one location with automatic backup should be sufficient, please take a look at the storage guide: https://icts.kuleuven.be/storagewijzer/en. Also note that onedrive is not suitable for long term preservation since this is linked to your account and expires when you leave. \nSharing: KU Leuven also has a data repository RDR that you can consider to use for data sharing: https://www.kuleuven.be/rdm/en/rdr",
+  "label": "good with suggestions"
+}

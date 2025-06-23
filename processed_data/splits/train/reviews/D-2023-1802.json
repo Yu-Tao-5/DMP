@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1802",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Single-molecule Protein Dynamics using Correlative Nanopore and Fluorescence Measurements",
+  "InitialFeedbackHistory": "05/05/2023\r\nData: Please also list the samples and/or materials that you use, these are physical data, if you are using samples/cells from humans origin also make sure you have ethical approval, for more information see: https://research.kuleuven.be/en/associatienet/ethics/index\nMetadata: which metadata standards will you use? For more  information see: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata\nStorage: storing data on hard drives is not very secure, please have a look at the storage guide for a more secure solution: https://icts.kuleuven.be/storagewijzer/en\nSharing: you can also consider using the KU Leuven repository RDR as alternative for Zenodo (www.kuleuven.be/rdm/en/rdr)",
+  "label": "good with suggestions"
+}

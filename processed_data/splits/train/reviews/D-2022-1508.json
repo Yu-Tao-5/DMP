@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1508",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Microwave heating in tubes for rapid diagnostics – METEOR",
+  "InitialFeedbackHistory": "23/06/2022\r\n3. Legal and ethical: It is not clear for which data/tools valorisation is foreseen. Please add a bit more information about this when you update your DMP.\n4. Documentation: README files can also be used to document data variables. More information is available here: https://www.kuleuven.be/rdm/en/guidance/documentation-metadata/README\n7. Sharing: Which open access repository will you use to make your datasets public. You can consider using KU Leuven`s public data repository RDR for this purpose. More information available at: https://www.kuleuven.be/rdm/en/rdr/rdr",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-3133",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "EU",
+  "ProjectTitle": "Gestalts Relate Aesthetic Preferences to Perceptual Analysis",
+  "InitialFeedbackHistory": "06/08/2024 [REDACTED] DMP, some minor suggestions: [REDACTED] to start your DMP with the general information about the project, (title/acronym, number) and a brief abstract focused on the data collection, if there are multiple partners/institutes involved also describe their roles. [REDACTED] Note that the ERC is mainly interested in how data will be FAIR for others outside of your project, you can describe storage and preservation internally at KU [REDACTED] briefly under 5. allocation and data security. [REDACTED] your scripts be open on [REDACTED] [REDACTED] get a DOI for your code you can upload it to RDR via the integration dashboard: https://www.kuleuven.be/rdm/en/rdr/integration-dashboard [REDACTED] [REDACTED] data is not fully anonymous you can also share them on RDR but under restricted access, this way the data is also FAIR and you can than add that RDR has a procedure to process access requests. OSF is not suitable for sensitive data but the integration dashboard mentioned above can also be use to transfer data from OSF to RDR to be shared with access restrictions. Note that publications are not in the scope of a DMP. [REDACTED] you can add that you will use a data transfer agreement provided by the RDR team and legal department for data that will be shared upon request (a licence can only be used for open data) [REDACTED] indicated that your DMP can be used as example, but since it still contains some comments, I suggest you upload the next version of your DMP as intermediate to be used as example for KU [REDACTED] researchers",
+  "label": "good with suggestions"
+}

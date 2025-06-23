@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-2249",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "mERCATOR: Engineering Regenerative CAllus-Tissue ORganoids for compromised long bone defects",
+  "InitialFeedbackHistory": "07/07/2023 [REDACTED] [REDACTED] ethics you indicate dual use, please note that this refers to research data with a risk of use for unethical or military purposes, is this the case in your project or do you mean that you use both human and animal data? [REDACTED] that case check these 2 boxes instead. [REDACTED] now mention an ML number, normally UZL approvals start with an S, do you have an S number? [REDACTED] also list some older numbers from the animal ethics committee, these are normally valid for max 5 years, please update this section with valid ethical approval numbers. [REDACTED] more information see https://research.kuleuven.be/en/associatienet/ethics/index [REDACTED] [REDACTED] can also consider using a repository for preservation and sharing, eg EBI (www.ebi.ac.uk) or KU [REDACTED] RDR (https://www.kuleuven.be/rdm/en/rdr) where you can also apply access restrictions if needed, this makes is easier for others to find your data and you will get a DOI that makes you data citable, for more information see for more information see www.kuleuven.be/rdm/en/rdr and www.kuleuven.be/rdm/en/guidance/data-sharing",
+  "label": "good with suggestions"
+}

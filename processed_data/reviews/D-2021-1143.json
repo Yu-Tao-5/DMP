@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1143",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Serine/glycine synthesis addiction in acute lymphoblastic leukemia and resulting therapeutic opportunities",
+  "InitialFeedbackHistory": "12/05/2022 2. [REDACTED] [REDACTED] don't have to list your manuscripts as data, notes about the experiments fits better under documentation. 3. [REDACTED] [REDACTED] storage you mention PDX samples, are these patient derived xenografts? Please note that you now also need ethical approval for the use of human bodily material to be compliant with the biobank law, for more information see www.uzleuven.be/en/uz-kuleuven-biobank 4. [REDACTED] [REDACTED] you use the standards from the repositories you can indicate that you do use a standard (likely MINSEQE for sequencing). [REDACTED] good practice to already to already familiarize yourself with the metadata needed for deposit and collect this information along with your experiments, for example in a separate sheet in your excel file or in a readme file. 12/05/2022 2. [REDACTED] [REDACTED] don't have to list your manuscripts as data, notes about the experiments fits better under documentation. 3. [REDACTED] [REDACTED] storage you mention PDX samples, are these patient derived xenografts? Please note that you now also need ethical approval for the use of human bodily material to be compliant with the biobank law, for more information see www.uzleuven.be/en/uz-kuleuven-biobank 4. [REDACTED] [REDACTED] you use the standards from the repositories you can indicate that you do use a standard (likely MINSEQE for sequencing). [REDACTED] good practice to already to already familiarize yourself with the metadata needed for deposit and collect this information along with your experiments, for example in a separate sheet in your excel file or in a readme file.",
+  "label": "good with suggestions"
+}

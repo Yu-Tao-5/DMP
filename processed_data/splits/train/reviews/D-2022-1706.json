@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2022-1706",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "BOF",
+  "ProjectTitle": "Investigation of the molecular mechanism by which iron availability in the mitochondria affect tolerance towards the anti fungal drug fluconazole in the human fungal pathogen Candida albicans",
+  "InitialFeedbackHistory": "20/04/2023\r\nData sharing info is a bit confusing, as you mention RDR as repository option, then NCBI for costs.\n\nSequencing data would be better suited for GEO / NCBI. Strain measurements / characteristics data can go to RDR.",
+  "label": "good with suggestions"
+}

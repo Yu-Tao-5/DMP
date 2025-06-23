@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1232",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Cytopenia and Autosomal Dominant Polycystic Kidney Disease (ADPKD)",
+  "InitialFeedbackHistory": "04/07/2022\r\n2. Data: you can also include your samples in the table, they are considered \"physical data\". \n4. Metadata: if you are using kws (or redcap) this also generates metadata that you may use and can mention here.  \n6. Preservation: please note that the guidelines from the UZL ethical committee recommend 25 years of data preservation. \n7. Sharing: you can also consider using a repository for sharing such as KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) RDR gives you data a DOI and metadata which makes it better findable and citable, but you can still restrict access if needed so others have to request access via the repository to view it.",
+  "label": "good with suggestions"
+}

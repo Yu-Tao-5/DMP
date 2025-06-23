@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1941",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Clinical, Immunological and Functional Study of ADA2 deficiency",
+  "InitialFeedbackHistory": "12/06/2023\r\nPlease be careful when sharing data from human subjects, if there is still a possibility to identify the subjects, which is often the case for sequencing data, use EGA (https://ega-archive.org/) or KU Leuven RDR (https://www.kuleuven.be/rdm/en/rdr). Make sure data sharing is included in the informed consent; contact dac@uzleuven.be before sharing your data of if you have any questions",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2024-2613",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Molecular characterization of rare lymphomas to uncover new biomarkers and treatment targets.",
+  "InitialFeedbackHistory": "03/04/2024\r\nEthics: please check the S number that you now mention, this normally consists of 5 numbers. \nSharing: for human data you can consider using EGA (https://ega-archive.org/) where data is kept under restricted access with standardized access request procedures via the KU/UZ Leuven data access committee: https://www.uzleuven.be/nl/dac. When you publish a dataset don't forget to register the metadata in LIRIAS so it will appear on your publication list (and in the future in the FWO report) see: https://research.kuleuven.be/en/associatienet/output/lirias/register-datasets-in-lirias",
+  "label": "good with suggestions"
+}

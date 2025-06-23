@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1012",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Improving outcomes in head and neck cancers.",
+  "InitialFeedbackHistory": "20/05/2022\r\n3. Personal data and Ethics: Your DMP provides a list of ethics approval numbers and laws, but many of these are rather old. Are these approvals still valid? Furthermore, do these approvals also cover the secondary use of the patient samples/data, did they undergo privacy review as required by the GDPR and are samples stored and registered according to the 2018 biobank legislation? Please ensure that all your work is covered by valid ethics protocols, for procedures see: www.kuleuven.be/english/research/ethics/committees\n4. Are you using KWS or Biobank metadata? Are CT images using the DICOM standard? \n6. Please note that data that is part of a clinical trail should be preserved for 25 years; the UZL ethics committee also recommends 25 years preservation of other data related an ethics protocol.\n7. Are you able to share all your data openly or is there still a risk of identifying participants which means you have to restrict access to your files? You can do that by using KU Leuven RDR (www.kuleuven.be/rdm/en/rdr) or some of the EBI repositories (www.ebi.ac.uk/submission/).",
+  "label": "good with suggestions"
+}

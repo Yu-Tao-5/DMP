@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2021-1235",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Human Neuronal Xenotransplants to Study the Contributions of Tau to Neurodegeneration in Alzheimer's Disease",
+  "InitialFeedbackHistory": "13/07/2022 4. [REDACTED] you mention sharing of omics data in EMBL-EBI or NCBI repositories, these will also apply metadata so best to read the submission guidelines already to decide which metadata to collect while doing the experiments. 6. [REDACTED] please note the KU [REDACTED] RDM policy recommends 10 year of preservation (www.kuleuven.be/rdm/en/policy) 7. [REDACTED] you mention many datasets and materials to share, are all of these relevant for you project, please describe in your final DMP that FWO expects at the end of your fellowship only what you actually shared resulting from this work. [REDACTED] don't have to mention your manuscripts here, the DMP focuses on the underlying data.",
+  "label": "good with suggestions"
+}

@@ -1,0 +1,9 @@
+{
+  "LinkTitle": "D-2023-1985",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "Funder": "FWO",
+  "ProjectTitle": "Elucidating the molecular dynamics of mammary tissue remodeling and tumor initiation using multiplexed biosensors in a novel branched mammary organoid system.",
+  "InitialFeedbackHistory": "27/03/2023\r\nPlease use the table for you data description in your future DMPs, add a row for each different dataset. \nSharing: Why do you indicate that you will share data under restricted acces while you list no factors restricting sharing? In life sciences many disciplinary repositories are available that may make your data more findable, have a look at EBI for example: https://www.ebi.ac.uk/submission/ if there is no suitable repository you can use RDR (https://www.kuleuven.be/rdm/en/rdr).\r\n\r\n14/03/2023\r\nData: please list all your different datasets in the table and include both digital data and physical data such samples, for more information see: https://www.kuleuven.be/rdm/en/guidance/data-standards.",
+  "label": "good with suggestions"
+}
