@@ -34,3 +34,22 @@ These files are **not included in the public repository due to privacy restricti
 
 **data_processing.ipynb**  
 Documents the **data cleaning, transformation, and structuring process** used to convert raw DMP documents into a machine-learning-ready dataset.
+
+---
+
+## 🧩 Dataset Schema
+
+Each DMP entry is structured as a JSON object with the following fields:
+
+| Field Name | Description |
+|------------|-------------|
+| `LinkTitle` | Unique identifier of the DMP (e.g., `D-2021-1000`) |
+| `ProjectTitle` | Title of the research project |
+| `Funder` | Name of the funding organization (e.g., `FWO`) |
+| `clean_full_text` | Cleaned full text extracted from the original DMP document |
+| `Status` | Submission status of the DMP (e.g., `Initial`) |
+| `InitialDMPReviewStatus` | Internal review status (e.g., `Reviewed`, `Pending`) |
+| `InitialFeedbackHistory` | Historical feedback notes (may be empty) |
+| `label` | Assigned classification label (e.g., `good`, `needs_changes`) |
+
+All fields are consistently included in each record to ensure a **training-ready structure for NLP models**.
