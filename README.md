@@ -1,23 +1,51 @@
-# DMP
+💾 DMP-MT: Processed Research Data Management Plans
 
-💾 DMP-MT: Annotated Research Data Management Plans (RDMs)
-This dataset consists of anonymized and labeled research data management plans (DMPs) from the DMP-MT project. Each entry includes project metadata, funding information, review feedback, and the full cleaned text of the original document.
+This repository contains the data processing pipeline and documentation for the DMP-MT project, which focuses on analyzing Research Data Management Plans (DMPs) from research projects.
 
-The dataset is structured for supervised machine learning tasks such as classification, feedback prediction, and document understanding in the research data management domain.
+The goal of this project is to support AI-assisted review and analysis of DMP documents, including tasks such as:
 
-🧩 Dataset Structure
-Each sample in the dataset is a JSON object with the following fields:
+document classification
+
+feedback prediction
+
+document understanding in the Research Data Management (RDM) domain
+
+Due to privacy and confidentiality constraints, the processed dataset itself cannot be publicly shared.
+This repository therefore provides the data processing workflow and dataset schema used in the project.
+
+📂 Repository Structure
+.
+├── Org_Data/           # Original raw DMP documents and source materials
+├── processed_data/     # Cleaned and structured dataset (not publicly shared)
+├── data_processing.ipynb  # Notebook for dataset preprocessing and transformation
+└── README.md
+Folder Description
+
+Org_Data/
+Contains the original collected data sources related to DMP documents before preprocessing.
+
+processed_data/
+Contains the cleaned and structured dataset used for machine learning experiments.
+These files are not included in the public repository due to privacy restrictions.
+
+data_processing.ipynb
+Notebook that documents the data cleaning, transformation, and structuring process used to convert raw DMP documents into a machine-learning-ready dataset.
+
+🧩 Dataset Schema
+
+Each DMP entry is structured as a JSON object with the following fields:
 
 Field Name	Description
-LinkTitle	Unique identifier of the DMP (e.g., "D-2021-1000")
+LinkTitle	Unique identifier of the DMP (e.g., D-2021-1000)
 ProjectTitle	Title of the research project
-Funder	Name of the funding organization (e.g., "FWO")
-clean_full_text	Cleaned and extracted full text content of the DMP
-Status	Submission status of the DMP (e.g., "Initial")
-InitialDMPReviewStatus	Internal review status (e.g., "Reviewed", "Pending")
-InitialFeedbackHistory	Text field capturing historical feedback notes (may be empty but included)
-label	Assigned classification label (e.g., "good", "needs_changes", etc.)
-All fields are consistently included per record to ensure training-ready structure for NLP models.
+Funder	Name of the funding organization (e.g., FWO)
+clean_full_text	Cleaned full text extracted from the original DMP document
+Status	Submission status of the DMP (e.g., Initial)
+InitialDMPReviewStatus	Internal review status (e.g., Reviewed, Pending)
+InitialFeedbackHistory	Historical feedback notes (may be empty)
+label	Assigned classification label (e.g., good, needs_changes)
+
+All fields are consistently included in each record to ensure a training-ready structure for NLP models.
 
 📊 Example Entry
 {
@@ -32,16 +60,27 @@ All fields are consistently included per record to ensure training-ready structu
 }
 
 🤖 Intended Use
-This dataset can be used for:
 
-Fine-tuning classification models (e.g., quality labeling of DMPs)
+This dataset structure supports research tasks such as:
 
-Document understanding and extraction tasks
+DMP quality classification
 
-Research on open science, FAIR data practices, or metadata enrichment
+Automated review assistance for Research Data Management Plans
 
-🔐 Data Notes
-All documents have been anonymized to remove personally identifiable information. Feedback history may be empty but is preserved to maintain a consistent schema.
+Document understanding in the RDM domain
 
-📚 Citation
-@dataset{dmp_mt_2025, title = {DMP-MT: Annotated Research Data Management Plans}, author = {Yu Tao et al.}, year = {2025}, publisher = {Hugging Face}, url = {https://huggingface.co/datasets//} }
+Studies on FAIR data practices and research data governance
+
+🔐 Data Availability
+
+The processed dataset contains sensitive institutional documents and therefore cannot be publicly released.
+
+This repository only provides:
+
+the data processing pipeline
+
+the dataset schema
+
+documentation of the data preparation workflow
+
+Researchers interested in Research Data Management Plan analysis may use the provided structure to build their own datasets.
