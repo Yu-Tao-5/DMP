@@ -8,12 +8,6 @@ The goal of this project is to support **AI-assisted review and analysis of DMP 
 - feedback prediction
 - document understanding in the **Research Data Management (RDM)** domain
 
-- ---
-
-## 🔐 Data Availability
-
-Due to **privacy and confidentiality constraints**, the processed dataset itself **cannot be publicly shared**. This repository therefore provides the **data processing workflow, project structure, and dataset schema** used in the project.
-
 ---
 
 ## 📂 Repository Structure
@@ -73,3 +67,10 @@ All fields are consistently included in each record to ensure a **training-ready
   "InitialFeedbackHistory": "",
   "label": "good"
 }```
+
+- ---
+
+## 🔐 Data Availability
+
+Due to **privacy and confidentiality constraints**, the processed dataset itself **cannot be publicly shared**. This repository therefore provides the **data processing workflow, project structure, and dataset schema** used in the project.
+
