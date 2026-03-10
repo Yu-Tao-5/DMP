@@ -15,8 +15,8 @@ The goal of this project is to support **AI-assisted review and analysis of DMP 
 ```bash
 .
 ├── Org_Data/              # Original raw DMP documents and source materials
-├── processed_data/        # Cleaned and structured dataset (not publicly shared)
-├── data_processing.ipynb  # Notebook for dataset preprocessing and transformation
+├── processed_data/        # Cleaned and structured DMP documents
+├── data_processing.ipynb  # Notebook for dataset preprocessing and transformation the DMP documents to the JSON ready dataset
 └── README.md
 ```
 ---
@@ -27,8 +27,8 @@ The goal of this project is to support **AI-assisted review and analysis of DMP 
 Contains the **original collected data sources** related to DMP documents before preprocessing.
 
 **processed_data/**  
-Contains the **cleaned and structured dataset** used for machine learning experiments.  
-These files are **not included in the public repository due to privacy restrictions**.
+Contains the **cleaned DMP documents and structured JSON files** used for machine learning experiments.  
+The transformed dataset files are **not included in the public repository due to privacy restrictions**.
 
 **data_processing.ipynb**  
 Documents the **data cleaning, transformation, and structuring process** used to convert raw DMP documents into a machine-learning-ready dataset.
