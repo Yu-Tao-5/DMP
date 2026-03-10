@@ -35,6 +35,71 @@ Documents the **data cleaning, transformation, and structuring process** used to
 
 ---
 
+## ⚙️ Data Processing Pipeline
+
+The dataset was constructed through a multi-stage preprocessing pipeline...
+
+Raw DMP Documents
+        ↓
+PDF Standardization
+        ↓
+PDF → JSON Parsing
+        ↓
+Feedback Integration
+        ↓
+Label Assignment
+        ↓
+Dataset Construction
+        ↓
+Train / Dev / Test
+        ↓
+Hugging Face Dataset
+
+### Step 1: Pre-Setting
+...
+
+The dataset was constructed through a multi-stage preprocessing pipeline to transform heterogeneous DMP documents and review records into a structured dataset suitable for machine learning.
+
+The overall workflow is summarized below.
+
+### Step 1: Pre-Setting
+Initial environment setup, including directory structure, library imports, and configuration of processing parameters.
+
+### Step 2: Standardize All Initial Files into PDFs
+Original DMP documents were collected in multiple formats (e.g., Word, PDF).  
+All files were standardized into **PDF format** to ensure consistent downstream processing.
+
+### Step 3: Convert All PDFs to JSON (Unstructured)
+Each PDF was processed using a document parsing tool to extract text and structural information.  
+The outputs were stored as **JSON files**, preserving paragraph-level text content.
+
+### Step 4: Analyze Feedback and Assign Labels to Original Data
+
+#### 4.1 Explore the raw feedback `json.txt` file
+Inspection of the original feedback data exported from the internal review system.
+
+#### 4.2 Merge Excel Columns into JSON & Inspect `InitialDMPReviewStatus`
+Feedback data from Excel tables was merged with JSON records to associate each DMP with its corresponding review information.
+
+#### 4.3 Filter and Generate Review JSON Files
+Filtering of relevant feedback fields and generation of structured review JSON files.
+
+#### 4.4 Resolve Status Discrepancies
+Comparison between the **original JSON metadata** and the **Excel review records** to resolve inconsistencies and produce the final review dataset.
+
+### Step 5: Build Dataset Records and Split into Train/Dev/Test
+After cleaning and merging all sources, the dataset was structured into machine-learning-ready records and split into:
+
+- Training set
+- Development set
+- Test set
+
+### Step 6: Ready for Hugging Face Dataset
+The final dataset format follows the **Hugging Face dataset schema**, making it directly compatible with NLP model training and evaluation pipelines.
+
+
+---
+
 ## 🧩 Dataset Schema
 
 Each DMP entry is structured as a JSON object with the following fields:
@@ -68,7 +133,6 @@ All fields are consistently included in each record to ensure a **training-ready
   "label": "good"
 }
 ```
-
 - ---
 
 ## 🔐 Data Availability
