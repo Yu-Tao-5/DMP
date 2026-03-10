@@ -8,6 +8,10 @@ The goal of this project is to support **AI-assisted review and analysis of DMP 
 - feedback prediction
 - document understanding in the **Research Data Management (RDM)** domain
 
+- ---
+
+## 🔐 Data Availability
+
 Due to **privacy and confidentiality constraints**, the processed dataset itself **cannot be publicly shared**. This repository therefore provides the **data processing workflow, project structure, and dataset schema** used in the project.
 
 ---
@@ -20,7 +24,7 @@ Due to **privacy and confidentiality constraints**, the processed dataset itself
 ├── processed_data/        # Cleaned and structured dataset (not publicly shared)
 ├── data_processing.ipynb  # Notebook for dataset preprocessing and transformation
 └── README.md
-
+```
 ---
 
 ## Folder Description
@@ -53,3 +57,19 @@ Each DMP entry is structured as a JSON object with the following fields:
 | `label` | Assigned classification label (e.g., `good`, `needs_changes`) |
 
 All fields are consistently included in each record to ensure a **training-ready structure for NLP models**.
+
+---
+
+## 📊 Example Entry
+
+```json
+{
+  "LinkTitle": "D-2021-1000",
+  "ProjectTitle": "Rational design of biologics for therapeutic development (FoldCo)",
+  "Funder": "FWO",
+  "clean_full_text": "This project will explore the use of biologics in therapeutic settings...",
+  "Status": "Initial",
+  "InitialDMPReviewStatus": "Reviewed",
+  "InitialFeedbackHistory": "",
+  "label": "good"
+}```
