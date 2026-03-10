@@ -37,27 +37,6 @@ Documents the **data cleaning, transformation, and structuring process** used to
 
 ## ⚙️ Data Processing Pipeline
 
-The dataset was constructed through a multi-stage preprocessing pipeline...
-
-Raw DMP Documents
-        ↓
-PDF Standardization
-        ↓
-PDF → JSON Parsing
-        ↓
-Feedback Integration
-        ↓
-Label Assignment
-        ↓
-Dataset Construction
-        ↓
-Train / Dev / Test
-        ↓
-Hugging Face Dataset
-
-### Step 1: Pre-Setting
-...
-
 The dataset was constructed through a multi-stage preprocessing pipeline to transform heterogeneous DMP documents and review records into a structured dataset suitable for machine learning.
 
 The overall workflow is summarized below.
@@ -96,7 +75,6 @@ After cleaning and merging all sources, the dataset was structured into machine-
 
 ### Step 6: Ready for Hugging Face Dataset
 The final dataset format follows the **Hugging Face dataset schema**, making it directly compatible with NLP model training and evaluation pipelines.
-
 
 ---
 
